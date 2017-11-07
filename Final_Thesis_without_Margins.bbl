@@ -1,0 +1,718 @@
+\begin{thebibliography}{}
+
+\bibitem[Abiola et~al., 2003]{Abiola2003identification}
+Abiola, O., Angel, J.~M., Avner, P., Bachmanov, A.~A., Belknap, J.~K., Bennett,
+  B., Blankenhorn, E.~P., Blizard, D.~A., Bolivar, V., Brockmann, G.~A., Buck,
+  K.~J., Bureau, J.-F., Casley, W.~L., Chesler, E.~J., Cheverud, J.~M.,
+  Churchill, G.~A., Cook, M., Crabbe, J.~C., Crusio, W.~E., Darvasi, A.,
+  de~Haan, G., Dermant, P., Doerge, R.~W., Elliot, R.~W., Farber, C.~R.,
+  Flaherty, L., Flint, J., Gershenfeld, H., Gibson, J.~P., Gu, J., Gu, W.,
+  Himmelbauer, H., Hitzemann, R., Hsu, H.-C., Hunter, K., Iraqi, F.~F., Jansen,
+  R.~C., Johnson, T.~E., Jones, B.~C., Kempermann, G., Lammert, F., Lu, L.,
+  Manly, K.~F., Matthews, D.~B., Medrano, J.~F., Mehrabian, M., Mittlemann, G.,
+  Mock, B.~A., Mogil, J.~S., Montagutelli, X., Morahan, G., Mountz, J.~D.,
+  Nagase, H., Nowakowski, R.~S., O'Hara, B.~F., Osadchuk, A.~V., Paigen, B.,
+  Palmer, A.~A., Peirce, J.~L., Pomp, D., Rosemann, M., Rosen, G.~D.,
+  Schalkwyk, L.~C., Seltzer, Z., Settle, S., Shimomura, K., Shou, S., Sikela,
+  J.~M., Siracusa, L.~D., Spearow, J.~L., Teuscher, C., Threadgill, D.~W.,
+  Toth, L.~A., Toye, A.~A., Vadasz, C., {Van Zant}, G., Wakeland, E., Williams,
+  R.~W., Zhang, H.-G., Zou, F., and {Complex Trait Consortium} (2003).
+\newblock {The nature and identification of quantitative trait loci: a
+  community's view.}
+\newblock {\em Nature reviews. Genetics}, 4(11):911--6.
+
+\bibitem[{Agilent Technologies}, 2017]{AgilentTechnologies2017}
+{Agilent Technologies} (2017).
+\newblock {Agilent | 6550 iFunnel Q-TOF LC/MS system video}.
+
+\bibitem[Aksenov et~al., 2017]{Aksenov2017GlobalSpectrometry}
+Aksenov, A.~A., da~Silva, R., Knight, R., Lopes, N.~P., and Dorrestein, P.~C.
+  (2017).
+\newblock Global chemical analysis of biology by mass spectrometry.
+\newblock {\em Nature Reviews Chemistry}, 1(7):s41570--017.
+
+\bibitem[Andreux et~al., 2012]{Andreux2012SystemsTraits}
+Andreux, P., Williams, E., Koutnikova, H., Houtkooper, R., Champy, M.-F.,
+  Henry, H., Schoonjans, K., Williams, R., and Auwerx, J. (2012).
+\newblock {Systems Genetics of Metabolism: The Use of the BXD Murine Reference
+  Panel for Multiscalar Integration of Traits}.
+\newblock {\em Cell}, 150(6):1287--1299.
+
+\bibitem[Anton et~al., 2015]{Anton2015PreAnalytical}
+Anton, G., Wilson, R., Yu, Z.-h., Prehn, C., Zukunft, S., Adamski, J., Heier,
+  M., Meisinger, C., R{\"{o}}misch-Margl, W., Wang-Sattler, R., Hveem, K.,
+  Wolfenbuttel, B., Peters, A., Kastenm{\"{u}}ller, G., and Waldenberger, M.
+  (2015).
+\newblock {Pre-Analytical Sample Quality: Metabolite Ratios as an Intrinsic
+  Marker for Prolonged Room Temperature Exposure of Serum Samples}.
+\newblock {\em PLOS ONE}, 10(3):e0121495.
+
+\bibitem[Bailey et~al., 1998]{Bailey1998Mechanisms}
+Bailey, A.~J., Paul, R.~G., and Knott, L. (1998).
+\newblock {Mechanisms of maturation and ageing of collagen.}
+\newblock {\em Mechanisms of ageing and development}, 106(1-2):1--56.
+
+\bibitem[Bateman et~al., 2014]{Bateman2014MaximizingDDA.}
+Bateman, N.~W., Goulding, S.~P., Shulman, N.~J., Gadok, A.~K., Szumlinski,
+  K.~K., MacCoss, M.~J., and Wu, C.~C. (2014).
+\newblock {Maximizing peptide identification events in proteomic workflows
+  using data-dependent acquisition (DDA).}
+\newblock {\em Molecular {\&} cellular proteomics : MCP}, 13(1):329--38.
+
+\bibitem[Beard et~al., 2002]{Beard2002}
+Beard, D.~A., Liang, S.-d., Qian, H., Palsson, B., Barab{\'{a}}si, A.-L., and
+  Tramper, J. (2002).
+\newblock {Energy balance for analysis of complex metabolic networks.}
+\newblock {\em Biophysical journal}, 83(1):79--86.
+
+\bibitem[Becker and Lowe, 2003]{Becker2003Fucose}
+Becker, D.~J. and Lowe, J.~B. (2003).
+\newblock {Fucose: biosynthesis and biological function in mammals}.
+\newblock {\em Glycobiology}, 13(7):41R--53R.
+
+\bibitem[Bolstad et~al., 2003]{Bolstad2003}
+Bolstad, B.~M., Irizarry, R.~A., Astrand, M., and Speed, T.~P. (2003).
+\newblock {A comparison of normalization methods for high density
+  oligonucleotide array data based on variance and bias.}
+\newblock {\em Bioinformatics (Oxford, England)}, 19(2):185--93.
+
+\bibitem[Broman and Sen, 2009]{Broman2009AR/qtl}
+Broman, K.~W. and Sen, S. (2009).
+\newblock A guide to qtl mapping with r/qtl.
+\newblock volume~46. Springer.
+
+\bibitem[Bruderer et~al., 2016]{Bruderer2016HighprecisioniRT}
+Bruderer, R., Bernhardt, O.~M., Gandhi, T., and Reiter, L. (2016).
+\newblock {High-precision iRT prediction in the targeted analysis of
+  data-independent acquisition and its impact on identification and
+  quantitation.}
+\newblock {\em Proteomics}, 16(15-16):2246--56.
+
+\bibitem[Cani et~al., 2009]{Cani2009}
+Cani, P., Delzenne, N., Cloarec, O., Coen, M., Tang, H., Gieger, C., Chang, D.,
+  Milburn, M.~V., Gall, W.~E., Weinberger, K.~M., Mewes, H.-W., de~Angelis,
+  M.~H., Wichmann, H.-E., Kronenberg, F., Adamski, J., and Illig, T. (2009).
+\newblock {The role of the gut microbiota in energy metabolism and metabolic
+  disease.}
+\newblock {\em Curr Pharm Des}, 15(11):e13953.
+
+\bibitem[Civelek and Lusis, 2014]{Civelek2014SystemsTraits}
+Civelek, M. and Lusis, A.~J. (2014).
+\newblock {Systems genetics approaches to understand complex traits.}
+\newblock {\em Nature reviews. Genetics}, 15(1):34--48.
+
+\bibitem[Collaborative Cross~Consortium,
+  2012]{CollaborativeCrossConsortium2012ThePopulation.}
+Collaborative Cross~Consortium, C.~C. (2012).
+\newblock {The genome architecture of the Collaborative Cross mouse genetic
+  reference population.}
+\newblock {\em Genetics}, 190(2):389--401.
+
+\bibitem[Czyz et~al., 2012]{Czyz2012Geneticdifferences}
+Czyz, W., Morahan, J.~M., Ebers, G.~C., and Ramagopalan, S.~V. (2012).
+\newblock {Genetic, environmental and stochastic factors in monozygotic twin
+  discordance with a focus on epigenetic differences.}
+\newblock {\em BMC medicine}, 10:93.
+
+\bibitem[De~Godoy et~al., 2008]{deGodoy2008ComprehensiveYeast}
+De~Godoy, L.~M., Olsen, J.~V., Cox, J., Nielsen, M.~L., Hubner, N.~C.,
+  Fr{\"o}hlich, F., Walther, T.~C., and Mann, M. (2008).
+\newblock Comprehensive mass-spectrometry-based proteome quantification of
+  haploid versus diploid yeast.
+\newblock {\em Nature}, 455(7217):1251.
+
+\bibitem[Domalain et~al., 2014]{Domalain2014EnantiomericSpectrometry}
+Domalain, V., Hubert-Roux, M., Tognetti, V., Joubert, L., Lange, C.~M., Rouden,
+  J., and Afonso, C. (2014).
+\newblock Enantiomeric differentiation of aromatic amino acids using traveling
+  wave ion mobility-mass spectrometry.
+\newblock {\em Chemical Science}, 5(8):3234--3239.
+
+\bibitem[Dumas, 2012]{Dumas2012}
+Dumas, M.-E. (2012).
+\newblock {Metabolome 2.0: quantitative genetics and network biology of
+  metabolic phenotypes}.
+\newblock {\em Molecular BioSystems}, 8(10):2494.
+
+\bibitem[Durbin et~al., 2002]{Durbin2002}
+Durbin, B.~P., Hardin, J.~S., Hawkins, D.~M., and Rocke, D.~M. (2002).
+\newblock {A variance-stabilizing transformation for gene-expression microarray
+  data}.
+\newblock {\em BIOINFORMATICS}, 18(1):105--110.
+
+\bibitem[Elias and Gygi, 2007]{Elias2007Target-decoySpectrometry}
+Elias, J.~E. and Gygi, S.~P. (2007).
+\newblock Target-decoy search strategy for increased confidence in large-scale
+  protein identifications by mass spectrometry.
+\newblock {\em Nature methods}, 4(3):207.
+
+\bibitem[Eng et~al., 2013]{Eng2013Comettool}
+Eng, J.~K., Jahan, T.~A., and Hoopmann, M.~R. (2013).
+\newblock {Comet: An open-source MS/MS sequence database search tool}.
+\newblock {\em PROTEOMICS}, 13(1):22--24.
+
+\bibitem[Escher et~al., 2012]{Escher2012UsingPeptides.}
+Escher, C., Reiter, L., MacLean, B., Ossola, R., Herzog, F., Chilton, J.,
+  MacCoss, M.~J., and Rinner, O. (2012).
+\newblock {Using iRT, a normalized retention time for more targeted measurement
+  of peptides.}
+\newblock {\em Proteomics}, 12(8):1111--21.
+
+\bibitem[Falconer and Mackay, 1996]{Falconer1996IntroductionGenetics}
+Falconer, D. S. D.~S. and Mackay, T. F.~C. (1996).
+\newblock {\em {Introduction to quantitative genetics}}.
+\newblock Longman.
+
+\bibitem[Fang et~al., 2015]{FangThermalInvestigation}
+Fang, M., Ivanisevic, J., Benton, H.~P., Johnson, C.~H., Patti, G.~J., Hoang,
+  L.~T., Uritboonthai, W., Kurczy, M.~E., and Siuzdak, G. (2015).
+\newblock {Thermal Degradation of Small Molecules: A Global Metabolomic
+  Investigation}.
+\newblock {\em Analytical Chemistry}, 87(21):10935--10941.
+
+\bibitem[Fernstrom, 1983]{Fernstrom1983}
+Fernstrom, J.~D. (1983).
+\newblock {Role of precursor availability in control of monoamine biosynthesis
+  in brain.}
+\newblock {\em Physiological reviews}, 63(2):484--546.
+
+\bibitem[FGCZ, 2017]{FGCZ2017MetabolomicsZurich}
+FGCZ (2017).
+
+\bibitem[Ghose et~al., 2011]{Ghose2011HFD}
+Ghose, R., Omoluabi, O., Gandhi, A., Shah, P., Strohacker, K., Carpenter,
+  K.~C., McFarlin, B., and Guo, T. (2011).
+\newblock {Role of high-fat diet in regulation of gene expression of drug
+  metabolizing enzymes and transporters.}
+\newblock {\em Life sciences}, 89(1-2):57--64.
+
+\bibitem[Gillet et~al., 2012]{Gillet2012TargetedAnalysis}
+Gillet, L.~C., Navarro, P., Tate, S., R{\"o}st, H., Selevsek, N., Reiter, L.,
+  Bonner, R., and Aebersold, R. (2012).
+\newblock Targeted data extraction of the ms/ms spectra generated by
+  data-independent acquisition: a new concept for consistent and accurate
+  proteome analysis.
+\newblock {\em Molecular \& Cellular Proteomics}, 11(6):O111--016717.
+
+\bibitem[Glish and Vachet, 2003]{Glish2003TheCentury}
+Glish, G.~L. and Vachet, R.~W. (2003).
+\newblock The basics of mass spectrometry in the twenty-first century.
+\newblock {\em Nature reviews. Drug discovery}, 2(2):140.
+
+\bibitem[Goel and Abhilasha, 2017]{Goel2017RandomForest}
+Goel, E. and Abhilasha, E. (2017).
+\newblock {International Journal of Advanced Research in Computer Science and
+  Software Engineering Random Forest: A Review}.
+\newblock 7(1).
+
+\bibitem[Goncalves et~al., 2016]{Goncalves2016Production}
+Goncalves, R.~L., Bunik, V.~I., and Brand, M.~D. (2016).
+\newblock {Production of superoxide/hydrogen peroxide by the mitochondrial
+  2-oxoadipate dehydrogenase complex}.
+\newblock {\em Free Radical Biology and Medicine}, 91:247--255.
+
+\bibitem[Goodner et~al., 1998]{Goodner1998QuantitationSpectrometry}
+Goodner, K.~L., Milgram, K.~E., Williams, K.~R., Watson, C.~H., and Eyler,
+  J.~R. (1998).
+\newblock Quantitation of ion abundances in fourier transform ion cyclotron
+  resonance mass spectrometry.
+\newblock {\em Journal of the American Society for Mass Spectrometry},
+  9(11):1204--1212.
+
+\bibitem[Hajian-Tilaki, 2013]{HajianTilaki2013}
+Hajian-Tilaki, K. (2013).
+\newblock {Receiver Operating Characteristic (ROC) Curve Analysis for Medical
+  Diagnostic Test Evaluation.}
+\newblock {\em Caspian journal of internal medicine}, 4(2):627--35.
+
+\bibitem[Hartwell et~al., 1999]{Hartwell1999FromBiology}
+Hartwell, L.~H., Hopfield, J.~J., Leibler, S., Murray, A.~W., et~al. (1999).
+\newblock From molecular to modular cell biology.
+\newblock {\em Nature}, 402(6761):C47.
+
+\bibitem[Haynes et~al., 2009]{Haynes2009Sphingolipidomics:Sphingolipids}
+Haynes, C.~A., Allegood, J.~C., Park, H., and Sullards, M.~C. (2009).
+\newblock Sphingolipidomics: methods for the comprehensive analysis of
+  sphingolipids.
+\newblock {\em Journal of Chromatography B}, 877(26):2696--2708.
+
+\bibitem[Higashino et~al., 1965]{Higashino1965Saccharopine}
+Higashino, K., Tsukada, K., and Lieberman, I. (1965).
+\newblock {Saccharopine, a product of lysine breakdown by mammalian liver}.
+\newblock {\em Biochemical and Biophysical Research Communications},
+  20(3):285--290.
+
+\bibitem[Hu et~al., 2009]{Hu2009AnalyticalDiscovery}
+Hu, C., van~der Heijden, R., Wang, M., van~der Greef, J., Hankemeier, T., and
+  Xu, G. (2009).
+\newblock Analytical strategies in lipidomics and applications in disease
+  biomarker discovery.
+\newblock {\em Journal of Chromatography B}, 877(26):2836--2846.
+
+\bibitem[Irizarry et~al., 2003a]{Irizarry2003}
+Irizarry, R.~A., Bolstad, B.~M., Collin, F., Cope, L.~M., Hobbs, B., and Speed,
+  T.~P. (2003a).
+\newblock {Summaries of Affymetrix GeneChip probe level data.}
+\newblock {\em Nucleic acids research}, 31(4):e15.
+
+\bibitem[Irizarry et~al., 2003b]{Irizarry2003a}
+Irizarry, R.~A., Hobbs, B., Collin, F., Beazer-Barclay, Y.~D., Antonellis,
+  K.~J., Scherf, U., and Speed, T.~P. (2003b).
+\newblock {Exploration, normalization, and summaries of high density
+  oligonucleotide array probe level data}.
+\newblock {\em Biostatistics}, 4(2):249--264.
+
+\bibitem[{Joe Pinsker}, 2013]{JOEPINSKER2013}
+{Joe Pinsker} (2013).
+\newblock {Why We Live 40 Years Longer Today Than We Did in 1880 - The
+  Atlantic}.
+
+\bibitem[Johnson and O'Donnell, 2009]{Johnson2009AnResults.}
+Johnson, A.~D. and O'Donnell, C.~J. (2009).
+\newblock {An open access database of genome-wide association results.}
+\newblock {\em BMC medical genetics}, 10:6.
+
+\bibitem[Kafri et~al., 2006]{Kafri2006Thecircuits}
+Kafri, R., Levy, M., and Pilpel, Y. (2006).
+\newblock {The regulatory utilization of genetic redundancy through responsive
+  backup circuits.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 103(31):11653--8.
+
+\bibitem[Kalueff et~al., 2006]{Kalueff2006HairResearch}
+Kalueff, A., Minasyan, A., Keisala, T., Shah, Z., and Tuohimaa, P. (2006).
+\newblock Hair barbering in mice: implications for neurobehavioural research.
+\newblock {\em Behavioural processes}, 71(1):8--15.
+
+\bibitem[Kanehisa et~al., 2017]{Kanehisa2017}
+Kanehisa, M., Furumichi, M., Tanabe, M., Sato, Y., and Morishima, K. (2017).
+\newblock {KEGG: new perspectives on genomes, pathways, diseases and drugs}.
+\newblock {\em Nucleic Acids Research}, 45(D1):D353--D361.
+
+\bibitem[Kessner et~al., 2008]{Kessner2008ProteoWizard:Development}
+Kessner, D., Chambers, M., Burke, R., Agus, D., and Mallick, P. (2008).
+\newblock Proteowizard: open source software for rapid proteomics tools
+  development.
+\newblock {\em Bioinformatics}, 24(21):2534--2536.
+
+\bibitem[Kissen et~al., 2016]{Kissen2016Allylisothiocyanate}
+Kissen, R., {\O}verby, A., Winge, P., and Bones, A.~M. (2016).
+\newblock {Allyl-isothiocyanate treatment induces a complex transcriptional
+  reprogramming including heat stress, oxidative stress and plant defence
+  responses in Arabidopsis thaliana}.
+\newblock {\em BMC Genomics}, 17(1):740.
+
+\bibitem[Lam et~al., 2008]{Lam2008BuildingProteomics}
+Lam, H., Deutsch, E.~W., Eddes, J.~S., Eng, J.~K., Stein, S.~E., and Aebersold,
+  R. (2008).
+\newblock Building consensus spectral libraries for peptide identification in
+  proteomics.
+\newblock {\em Nature methods}, 5(10):873--875.
+
+\bibitem[Lange et~al., 2008]{Lange2008SelectedTutorial.}
+Lange, V., Picotti, P., Domon, B., and Aebersold, R. (2008).
+\newblock {Selected reaction monitoring for quantitative proteomics: a
+  tutorial.}
+\newblock {\em Molecular systems biology}, 4:222.
+
+\bibitem[Leek et~al., 2010]{Leek2010TacklingBatchEffects}
+Leek, J.~T., Scharpf, R.~B., Bravo, H.~C., Simcha, D., Langmead, B., Johnson,
+  W.~E., Geman, D., Baggerly, K., and Irizarry, R.~A. (2010).
+\newblock {Tackling the widespread and critical impact of batch effects in
+  high-throughput data}.
+\newblock {\em Nature Reviews Genetics}, 11(10):733--739.
+
+\bibitem[Li et~al., 2010]{Li2010Vernonia}
+Li, R., Yu, K., Hatanaka, T., and Hildebrand, D.~F. (2010).
+\newblock {{\textless}i{\textgreater}Vernonia{\textless}/i{\textgreater} DGATs
+  increase accumulation of epoxy fatty acids in oil}.
+\newblock {\em Plant Biotechnology Journal}, 8(2):184--195.
+
+\bibitem[Liu et~al., 2013]{Liu2013QuantitativeSWATH-MS}
+Liu, Y., H{\"{u}}ttenhain, R., Surinova, S., Gillet, L.~C., Mouritsen, J.,
+  Brunner, R., Navarro, P., and Aebersold, R. (2013).
+\newblock {Quantitative measurements of <i>N</i> -linked glycoproteins in human
+  plasma by SWATH-MS}.
+\newblock {\em PROTEOMICS}, 13(8):1247--1256.
+
+\bibitem[Lorenz et~al., 2010]{Lorenz2010Performancebarley}
+Lorenz, A.~J., Hamblin, M.~T., and Jannink, J.-L. (2010).
+\newblock {Performance of single nucleotide polymorphisms versus haplotypes for
+  genome-wide association analysis in barley.}
+\newblock {\em PloS one}, 5(11):e14079.
+
+\bibitem[Mackay et~al., 2009]{Mackay2009TheProspects}
+Mackay, T. F.~C., Stone, E.~A., and Ayroles, J.~F. (2009).
+\newblock {The genetics of quantitative traits: challenges and prospects}.
+\newblock {\em Nature Reviews Genetics}, 10(8):565--577.
+
+\bibitem[Mackenbach, 2007]{Mackenbach2007}
+Mackenbach, J.~P. (2007).
+\newblock {Sanitation: pragmatism works}.
+\newblock {\em BMJ}, 334(suppl{\_}1):s17--s17.
+
+\bibitem[Miller and Tang, 2009]{Miller2009MicroArrays}
+Miller, M.~B. and Tang, Y.-W. (2009).
+\newblock {Basic concepts of microarrays and potential applications in clinical
+  microbiology.}
+\newblock {\em Clinical microbiology reviews}, 22(4):611--33.
+
+\bibitem[Moffat et~al., 2017]{Moffat2017a}
+Moffat, J.~G., Vincent, F., Lee, J.~A., Eder, J., and Prunotto, M. (2017).
+\newblock {Opportunities and challenges in phenotypic drug discovery: an
+  industry perspective}.
+\newblock {\em Nature Reviews Drug Discovery}, 16(8):531--543.
+
+\bibitem[Mulligan et~al., 2017]{Mulligan2017GeneNetworkGenetics}
+Mulligan, M.~K., Mozhui, K., Prins, P., and Williams, R.~W. (2017).
+\newblock {GeneNetwork: A Toolbox for Systems Genetics}.
+\newblock In {\em Methods in molecular biology (Clifton, N.J.)}, volume 1488,
+  pages 75--120.
+
+\bibitem[Mushtaq et~al., 2014]{Mushtaq2014ExtractionMetabolome}
+Mushtaq, M.~Y., Choi, Y.~H., Verpoorte, R., and Wilson, E.~G. (2014).
+\newblock {Extraction for Metabolomics: Access to The Metabolome}.
+\newblock {\em Phytochemical Analysis}, 25(4):291--306.
+
+\bibitem[Nagaraj et~al., 2011]{Nagaraj2011DeepLine.}
+Nagaraj, N., Wisniewski, J.~R., Geiger, T., Cox, J., Kircher, M., Kelso, J.,
+  P{\"{a}}{\"{a}}bo, S., and Mann, M. (2011).
+\newblock {Deep proteome and transcriptome mapping of a human cancer cell
+  line.}
+\newblock {\em Molecular systems biology}, 7:548.
+
+\bibitem[Nilsson et~al., 2015]{Nilsson2015MeasurementSpectrometry}
+Nilsson, M.~E., Vandenput, L., Tivesten, s., Norl{\'{e}}n, A.-K., Lagerquist,
+  M.~K., Windahl, S.~H., B{\"{o}}rjesson, A.~E., Farman, H.~H., Poutanen, M.,
+  Benrick, A., Maliqueo, M., Stener-Victorin, E., Ryberg, H., and Ohlsson, C.
+  (2015).
+\newblock {Measurement of a Comprehensive Sex Steroid Profile in Rodent Serum
+  by High-Sensitive Gas Chromatography-Tandem Mass Spectrometry}.
+\newblock {\em Endocrinology}, 156(7):2492--2502.
+
+\bibitem[Paltiel et~al., 2008]{Paltiel2008}
+Paltiel, L., R{\o}nningen, K.~S., Meltzer, H.~M., Baker, S.~V., and Hoppin,
+  J.~A. (2008).
+\newblock {Evaluation of Freeze Thaw Cycles on stored plasma in the Biobank of
+  the Norwegian Mother and Child Cohort Study.}
+\newblock {\em Cell preservation technology}, 6(3):223--230.
+
+\bibitem[Picotti and Aebersold, 2012]{Picotti2012SelectedDirections}
+Picotti, P. and Aebersold, R. (2012).
+\newblock Selected reaction monitoring-based proteomics: workflows, potential,
+  pitfalls and future directions.
+\newblock {\em Nature methods}, 9(6):555--566.
+
+\bibitem[Pregitzer et~al., 2013]{Pregitzer2013GeneticLinkages.}
+Pregitzer, C.~C., Bailey, J.~K., and Schweitzer, J.~A. (2013).
+\newblock {Genetic by environment interactions affect plant-soil linkages.}
+\newblock {\em Ecology and evolution}, 3(7):2322--33.
+
+\bibitem[Reiter et~al., 2009]{Reiter2009ProteinSpectrometry}
+Reiter, L., Claassen, M., Schrimpf, S.~P., Jovanovic, M., Schmidt, A., Buhmann,
+  J.~M., Hengartner, M.~O., and Aebersold, R. (2009).
+\newblock Protein identification false discovery rates for very large
+  proteomics data sets generated by tandem mass spectrometry.
+\newblock {\em Molecular \& Cellular Proteomics}, 8(11):2405--2417.
+
+\bibitem[Richards et~al., 2015]{Richards2015ProteomeDeep.}
+Richards, A.~L., Merrill, A.~E., and Coon, J.~J. (2015).
+\newblock {Proteome sequencing goes deep.}
+\newblock {\em Current opinion in chemical biology}, 24:11--7.
+
+\bibitem[Rio et~al., 2010]{Rio2010TRIzol}
+Rio, D.~C., Ares, M., Hannon, G.~J., and Nilsen, T.~W. (2010).
+\newblock {Purification of RNA using TRIzol (TRI reagent).}
+\newblock {\em Cold Spring Harbor protocols}, 2010(6):pdb.prot5439.
+
+\bibitem[Robinson et~al., 2009]{Robinson2009}
+Robinson, O.~J., Sahakian, B.~J., Stoy, N., Egerton, M., Christofides, J.,
+  Stone, T., Darlington, L., Diksic, M., Houle, S., and Meyer, J.~H. (2009).
+\newblock {Acute tryptophan depletion evokes negative mood in healthy females
+  who have previously experienced concurrent negative mood and tryptophan
+  depletion}.
+\newblock {\em Psychopharmacology}, 205(2):227--235.
+
+\bibitem[Roepstorff and Fohlman, 1984]{Roepstorff1984LetterEditors}
+Roepstorff, P. and Fohlman, J. (1984).
+\newblock {Letter to the editors}.
+\newblock {\em Biological Mass Spectrometry}, 11(11):601--601.
+
+\bibitem[R{\"{o}}st et~al., 2017]{Rost2017AutomatedChromatograms}
+R{\"{o}}st, H.~L., Aebersold, R., and Schubert, O.~T. (2017).
+\newblock {Automated SWATH Data Analysis Using Targeted Extraction of Ion
+  Chromatograms}.
+\newblock In {\em Methods in molecular biology (Clifton, N.J.)}, volume 1550,
+  pages 289--307.
+
+\bibitem[R{\"o}st et~al., 2017]{rost2017automated}
+R{\"o}st, H.~L., Aebersold, R., and Schubert, O.~T. (2017).
+\newblock Automated swath data analysis using targeted extraction of ion
+  chromatograms.
+\newblock {\em Proteomics: Methods and Protocols}, pages 289--307.
+
+\bibitem[R{\"{o}}st et~al., 2014]{Rost2014OpenSWATHData}
+R{\"{o}}st, H.~L., Rosenberger, G., Navarro, P., Gillet, L., Miladinovi{\'{c}},
+  S.~M., Schubert, O.~T., Wolski, W., Collins, B.~C., Malmstr{\"{o}}m, J.,
+  Malmstr{\"{o}}m, L., and Aebersold, R. (2014).
+\newblock {OpenSWATH enables automated, targeted analysis of data-independent
+  acquisition MS data}.
+\newblock {\em Nature Biotechnology}, 32(3):219--223.
+
+\bibitem[Saa and Nielsen, 2016]{Saa2016}
+Saa, P.~A. and Nielsen, L.~K. (2016).
+\newblock {Construction of feasible and accurate kinetic models of metabolism:
+  A Bayesian approach}.
+\newblock 6:29635.
+
+\bibitem[Schaechter and Wurtman, 1990]{Schaechter1990}
+Schaechter, J.~D. and Wurtman, R.~J. (1990).
+\newblock {Serotonin release varies with brain tryptophan levels}.
+\newblock {\em Brain Research}, 532(1-2):203--210.
+
+\bibitem[Schellenberger et~al., 2010]{Schellenberger2010}
+Schellenberger, J., Park, J.~O., Conrad, T.~M., and Palsson, B.~{\O}. (2010).
+\newblock {BiGG: a Biochemical Genetic and Genomic knowledgebase of large scale
+  metabolic reconstructions.}
+\newblock {\em BMC bioinformatics}, 11:213.
+
+\bibitem[Schubert et~al., 2015]{Schubert2015BuildingData}
+Schubert, O.~T., Gillet, L.~C., Collins, B.~C., Navarro, P., Rosenberger, G.,
+  Wolski, W.~E., Lam, H., Amodei, D., Mallick, P., MacLean, B., and Aebersold,
+  R. (2015).
+\newblock {Building high-quality assay libraries for targeted analysis of SWATH
+  MS data}.
+\newblock {\em Nature Protocols}, 10(3):426--441.
+
+\bibitem[Schubert et~al., 2017]{Schubert2017QuantitativeResearch}
+Schubert, O.~T., R{\"o}st, H.~L., Collins, B.~C., Rosenberger, G., and
+  Aebersold, R. (2017).
+\newblock Quantitative proteomics: challenges and opportunities in basic and
+  applied research.
+\newblock {\em Nature Protocols}, 12(7):1289--1294.
+
+\bibitem[Sell et~al., 2007]{Sell20072aminoadipic}
+Sell, D.~R., Strauch, C.~M., Shen, W., and Monnier, V.~M. (2007).
+\newblock 2-aminoadipic acid is a marker of protein carbonyl oxidation in the
+  aging human skin: effects of diabetes, renal failure and sepsis.
+\newblock {\em The Biochemical journal}, 404(2):269--77.
+
+\bibitem[Shawe-Taylor and Sun, 2011]{Shawe-Taylor2011SVM}
+Shawe-Taylor, J. and Sun, S. (2011).
+\newblock {A review of optimization methodologies in support vector machines}.
+\newblock {\em Neurocomputing}, 74(17):3609--3618.
+
+\bibitem[Shimizu, 2014]{ShimizuLiNGAM:Structures}
+Shimizu, S. (2014).
+\newblock Lingam: Non-gaussian methods for estimating causal structures.
+\newblock {\em Behaviormetrika}, 41(1):65--98.
+
+\bibitem[Shteynberg et~al., 2011]{Shteynberg2011IProphet:Estimates.}
+Shteynberg, D., Deutsch, E.~W., Lam, H., Eng, J.~K., Sun, Z., Tasman, N.,
+  Mendoza, L., Moritz, R.~L., Aebersold, R., and Nesvizhskii, A.~I. (2011).
+\newblock {iProphet: multi-level integrative analysis of shotgun proteomic data
+  improves peptide and protein identification rates and error estimates.}
+\newblock {\em Molecular {\&} cellular proteomics : MCP}, 10(12):M111.007690.
+
+\bibitem[Smith et~al., 2005]{Smith2005METLIN}
+Smith, O'Maille, G., Want, E.~J., Qin, C., Trauger, S.~A., Brandon, T.~R.,
+  Custodio, D.~E., Abagyan, R., and Siuzdak, G. (2005).
+\newblock {METLIN: a metabolite mass spectral database}.
+\newblock {\em Ther Drug Monit}, 27.
+
+\bibitem[Solier and Langen, 2014]{Solier2014Antibody-basedLimitations}
+Solier, C. and Langen, H. (2014).
+\newblock {Antibody-based proteomics and biomarker research-Current status and
+  limitations}.
+\newblock {\em PROTEOMICS}, 14(6):774--783.
+
+\bibitem[Song and Lu, 2015]{Song2015DecisionTrees}
+Song, Y.-Y. and Lu, Y. (2015).
+\newblock {Decision tree methods: applications for classification and
+  prediction.}
+\newblock {\em Shanghai archives of psychiatry}, 27(2):130--5.
+
+\bibitem[Stadtman, 2004]{Stadtman2004Role}
+Stadtman, E.~R. (2004).
+\newblock {Role of oxidant species in aging.}
+\newblock {\em Current medicinal chemistry}, 11(9):1105--12.
+
+\bibitem[{Stanford Medicine, }, 2017]{StanfordBloodTests}
+{Stanford Medicine, } (2017).
+\newblock Blood tests | stanford health care.
+
+\bibitem[Steen and Mann, 2004]{Steen2004TheSequencing}
+Steen, H. and Mann, M. (2004).
+\newblock The abc's (and xyz's) of peptide sequencing.
+\newblock {\em Nature reviews. Molecular cell biology}, 5(9):699.
+
+\bibitem[Telenti et~al., 2016]{Telenti2016Deepgenomes}
+Telenti, A., Pierce, L. C.~T., Biggs, W.~H., di~Iulio, J., Wong, E. H.~M.,
+  Fabani, M.~M., Kirkness, E.~F., Moustafa, A., Shah, N., Xie, C., Brewerton,
+  S.~C., Bulsara, N., Garner, C., Metzker, G., Sandoval, E., Perkins, B.~A.,
+  Och, F.~J., Turpaz, Y., and Venter, J.~C. (2016).
+\newblock {Deep sequencing of 10,000 human genomes.}
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 113(42):11901--11906.
+
+\bibitem[Traut, 1994]{Traut1994}
+Traut, T.~W. (1994).
+\newblock {Physiological concentrations of purines and pyrimidines.}
+\newblock {\em Molecular and cellular biochemistry}, 140(1):1--22.
+
+\bibitem[V{\"{a}}likangas et~al., 2016]{Valikangas2016}
+V{\"{a}}likangas, T., Suomi, T., Elo, L.~L., ML, B., YD, C., AN, D., and ER, D.
+  (2016).
+\newblock {A systematic evaluation of normalization methods in quantitative
+  label-free proteomics}.
+\newblock {\em Briefings in Bioinformatics}, 86:bbw095.
+
+\bibitem[van Eunen et~al., 2010]{VanEunen2010}
+van Eunen, K., Bouwman, J., Daran-Lapujade, P., Postmus, J., Canelas, A.~B.,
+  Mensonides, F. I.~C., Orij, R., Tuzun, I., van~den Brink, J., Smits, G.~J.,
+  van Gulik, W.~M., Brul, S., Heijnen, J.~J., de~Winde, J.~H., de~Mattos, M.
+  J.~T., Kettner, C., Nielsen, J., Westerhoff, H.~V., and Bakker, B.~M. (2010).
+\newblock {Measuring enzyme activities under standardized in vivo-like
+  conditions for systems biology.}
+\newblock {\em The FEBS journal}, 277(3):749--60.
+
+\bibitem[Venable et~al., 2004]{Venable2004AutomatedSpectra}
+Venable, J.~D., Meng-Qiu, D., Wohlschlegel, J., Dillin, A., and Yates, J.~R.
+  (2004).
+\newblock Automated approach for quantitative analysis of complex peptide
+  mixtures from tandem mass spectra.
+\newblock {\em Nature methods}, 1(1):39.
+
+\bibitem[Villas-B{\^o}as et~al., 2006]{Villas-BasSamplingPreparation}
+Villas-B{\^o}as, S.~G., Roessner, U., Hansen, M.~A., Smedsgaard, J., and
+  Nielsen, J. (2006).
+\newblock Sampling and sample preparation.
+\newblock {\em Metabolome analysis: An introduction}, pages 39--82.
+
+\bibitem[Visscher et~al., 2008]{Visscher2008Heritabilitymisconceptions}
+Visscher, P.~M., Hill, W.~G., and Wray, N.~R. (2008).
+\newblock {Heritability in the genomics era — concepts and misconceptions}.
+\newblock {\em Nature Reviews Genetics}, 9(4):255--266.
+
+\bibitem[Voet and Voet, 2011]{Voet2011Biochemistry}
+Voet, D. and Voet, J.~G. (2011).
+\newblock {\em {Biochemistry}}.
+\newblock John Wiley {\&} Sons.
+
+\bibitem[Walther and Mann, 2011]{Walther2011AccurateQuantification}
+Walther, D.~M. and Mann, M. (2011).
+\newblock {Accurate Quantification of More Than 4000 Mouse Tissue Proteins
+  Reveals Minimal Proteome Changes During Aging}.
+\newblock {\em Molecular {\&} Cellular Proteomics}, 10(2):M110.004523.
+
+\bibitem[Wang et~al., 2016]{Wang2016JointRisk}
+Wang, X., Pandey, A.~K., Mulligan, M.~K., Williams, E.~G., Mozhui, K., Li, Z.,
+  Jovaisaite, V., Quarles, L.~D., Xiao, Z., Huang, J., et~al. (2016).
+\newblock Joint mouse-human phenome-wide association to test gene function and
+  disease risk.
+\newblock {\em Nature communications}, 7.
+
+\bibitem[Wiese et~al., 1997]{Wiese1997Effect}
+Wiese, T.~J., Dunlap, J.~A., and Yorek, M.~A. (1997).
+\newblock {Effect of l-fucose and d-glucose concentration on l-fucoprotein
+  metabolism in human Hep G2 cells and changes in fucosyltransferase and
+  $\alpha$-l-fucosidase activity in liver of diabetic rats}.
+\newblock {\em Biochimica et Biophysica Acta (BBA) - General Subjects},
+  1335(1-2):61--72.
+
+\bibitem[Williams and Auwerx, 2015]{Williams2015TheAnalysis}
+Williams, E. and Auwerx, J. (2015).
+\newblock {The Convergence of Systems and Reductionist Approaches in Complex
+  Trait Analysis}.
+\newblock {\em Cell}, 162(1):23--32.
+
+\bibitem[Williams, 2014]{Williams2014Thesis}
+Williams, E.~G. (2014).
+\newblock {A Systems Approach to Identify Genetic and Environmental Regulators
+  of Metabolism}.
+\newblock {\em doi.org}, pages~--.
+
+\bibitem[Williams et~al., 2016]{Williams2016SystemsFunction}
+Williams, E.~G., Wu, Y., Jha, P., Dubuis, S., Blattmann, P., Argmann, C.~A.,
+  Houten, S.~M., Amariuta, T., Wolski, W., Zamboni, N., Aebersold, R., and
+  Auwerx, J. (2016).
+\newblock {Systems proteomics of liver mitochondria function}.
+\newblock {\em Science}, 352(6291):aad0189--aad0189.
+
+\bibitem[Williams and Williams, 2017]{Williams2017ResourcesGenetics}
+Williams, R.~W. and Williams, E.~G. (2017).
+\newblock {Resources for Systems Genetics}.
+\newblock pages 3--29. Humana Press, New York, NY.
+
+\bibitem[Wishart et~al., 2013]{Wishart2013}
+Wishart, D.~S., Jewison, T., Guo, A.~C., Wilson, M., Knox, C., Liu, Y.,
+  Djoumbou, Y., Mandal, R., Aziat, F., Dong, E., Bouatra, S., Sinelnikov, I.,
+  Arndt, D., Xia, J., Liu, P., Yallou, F., Bjorndahl, T., Perez-Pineiro, R.,
+  Eisner, R., Allen, F., Neveu, V., Greiner, R., and Scalbert, A. (2013).
+\newblock {HMDB 3.0--The Human Metabolome Database in 2013}.
+\newblock {\em Nucleic Acids Research}, 41(D1):D801--D807.
+
+\bibitem[Wishart et~al., 2012]{Wishart2013HMDB2013}
+Wishart, D.~S., Jewison, T., Guo, A.~C., Wilson, M., Knox, C., Liu, Y.,
+  Djoumbou, Y., Mandal, R., Aziat, F., Dong, E., et~al. (2012).
+\newblock Hmdb 3.0—the human metabolome database in 2013.
+\newblock {\em Nucleic acids research}, 41(D1):D801--D807.
+
+\bibitem[Wu et~al., 2004]{Wu2004Glutathione}
+Wu, G., Fang, Y.-Z., Yang, S., Lupton, J.~R., and Turner, N.~D. (2004).
+\newblock {Glutathione metabolism and its implications for health.}
+\newblock {\em The Journal of nutrition}, 134(3):489--92.
+
+\bibitem[Wu et~al., 2014]{Wu2014MultilayeredPopulation}
+Wu, Y., Williams, E.~G., Dubuis, S., Mottis, A., Jovaisaite, V., Houten, S.~M.,
+  Argmann, C.~A., Faridi, P., Wolski, W., Kutalik, Z., et~al. (2014).
+\newblock Multilayered genetic and omics dissection of mitochondrial activity
+  in a mouse reference population.
+\newblock {\em Cell}, 158(6):1415--1430.
+
+\bibitem[WURTMAN and ANTON-TAY, 1969]{WURTMAN1969}
+WURTMAN, R.~J. and ANTON-TAY, F. (1969).
+\newblock {The Mammalian Pineal as a Neuroendocrine Transducer}.
+\newblock In {\em Proceedings of the 1968 Laurentian Hormone Conference}, pages
+  493--522.
+
+\bibitem[Xia and Wishart, 2010a]{Xia2010MSEA}
+Xia, J. and Wishart, D.~S. (2010a).
+\newblock {MSEA: a web-based tool to identify biologically meaningful patterns
+  in quantitative metabolomic data}.
+\newblock {\em Nucleic Acids Research}, 38(Web Server):W71--W77.
+
+\bibitem[Xia and Wishart, 2010b]{Xia2010}
+Xia, J. and Wishart, D.~S. (2010b).
+\newblock {MSEA: a web-based tool to identify biologically meaningful patterns
+  in quantitative metabolomic data}.
+\newblock {\em Nucleic Acids Research}, 38(Web Server):W71--W77.
+
+\bibitem[Xia et~al., 2016]{Xia2016UsingAnalysis}
+Xia, J., Wishart, D.~S., Xia, J., and Wishart, D.~S. (2016).
+\newblock {Using MetaboAnalyst 3.0 for Comprehensive Metabolomics Data
+  Analysis}.
+\newblock In {\em Current Protocols in Bioinformatics}, pages 1--14. John Wiley
+  {\&} Sons, Inc., Hoboken, NJ, USA.
+
+\bibitem[Yuan et~al., 2011]{Yuan2011Miceaging}
+Yuan, R., Peters, L.~L., and Paigen, B. (2011).
+\newblock {Mice as a mammalian model for research on the genetics of aging.}
+\newblock {\em ILAR journal}, 52(1):4--15.
+
+\bibitem[Zamboni et~al., 2009]{Zamboni200913C-basedAnalysis}
+Zamboni, N., Fendt, S.-M., R{\"u}hl, M., and Sauer, U. (2009).
+\newblock 13c-based metabolic flux analysis.
+\newblock {\em Nature protocols}, 4(6):878.
+
+\bibitem[Zlatkis and Liebich, 1971]{Zlatkis1971ProfileUrine.}
+Zlatkis, A. and Liebich, H.~M. (1971).
+\newblock {Profile of volatile metabolites in human urine.}
+\newblock {\em Clinical chemistry}, 17(7):592--4.
+
+\bibitem[Zucker and Beery, 2010]{Zucker2010MalesStudies}
+Zucker, I. and Beery, A.~K. (2010).
+\newblock {Males still dominate animal studies}.
+\newblock {\em Nature}, 465(7299):690--690.
+
+\end{thebibliography}

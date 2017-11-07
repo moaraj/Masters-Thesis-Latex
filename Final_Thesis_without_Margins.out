@@ -1,0 +1,72 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Project Outline}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Gene-Function Paradigms}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Reverse and Forward genetics}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Systems Approach to Complex Trait Analysis}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Heritability}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.6}{Studying Heredity in Model Organism Populations}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.7}{What is QTL Analysis?}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.8}{QTL vs. GWAS}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.9}{RI Mouse Population for GxE}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.10}{Study Design}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.10.1}{Model Mouse Population: BXD Mice}{section.1.10}% 12
+\BOOKMARK [2][-]{subsection.1.10.2}{Mouse Diets: Components of Chow and High Fat diet}{section.1.10}% 13
+\BOOKMARK [2][-]{subsection.1.10.3}{Mouse Sex: Male and Female Mouse considerations}{section.1.10}% 14
+\BOOKMARK [1][-]{section.1.11}{Why Multiple Omics}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{Metabolomics}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Introduction to Non-Targeted Metabolomics}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.1.1}{Metabolomics Methods}{section.2.1}% 18
+\BOOKMARK [1][-]{section.2.2}{Metabolite Extraction Protocol \046 Optimization}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.1}{Optimization Objectives}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Pilot Study 1}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.4}{Pilot Study 1 Results}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.5}{Pilot Study 2}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.6}{Metabolite Data Acquisition and Handling}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.6.1}{Raw Data Acquisition and Processing}{section.2.6}% 25
+\BOOKMARK [1][-]{section.2.7}{Data Analysis}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.7.1}{Normalization of Metabolite Data}{section.2.7}% 27
+\BOOKMARK [2][-]{subsection.2.7.2}{Quality Control}{section.2.7}% 28
+\BOOKMARK [1][-]{section.2.8}{Analysis of Metabolic Data}{chapter.2}% 29
+\BOOKMARK [2][-]{subsection.2.8.1}{Metabolite Fold Changes}{section.2.8}% 30
+\BOOKMARK [1][-]{section.2.9}{QTL Analysis}{chapter.2}% 31
+\BOOKMARK [1][-]{section.2.10}{Metabolite Set Analysis}{chapter.2}% 32
+\BOOKMARK [0][-]{chapter.3}{Proteomics}{}% 33
+\BOOKMARK [1][-]{section.3.1}{Introduction to MS Proteomics}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.1.1}{Extracting Peptide Chromatograms}{section.3.1}% 35
+\BOOKMARK [2][-]{subsection.3.1.2}{SWATH MS for BXD Mouse Liver Proteomics}{section.3.1}% 36
+\BOOKMARK [2][-]{subsection.3.1.3}{DDA Spectral Library Generation}{section.3.1}% 37
+\BOOKMARK [2][-]{subsection.3.1.4}{Experimental Proteomics Protocol}{section.3.1}% 38
+\BOOKMARK [1][-]{section.3.2}{Data Analysis}{chapter.3}% 39
+\BOOKMARK [1][-]{section.3.3}{Quality Control}{chapter.3}% 40
+\BOOKMARK [1][-]{section.3.4}{Proteomics Fold-change Analysis}{chapter.3}% 41
+\BOOKMARK [1][-]{section.3.5}{Protein Biomarkers}{chapter.3}% 42
+\BOOKMARK [1][-]{section.3.6}{ROC Curves}{chapter.3}% 43
+\BOOKMARK [1][-]{section.3.7}{Random Forest}{chapter.3}% 44
+\BOOKMARK [1][-]{section.3.8}{Support Vector Machine}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.9}{Conclusions From Proteomics}{chapter.3}% 46
+\BOOKMARK [0][-]{chapter.4}{Transcriptomics}{}% 47
+\BOOKMARK [1][-]{section.4.1}{Introduction to Micro-arrays}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.1.1}{Transcriptomics Data Processing}{section.4.1}% 49
+\BOOKMARK [2][-]{subsection.4.1.2}{Data Extraction}{section.4.1}% 50
+\BOOKMARK [2][-]{subsection.4.1.3}{Normalization}{section.4.1}% 51
+\BOOKMARK [2][-]{subsection.4.1.4}{Model Based Error Subtraction}{section.4.1}% 52
+\BOOKMARK [2][-]{subsection.4.1.5}{Variance Stabilizing Normalization}{section.4.1}% 53
+\BOOKMARK [2][-]{subsection.4.1.6}{Parameter Estimation}{section.4.1}% 54
+\BOOKMARK [1][-]{section.4.2}{Quality Control}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.3}{Transcript Level Fold Changes}{chapter.4}% 56
+\BOOKMARK [1][-]{section.4.4}{ Multi-Omics Data Integration }{chapter.4}% 57
+\BOOKMARK [2][-]{subsection.4.4.1}{Integrated Analysis of Linoleic acid Oxidation}{section.4.4}% 58
+\BOOKMARK [2][-]{subsection.4.4.2}{Integrated Analysis of Tyrosine Metabolism}{section.4.4}% 59
+\BOOKMARK [1][-]{section.4.5}{Transcripts Conclusion}{chapter.4}% 60
+\BOOKMARK [0][-]{chapter.5}{Future work}{}% 61
+\BOOKMARK [1][-]{section.5.1}{References}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.2}{Acknowledgments}{chapter.5}% 63
+\BOOKMARK [0][-]{chapter.6}{Appendix}{}% 64
+\BOOKMARK [1][-]{section.1.6.A}{Metabolite Extraction Kinetics}{chapter.6}% 65
+\BOOKMARK [1][-]{section.1.6.B}{Metabolite Coverage}{chapter.6}% 66
+\BOOKMARK [1][-]{section.1.6.C}{Metabolites Intensities}{chapter.6}% 67
+\BOOKMARK [1][-]{section.1.6.D}{Effects Normalization on Metabolite Data}{chapter.6}% 68
+\BOOKMARK [1][-]{section.1.6.E}{QTL Results}{chapter.6}% 69
+\BOOKMARK [1][-]{section.1.6.F}{Batch Effects in Protein Data}{chapter.6}% 70
+\BOOKMARK [1][-]{section.1.6.G}{Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}{chapter.6}% 71
+\BOOKMARK [1][-]{section.1.6.H}{Appendix: MSEA Metabolite Pathway Enrichment Tables }{chapter.6}% 72

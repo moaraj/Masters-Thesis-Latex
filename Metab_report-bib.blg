@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Metab_report-bib.aux
+The style file: plain.bst
+Database file #1: Thesis_Report.bib
+Repeated entry---line 503 of file Thesis_Report.bib
+ : @article{Domalain2014EnantiomericSpectrometry
+ :                                              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Civelek2014SystemsTraits"
+Warning--I didn't find a database entry for "AligentAgilentVideo"
+Warning--I didn't find a database entry for "Rost2014OpenSWATHData"
+Warning--I didn't find a database entry for "Gillet2012TargetedAnalysis."
+Warning--I didn't find a database entry for "Williams2016SystemsFunction"
+Warning--I didn't find a database entry for "Falconer1996IntroductionGenetics"
+Warning--I didn't find a database entry for "Mackay2009TheProspects"
+Warning--I didn't find a database entry for "Broman2009AR/qtl"
+Warning--I didn't find a database entry for "Wang2016JointRisk"
+Warning--I didn't find a database entry for "Andreux2012SystemsTraits."
+Warning--I didn't find a database entry for "Zucker2010MalesStudies"
+Warning--I didn't find a database entry for "Kalueff2006HairResearch"
+Warning--I didn't find a database entry for "Villas-BasSamplingPreparation"
+Warning--I didn't find a database entry for "FGCZ2017MetabolomicsZurich"
+Warning--I didn't find a database entry for "Zamboni200913C-basedAnalysis"
+Warning--I didn't find a database entry for "Wishart2013HMDB2013"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Haynes2009Sphingolipidomics:Sphingolipids"
+Warning--I didn't find a database entry for "Hu2009AnalyticalDiscovery"
+Warning--I didn't find a database entry for "Wu2014MultilayeredPopulation"
+Warning--I didn't find a database entry for "Glish2003TheCentury"
+Warning--I didn't find a database entry for "Goodner1998QuantitationSpectrometry"
+Warning--I didn't find a database entry for "Hartwell1999FromBiology"
+Warning--I didn't find a database entry for "Schubert2017QuantitativeResearch"
+Warning--I didn't find a database entry for "Steen2004TheSequencing"
+Warning--I didn't find a database entry for "Picotti2012SelectedDirections"
+Warning--I didn't find a database entry for "deGodoy2008ComprehensiveYeast"
+Warning--I didn't find a database entry for "Venable2004AutomatedSpectra"
+Warning--I didn't find a database entry for "Kessner2008ProteoWizard:Development"
+Warning--I didn't find a database entry for "Reiter2009ProteinSpectrometry"
+Warning--I didn't find a database entry for "Elias2007Target-decoySpectrometry"
+Warning--I didn't find a database entry for "Lam2008BuildingProteomics"
+Warning--empty journal in Aksenov2017GlobalSpectrometry
+Warning--empty journal in FangThermalInvestigation
+Warning--empty year in FangThermalInvestigation
+Warning--you've exceeded 5000, the global-string-size, for entry Domalain2014EnantiomericSpectrometry
+while executing--line 1090 of file plain.bst
+*Please notify the bibstyle designer*
+Warning--empty booktitle in Rost2017AutomatedChromatograms
+Warning--empty journal in ShimizuLiNGAM:Structures
+Warning--empty year in ShimizuLiNGAM:Structures
+Warning--empty booktitle in Williams2017ResourcesGenetics
+(There was 1 error message)

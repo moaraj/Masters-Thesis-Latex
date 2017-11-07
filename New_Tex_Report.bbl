@@ -1,0 +1,226 @@
+\begin{thebibliography}{10}
+
+\bibitem{Aksenov2017GlobalSpectrometry}
+Alexander~A Aksenov, Ricardo da~Silva, Rob Knight, Norberto~P Lopes, and
+  Pieter~C Dorrestein.
+\newblock {Global chemical analysis of biology by mass spectrometry}.
+\newblock 1:54, 7 2017.
+
+\bibitem{Bateman2014MaximizingDDA.}
+Nicholas~W Bateman, Scott~P Goulding, Nicholas~J Shulman, Avinash~K Gadok,
+  Karen~K Szumlinski, Michael~J MacCoss, and Christine~C Wu.
+\newblock {Maximizing peptide identification events in proteomic workflows
+  using data-dependent acquisition (DDA).}
+\newblock {\em Molecular {\&} cellular proteomics : MCP}, 13(1):329--38, 1
+  2014.
+
+\bibitem{CollaborativeCrossConsortium2012ThePopulation.}
+Collaborative~Cross Collaborative Cross~Consortium.
+\newblock {The genome architecture of the Collaborative Cross mouse genetic
+  reference population.}
+\newblock {\em Genetics}, 190(2):389--401, 2 2012.
+
+\bibitem{Durbin2002}
+B~P Durbin, J~S Hardin, D~M Hawkins, and D~M Rocke.
+\newblock {A variance-stabilizing transformation for gene-expression microarray
+  data}.
+\newblock {\em BIOINFORMATICS}, 18(1):105--110, 2002.
+
+\bibitem{Escher2012UsingPeptides.}
+Claudia Escher, Lukas Reiter, Brendan MacLean, Reto Ossola, Franz Herzog, John
+  Chilton, Michael~J MacCoss, and Oliver Rinner.
+\newblock {Using iRT, a normalized retention time for more targeted measurement
+  of peptides.}
+\newblock {\em Proteomics}, 12(8):1111--21, 4 2012.
+
+\bibitem{FangThermalInvestigation}
+Mingliang Fang, Julijana Ivanisevic, ⊥ H~Paul Benton, Caroline~H Johnson,
+  Gary~J Patti, Linh~T Hoang, Winnie Uritboonthai, Michael~E Kurczy, and Gary
+  Siuzdak.
+\newblock {Thermal Degradation of Small Molecules: A Global Metabolomic
+  Investigation}.
+
+\bibitem{Johnson2009AnResults.}
+Andrew~D Johnson and Christopher~J O'Donnell.
+\newblock {An open access database of genome-wide association results.}
+\newblock {\em BMC medical genetics}, 10:6, 1 2009.
+
+\bibitem{Lange2008SelectedTutorial.}
+Vinzenz Lange, Paola Picotti, Bruno Domon, and Ruedi Aebersold.
+\newblock {Selected reaction monitoring for quantitative proteomics: a
+  tutorial.}
+\newblock {\em Molecular systems biology}, 4:222, 2008.
+
+\bibitem{Liu2013QuantitativeSWATH-MS}
+Yansheng Liu, Ruth H{\"{u}}ttenhain, Silvia Surinova, Ludovic~CJ Gillet, Jeppe
+  Mouritsen, Roland Brunner, Pedro Navarro, and Ruedi Aebersold.
+\newblock {Quantitative measurements of <i>N</i> -linked glycoproteins in human
+  plasma by SWATH-MS}.
+\newblock {\em PROTEOMICS}, 13(8):1247--1256, 4 2013.
+
+\bibitem{Domalain2014EnantiomericSpectrometry}
+Mark Moeller, Misa Hirose, Sarah Mueller, Catrin Roolf, Simone Baltrusch, Saleh
+  Ibrahim, Christian Junghanss, Olaf Wolkenhauer, Robert Jaster, Rüdiger
+  K{\"{o}}hling, Manfred Kunz, Markus Tiedge, Paul~N Schofield, Georg Fuellen,
+  Mian~Yahya Mushtaq, Young~Hae Choi, Robert Verpoorte, Erica~G Wilson,
+  Andrew~D Johnson, Christopher~J O'Donnell, Robert~W Williams, Evan G.~G.
+  Williams, Hannes~L R{\"{o}}st, Ruedi Aebersold, Olga~T Schubert, Vinzenz
+  Lange, Paola Picotti, Bruno Domon, Ruedi Aebersold, Nicholas~W Bateman,
+  Scott~P Goulding, Nicholas~J Shulman, Avinash~K Gadok, Karen~K Szumlinski,
+  Michael~J MacCoss, Christine~C Wu, P~Roepstorff, J~Fohlman, Corinne Solier,
+  Hanno Langen, Yansheng Liu, Ruth H{\"{u}}ttenhain, Silvia Surinova, Ludovic
+  C~J Gillet, Jeppe Mouritsen, Roland Brunner, Pedro Navarro, Ruedi Aebersold,
+  Nagarjuna Nagaraj, Jacek~R Wisniewski, Tamar Geiger, Jürgen~Juergen Cox,
+  Martin Kircher, Janet Kelso, Svante P{\"{a}}{\"{a}}bo, Matthias Mann,
+  Alicia~L Richards, Anna~E Merrill, Joshua~J Coon, Claudia Escher, Lukas
+  Reiter, Brendan MacLean, Reto Ossola, Franz Herzog, John Chilton, Michael~J
+  MacCoss, Oliver Rinner, Ravali Adusumilli, Parag Mallick, David Shteynberg,
+  Eric~W Deutsch, Henry Lam, Jimmy~K Eng, Zhi Sun, Natalie Tasman, Luis
+  Mendoza, Robert~L Moritz, Ruedi Aebersold, Alexey~I Nesvizhskii, Robert~W
+  Williams, Evan G.~G. Williams, Danielle Welter, Jacqueline MacArthur,
+  Joannella Morales, Tony Burdett, Peggy Hall, Heather Junkins, Alan Klemm,
+  Paul Flicek, Teri Manolio, Lucia Hindorff, Helen Parkinson, P~N Gonzalez,
+  M~Pavlicev, P~Mitteroecker, F~de~Villena, R~A Spritz, R~S Marcucio,
+  B~Hallgr{\'{i}}msson, Collaborative~Cross Collaborative Cross~Consortium,
+  Clara~C Pregitzer, Joseph~K Bailey, Jennifer~A Schweitzer, Maria~E Nilsson,
+  Liesbeth Vandenput, Åsa Tivesten, Anna-Karin Norl{\'{e}}n, Marie~K
+  Lagerquist, Sara~H Windahl, Anna~E B{\"{o}}rjesson, Helen~H Farman, Matti
+  Poutanen, Anna Benrick, Manuel Maliqueo, Elisabet Stener-Victorin, Henrik
+  Ryberg, Claes Ohlsson, Shohei Shimizu, Virginie Domalain, Marie Hubert-Roux,
+  Vincent Tognetti, Laurent Joubert, Catherine~M Lange, Jacques Rouden, Carlos
+  Afonso, Jianguo Xia, David~S. Wishart, Jianguo Xia, David~S. Wishart,
+  Mingliang Fang, Julijana Ivanisevic, ⊥ H~Paul Benton, Caroline~H. Johnson,
+  Gary~J Patti, Linh~T Hoang, Winnie Uritboonthai, Michael~E Kurczy, Gary
+  Siuzdak, Kevin~L. Goodner, K.~Eric Milgram, Kathryn~R. Williams, Clifford~H.
+  Watson, John~R. Eyler, {Aligent}, Gary~L. Glish, Richard~W. Vachet, David~S.
+  Wishart, T.~Jewison, A.~C. Guo, M.~Wilson, C.~Knox, Yansheng Liu,
+  Y.~Djoumbou, R.~Mandal, F.~Aziat, E.~Dong, S.~Bouatra, I.~Sinelnikov,
+  D.~Arndt, Jianguo Xia, P.~Liu, F.~Yallou, T.~Bjorndahl, R.~Perez-Pineiro,
+  R.~Eisner, F.~Allen, V.~Neveu, R.~Greiner, A.~Scalbert, Silas~G. Villas-Bas,
+  Alexander~A Aksenov, Ricardo da~Silva, Rob Knight, Norberto~P Lopes, Pieter~C
+  Dorrestein, Nicola Zamboni, Sarah-Maria Fendt, Martin R{\"{u}}hl, Uwe Sauer,
+  {FGCZ}, Irving Zucker, Annaliese~K. Beery, A.V. Kalueff, A.~Minasyan,
+  T.~Keisala, Z.H. Shah, P.~Tuohimaa, Pénélope~A Andreux, Evan G.~G.
+  Williams, Hana Koutnikova, Riekelt~H Houtkooper, Marie-France Champy, Hugues
+  Henry, Kristina Schoonjans, Robert~W Williams, Johan Auwerx, Xusheng Wang,
+  Ashutosh~K Pandey, Megan~K Mulligan, Evan G.~G. Williams, Khyobeni Mozhui,
+  Zhengsheng Li, Virginija Jovaisaite, L~Darryl Quarles, Zhousheng Xiao,
+  Jinsong Huang, John~A Capra, Zugen Chen, William~L Taylor, Lisa Bastarache,
+  Xinnan Niu, Katherine~S Pollard, Daniel~C Ciobanu, Alexander~O Reznik,
+  Artem~V Tishkov, Igor~B Zhulin, Junmin Peng, Stanley~F Nelson, Joshua~C
+  Denny, Johan Auwerx, Lu~Lu, Robert~W Williams, Trudy F.~C. Mackay, Eric~A.
+  Stone, Julien~F. Ayroles, Karl~W. Broman, Saunak. Sen, D.~S. (Douglas~Scott)
+  Falconer, Trudy F.~C. Mackay, Peter~M. Visscher, William~G. Hill, Naomi~R.
+  Wray, Mete Civelek, Aldons~J Lusis, Evan G.~G. Williams, Johan Auwerx, Henry
+  Lam, Eric~W Deutsch, James~S Eddes, Jimmy~K Eng, Stephen~E Stein, Ruedi
+  Aebersold, Joshua~E Elias, Steven~P Gygi, Lukas Reiter, Manfred Claassen,
+  Sabine~P. Schrimpf, Marko Jovanovic, Alexander Schmidt, Joachim~M. Buhmann,
+  Michael~O. Hengartner, Ruedi Aebersold, Darren Kessner, Matt Chambers, Robert
+  Burke, David Agus, Parag Mallick, Paola Picotti, Ruedi Aebersold, Mathias
+  Uhl{\'{e}}n, Linn Fagerberg, Björn~M. Hallstr{\"{o}}m, Cecilia Lindskog, Per
+  Oksvold, Adil Mardinoglu, Åsa Sivertsson, Caroline Kampf, Evelina
+  Sj{\"{o}}stedt, Anna Asplund, IngMarie Olsson, Karolina Edlund, Emma
+  Lundberg, Sanjay Navani, Cristina Al-Khalili Szigyarto, Jacob Odeberg, Dijana
+  Djureinovic, Jenny~Ottosson Takanen, Sophia Hober, Tove Alm, Per-Henrik
+  Edqvist, Holger Berling, Hanna Tegel, Jan Mulder, Johan Rockberg, Peter
+  Nilsson, Jochen~M. Schwenk, Marica Hamsten, Kalle von Feilitzen, Mattias
+  Forsberg, Lukas Persson, Fredric Johansson, Martin Zwahlen, Gunnar von
+  Heijne, Jens Nielsen, Fredrik Pont{\'{e}}n, Lyris M.~F. de~Godoy, Jesper~V.
+  Olsen, Jürgen~Juergen Cox, Michael~L. Nielsen, Nin.
+\newblock {Resources for Systems Genetics}.
+\newblock {\em Molecular {\{}{\&}{\}} cellular proteomics : MCP}, 10(6):3--29,
+  2014.
+
+\bibitem{Mushtaq2014ExtractionMetabolome}
+Mian~Yahya Mushtaq, Young~Hae Choi, Robert Verpoorte, and Erica~G. Wilson.
+\newblock {Extraction for Metabolomics: Access to The Metabolome}.
+\newblock {\em Phytochemical Analysis}, 25(4):291--306, 7 2014.
+
+\bibitem{Nagaraj2011DeepLine.}
+Nagarjuna Nagaraj, Jacek~R Wisniewski, Tamar Geiger, Juergen Cox, Martin
+  Kircher, Janet Kelso, Svante P{\"{a}}{\"{a}}bo, and Matthias Mann.
+\newblock {Deep proteome and transcriptome mapping of a human cancer cell
+  line.}
+\newblock {\em Molecular systems biology}, 7:548, 11 2011.
+
+\bibitem{Nilsson2015MeasurementSpectrometry}
+Maria~E. Nilsson, Liesbeth Vandenput, Åsa Tivesten, Anna-Karin Norl{\'{e}}n,
+  Marie~K. Lagerquist, Sara~H. Windahl, Anna~E. B{\"{o}}rjesson, Helen~H.
+  Farman, Matti Poutanen, Anna Benrick, Manuel Maliqueo, Elisabet
+  Stener-Victorin, Henrik Ryberg, and Claes Ohlsson.
+\newblock {Measurement of a Comprehensive Sex Steroid Profile in Rodent Serum
+  by High-Sensitive Gas Chromatography-Tandem Mass Spectrometry}.
+\newblock {\em Endocrinology}, 156(7):2492--2502, 7 2015.
+
+\bibitem{Pregitzer2013GeneticLinkages.}
+Clara~C Pregitzer, Joseph~K Bailey, and Jennifer~A Schweitzer.
+\newblock {Genetic by environment interactions affect plant-soil linkages.}
+\newblock {\em Ecology and evolution}, 3(7):2322--33, 7 2013.
+
+\bibitem{Richards2015ProteomeDeep.}
+Alicia~L Richards, Anna~E Merrill, and Joshua~J Coon.
+\newblock {Proteome sequencing goes deep.}
+\newblock {\em Current opinion in chemical biology}, 24:11--7, 2 2015.
+
+\bibitem{Roepstorff1984LetterEditors}
+P.~Roepstorff and J.~Fohlman.
+\newblock {Letter to the editors}.
+\newblock {\em Biological Mass Spectrometry}, 11(11):601--601, 11 1984.
+
+\bibitem{Rost2017AutomatedChromatograms}
+Hannes~L. R{\"{o}}st, Ruedi Aebersold, and Olga~T. Schubert.
+\newblock {Automated SWATH Data Analysis Using Targeted Extraction of Ion
+  Chromatograms}.
+\newblock pages 289--307. Humana Press, New York, NY, 2017.
+
+\bibitem{ShimizuLiNGAM:Structures}
+Shohei Shimizu.
+\newblock {LiNGAM: Non-Gaussian methods for estimating causal structures}.
+
+\bibitem{Shteynberg2011IProphet:Estimates.}
+David Shteynberg, Eric~W Deutsch, Henry Lam, Jimmy~K Eng, Zhi Sun, Natalie
+  Tasman, Luis Mendoza, Robert~L Moritz, Ruedi Aebersold, and Alexey~I
+  Nesvizhskii.
+\newblock {iProphet: multi-level integrative analysis of shotgun proteomic data
+  improves peptide and protein identification rates and error estimates.}
+\newblock {\em Molecular {\&} cellular proteomics : MCP}, 10(12):M111.007690,
+  12 2011.
+
+\bibitem{Solier2014Antibody-basedLimitations}
+Corinne Solier and Hanno Langen.
+\newblock {Antibody-based proteomics and biomarker research-Current status and
+  limitations}.
+\newblock {\em PROTEOMICS}, 14(6):774--783, 3 2014.
+
+\bibitem{Williams2015TheAnalysis}
+Evan G. Williams and Johan Auwerx.
+\newblock {The Convergence of Systems and Reductionist Approaches in Complex
+  Trait Analysis}.
+\newblock {\em Cell}, 162(1):23--32, 7 2015.
+
+\bibitem{Williams2017ResourcesGenetics}
+Robert~W. Williams and Evan~G. Williams.
+\newblock {Resources for Systems Genetics}.
+\newblock pages 3--29. Humana Press, New York, NY, 2017.
+
+\bibitem{Wishart2013}
+D.~S. Wishart, T.~Jewison, A.~C. Guo, M.~Wilson, C.~Knox, Y.~Liu, Y.~Djoumbou,
+  R.~Mandal, F.~Aziat, E.~Dong, S.~Bouatra, I.~Sinelnikov, D.~Arndt, J.~Xia,
+  P.~Liu, F.~Yallou, T.~Bjorndahl, R.~Perez-Pineiro, R.~Eisner, F.~Allen,
+  V.~Neveu, R.~Greiner, and A.~Scalbert.
+\newblock {HMDB 3.0--The Human Metabolome Database in 2013}.
+\newblock {\em Nucleic Acids Research}, 41(D1):D801--D807, jan 2013.
+
+\bibitem{Xia2016UsingAnalysis}
+Jianguo Xia, David~S. Wishart, Jianguo Xia, and David~S. Wishart.
+\newblock {Using MetaboAnalyst 3.0 for Comprehensive Metabolomics Data
+  Analysis}.
+\newblock In {\em Current Protocols in Bioinformatics}, pages 1--14. John Wiley
+  {\&} Sons, Inc., Hoboken, NJ, USA, 9 2016.
+
+\bibitem{Zlatkis1971ProfileUrine.}
+A~Zlatkis and H~M Liebich.
+\newblock {Profile of volatile metabolites in human urine.}
+\newblock {\em Clinical chemistry}, 17(7):592--4, 7 1971.
+
+\end{thebibliography}
