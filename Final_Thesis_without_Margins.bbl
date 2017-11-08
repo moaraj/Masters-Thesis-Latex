@@ -47,6 +47,12 @@ Anton, G., Wilson, R., Yu, Z.-h., Prehn, C., Zukunft, S., Adamski, J., Heier,
   Marker for Prolonged Room Temperature Exposure of Serum Samples}.
 \newblock {\em PLOS ONE}, 10(3):e0121495.
 
+\bibitem[Armanios et~al., 2015]{Armanios2015}
+Armanios, M., de~Cabo, R., Mannick, J., Partridge, L., van Deursen, J., and
+  Villeda, S. (2015).
+\newblock {Translational strategies in aging and age-related disease}.
+\newblock {\em Nature Medicine}, 21(12):1395--1399.
+
 \bibitem[Bailey et~al., 1998]{Bailey1998Mechanisms}
 Bailey, A.~J., Paul, R.~G., and Knott, L. (1998).
 \newblock {Mechanisms of maturation and ageing of collagen.}
@@ -88,6 +94,11 @@ Bruderer, R., Bernhardt, O.~M., Gandhi, T., and Reiter, L. (2016).
   quantitation.}
 \newblock {\em Proteomics}, 16(15-16):2246--56.
 
+\bibitem[Caligioni, 2009]{Caligioni2009}
+Caligioni, C.~S. (2009).
+\newblock {Assessing reproductive status/stages in mice.}
+\newblock {\em Current protocols in neuroscience}, Appendix 4:Appendix 4I.
+
 \bibitem[Cani et~al., 2009]{Cani2009}
 Cani, P., Delzenne, N., Cloarec, O., Coen, M., Tang, H., Gieger, C., Chang, D.,
   Milburn, M.~V., Gall, W.~E., Weinberger, K.~M., Mewes, H.-W., de~Angelis,
@@ -100,6 +111,12 @@ Cani, P., Delzenne, N., Cloarec, O., Coen, M., Tang, H., Gieger, C., Chang, D.,
 Civelek, M. and Lusis, A.~J. (2014).
 \newblock {Systems genetics approaches to understand complex traits.}
 \newblock {\em Nature reviews. Genetics}, 15(1):34--48.
+
+\bibitem[Coen, 2010]{Coen2010}
+Coen, M. (2010).
+\newblock {A metabonomic approach for mechanistic exploration of pre-clinical
+  toxicology.}
+\newblock {\em Toxicology}, 278(3):326--40.
 
 \bibitem[Collaborative Cross~Consortium,
   2012]{CollaborativeCrossConsortium2012ThePopulation.}
@@ -157,6 +174,15 @@ Escher, C., Reiter, L., MacLean, B., Ossola, R., Herzog, F., Chilton, J.,
 \newblock {Using iRT, a normalized retention time for more targeted measurement
   of peptides.}
 \newblock {\em Proteomics}, 12(8):1111--21.
+
+\bibitem[Fakhro et~al., 2016]{Fakhro2016}
+Fakhro, K.~A., Staudt, M.~R., Ramstetter, M.~D., Robay, A., Malek, J.~A.,
+  Badii, R., Al-Marri, A. A.-N., Khalil, C.~A., Al-Shakaki, A., Chidiac, O.,
+  Stadler, D., Zirie, M., Jayyousi, A., Salit, J., Mezey, J.~G., Crystal,
+  R.~G., and Rodriguez-Flores, J.~L. (2016).
+\newblock {The Qatar genome: a population-specific tool for precision medicine
+  in the Middle East}.
+\newblock {\em Human Genome Variation}, 3:16016.
 
 \bibitem[Falconer and Mackay, 1996]{Falconer1996IntroductionGenetics}
 Falconer, D. S. D.~S. and Mackay, T. F.~C. (1996).
@@ -276,6 +302,11 @@ Johnson, A.~D. and O'Donnell, C.~J. (2009).
 \newblock {An open access database of genome-wide association results.}
 \newblock {\em BMC medical genetics}, 10:6.
 
+\bibitem[Johnson et~al., 2016]{Johnson2016Metabolomics:Mechanisms}
+Johnson, C.~H., Ivanisevic, J., and Siuzdak, G. (2016).
+\newblock {Metabolomics: beyond biomarkers and towards mechanisms}.
+\newblock {\em Nature Reviews Molecular Cell Biology}, 17(7):451--459.
+
 \bibitem[Kafri et~al., 2006]{Kafri2006Thecircuits}
 Kafri, R., Levy, M., and Pilpel, Y. (2006).
 \newblock {The regulatory utilization of genetic redundancy through responsive
@@ -305,6 +336,12 @@ Kissen, R., {\O}verby, A., Winge, P., and Bones, A.~M. (2016).
   reprogramming including heat stress, oxidative stress and plant defence
   responses in Arabidopsis thaliana}.
 \newblock {\em BMC Genomics}, 17(1):740.
+
+\bibitem[Korte and Farlow, 2013]{Korte2013Thereview}
+Korte, A. and Farlow, A. (2013).
+\newblock {The advantages and limitations of trait analysis with GWAS: a
+  review.}
+\newblock {\em Plant methods}, 9:29.
 
 \bibitem[Lam et~al., 2008]{Lam2008BuildingProteomics}
 Lam, H., Deutsch, E.~W., Eddes, J.~S., Eng, J.~K., Stein, S.~E., and Aebersold,
@@ -391,15 +428,6 @@ Nagaraj, N., Wisniewski, J.~R., Geiger, T., Cox, J., Kircher, M., Kelso, J.,
   line.}
 \newblock {\em Molecular systems biology}, 7:548.
 
-\bibitem[Nilsson et~al., 2015]{Nilsson2015MeasurementSpectrometry}
-Nilsson, M.~E., Vandenput, L., Tivesten, s., Norl{\'{e}}n, A.-K., Lagerquist,
-  M.~K., Windahl, S.~H., B{\"{o}}rjesson, A.~E., Farman, H.~H., Poutanen, M.,
-  Benrick, A., Maliqueo, M., Stener-Victorin, E., Ryberg, H., and Ohlsson, C.
-  (2015).
-\newblock {Measurement of a Comprehensive Sex Steroid Profile in Rodent Serum
-  by High-Sensitive Gas Chromatography-Tandem Mass Spectrometry}.
-\newblock {\em Endocrinology}, 156(7):2492--2502.
-
 \bibitem[Paltiel et~al., 2008]{Paltiel2008}
 Paltiel, L., R{\o}nningen, K.~S., Meltzer, H.~M., Baker, S.~V., and Hoppin,
   J.~A. (2008).
@@ -407,16 +435,15 @@ Paltiel, L., R{\o}nningen, K.~S., Meltzer, H.~M., Baker, S.~V., and Hoppin,
   the Norwegian Mother and Child Cohort Study.}
 \newblock {\em Cell preservation technology}, 6(3):223--230.
 
+\bibitem[{Peter Kelmenson}, 2015]{PeterKelmenson}
+{Peter Kelmenson} (2015).
+\newblock {Oh no, my mice are balding!}
+
 \bibitem[Picotti and Aebersold, 2012]{Picotti2012SelectedDirections}
 Picotti, P. and Aebersold, R. (2012).
 \newblock Selected reaction monitoring-based proteomics: workflows, potential,
   pitfalls and future directions.
 \newblock {\em Nature methods}, 9(6):555--566.
-
-\bibitem[Pregitzer et~al., 2013]{Pregitzer2013GeneticLinkages.}
-Pregitzer, C.~C., Bailey, J.~K., and Schweitzer, J.~A. (2013).
-\newblock {Genetic by environment interactions affect plant-soil linkages.}
-\newblock {\em Ecology and evolution}, 3(7):2322--33.
 
 \bibitem[Reiter et~al., 2009]{Reiter2009ProteinSpectrometry}
 Reiter, L., Claassen, M., Schrimpf, S.~P., Jovanovic, M., Schmidt, A., Buhmann,
@@ -593,12 +620,6 @@ Venable, J.~D., Meng-Qiu, D., Wohlschlegel, J., Dillin, A., and Yates, J.~R.
   mixtures from tandem mass spectra.
 \newblock {\em Nature methods}, 1(1):39.
 
-\bibitem[Villas-B{\^o}as et~al., 2006]{Villas-BasSamplingPreparation}
-Villas-B{\^o}as, S.~G., Roessner, U., Hansen, M.~A., Smedsgaard, J., and
-  Nielsen, J. (2006).
-\newblock Sampling and sample preparation.
-\newblock {\em Metabolome analysis: An introduction}, pages 39--82.
-
 \bibitem[Visscher et~al., 2008]{Visscher2008Heritabilitymisconceptions}
 Visscher, P.~M., Hill, W.~G., and Wray, N.~R. (2008).
 \newblock {Heritability in the genomics era — concepts and misconceptions}.
@@ -621,6 +642,11 @@ Wang, X., Pandey, A.~K., Mulligan, M.~K., Williams, E.~G., Mozhui, K., Li, Z.,
 \newblock Joint mouse-human phenome-wide association to test gene function and
   disease risk.
 \newblock {\em Nature communications}, 7.
+
+\bibitem[Warden and Fisler, 2008]{Warden2008}
+Warden, C.~H. and Fisler, J.~S. (2008).
+\newblock {Comparisons of diets used in animal models of high-fat feeding.}
+\newblock {\em Cell metabolism}, 7(4):277.
 
 \bibitem[Wiese et~al., 1997]{Wiese1997Effect}
 Wiese, T.~J., Dunlap, J.~A., and Yorek, M.~A. (1997).
@@ -704,6 +730,12 @@ Xia, J., Wishart, D.~S., Xia, J., and Wishart, D.~S. (2016).
   Analysis}.
 \newblock In {\em Current Protocols in Bioinformatics}, pages 1--14. John Wiley
   {\&} Sons, Inc., Hoboken, NJ, USA.
+
+\bibitem[Yong et~al., 2016]{Yong2016}
+Yong, W. T.~L., Chin, G. J. W.~L., and Rodrigues, K.~F. (2016).
+\newblock {Genetic Identification and Mass Propagation of Economically
+  Important Seaweeds}.
+\newblock In {\em Algae - Organisms for Imminent Biotechnology}. InTech.
 
 \bibitem[Yuan et~al., 2011]{Yuan2011Miceaging}
 Yuan, R., Peters, L.~L., and Paigen, B. (2011).
