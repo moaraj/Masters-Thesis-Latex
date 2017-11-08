@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.26)  5 NOV 2017 20:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.8)  8 NOV 2017 12:55
 entering extended mode
 **./Final_Thesis_without_Margins.tex
 (Final_Thesis_without_Margins.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls"
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk11.clo"
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
 File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,17 +22,14 @@ File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperre
-f.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-hyperref.sty"
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-generic.sty"
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -72,35 +69,29 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
-x.sty"
+("D:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook
-.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
-ns.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen103
 \Hy@linkcounter=\count88
 \Hy@pagecounter=\count89
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.
-def"
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count90
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperre
-f.cfg"
+("D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
@@ -113,7 +104,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count91
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -138,63 +129,53 @@ LaTeX Info: Redefining \pageref on input line 6432.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex
-.def"
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
 \Fld@listcount=\count96
 \c@bookmark@seq@number=\count97
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfi
-lecheck.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.st
-y"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip44
 \bibsep=\skip45
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count98
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendi
-x.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count99
 \c@@ppsavesec=\count100
 \c@@ppsaveapp=\count101
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-s.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
-y"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
-phics.cfg"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
-tex.def"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 \Gread@gobject=\count102
 )))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tabu\tabu.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\tabu\tabu.sty"
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen107
 \extrarowheight=\dimen108
@@ -202,8 +183,7 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip46
 \backup@length=\skip47
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\varwidth
-.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box26
 \sift@deathcycles=\count103
@@ -233,8 +213,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@vleads=\box30
 \tabu@cellskip=\skip48
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.
-sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
 \wrapoverhang=\dimen120
 \WF@size=\dimen121
 \c@WF@wrappedlines=\count110
@@ -242,14 +221,13 @@ sty"
 \WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpage
-s.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pdfpages.sty
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
-"
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count111
 \calc@Bcount=\count112
@@ -262,16 +240,13 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count113
 \calc@Cskip=\skip51
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.
-sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\eso-pic\eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.st
-y"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\col
-or.cfg"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -285,8 +260,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-x.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen124
 \Gin@req@width=\dimen125
@@ -294,8 +268,7 @@ Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 \AM@pagewidth=\dimen126
 \AM@pageheight=\dimen127
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdfte
-x.def"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pdfpages\pppdftex.def
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box32
@@ -304,8 +277,7 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count114
 \AM@templatesizebox=\box33
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
-y.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count115
 \Gm@cntv=\count116
@@ -320,9 +292,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen135
 \Gm@dimlist=\toks21
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
-y.cfg"))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("D:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count118
 \float@exts=\toks22
@@ -330,8 +301,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks23
 \@floatcapt=\box35
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotatin
-g.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count119
 \rotFPtop=\skip52
@@ -339,12 +309,10 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rot@float@box=\box36
 \rot@mess@toks=\toks24
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3
-.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen136
@@ -361,18 +329,14 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cancel\cancel.st
-y"
+("D:\Program Files\MiKTeX 2.9\tex\latex\cancel\cancel.sty"
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemformula\chem
-formula.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.s
-ty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\chemformula\chemformula.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
 Package: expl3 2017/09/18 L3 programming layer (loader) 
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-c
-ode.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.tex
 Package: expl3 2017/09/18 L3 programming layer (code)
 \c_max_int=\count121
 \l_tmpa_int=\count122
@@ -516,14 +480,13 @@ Package: expl3 2017/09/18 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen172
 \l__coffin_scaled_width_dim=\dimen173
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmo
-de.def"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count270
 \l__driver_tmp_box=\box52
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xpars
-e\xparse.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.s
+ty
 Package: xparse 2017/09/18 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count271
 \g__xparse_grabber_int=\count272
@@ -531,52 +494,48 @@ Package: xparse 2017/09/18 L3 Experimental document command parser
 \l__xparse_mandatory_args_int=\count274
 \l__xparse_v_nesting_int=\count275
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3key
-s2e\l3keys2e.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\l3keys2e\l3keys
+2e.sty
 Package: l3keys2e 2017/09/18 LaTeX2e option processing using LaTeX3 keys
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlaye
-r\tikz.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\p
-gf.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pg
-frcs.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfutil-common.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
 \pgfutil@everybye=\toks25
 \pgfutil@tempdima=\dimen174
 \pgfutil@tempdimb=\dimen175
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfutil-common-lists.tex"))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfutil-latex.def"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
 \pgfutil@abb=\box53
-
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+ (C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfrcs.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\p
-gfcore.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\
-pgfsys.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
-r\pgfsys.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfkeys.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
 \pgfkeys@pathtoks=\toks26
 \pgfkeys@temptoks=\toks27
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfkeysfiltered.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
 \pgfkeys@tmptoks=\toks28
 ))
 \pgf@x=\dimen176
@@ -597,42 +556,41 @@ pgfkeysfiltered.code.tex"
 \t@pgf@tokb=\toks30
 \t@pgf@tokc=\toks31
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
-r\pgf.cfg"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
-r\pgfsys-pdftex.def"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
-r\pgfsys-common-pdf.def"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
-r\pgfsyssoftpath.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count280
 \pgfsyssoftpath@bigbuffer@items=\count281
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlaye
-r\pgfsysprotocol.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcore.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-th.code.tex"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thcalc.code.tex"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thutil.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thparser.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
 \pgfmath@dimen=\dimen184
 \pgfmath@count=\count282
 \pgfmath@box=\box54
@@ -640,30 +598,30 @@ thparser.code.tex"
 \pgfmath@stack@operand=\toks33
 \pgfmath@stack@operation=\toks34
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.code.tex"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.basic.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.trigonometric.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.random.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.comparison.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.base.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.round.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.misc.code.tex")
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfunctions.integerarithmetics.code.tex")))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-thfloat.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
 \c@pgfmathroundto@lastzeros=\count283
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorepoints.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen185
 \pgf@picmaxx=\dimen186
@@ -680,128 +638,125 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen197
 \pgf@zy=\dimen198
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorepathconstruct.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen199
 \pgf@path@lasty=\dimen256
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorepathusage.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen257
 \pgf@shorten@start@additional=\dimen258
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorescopes.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
 \pgf@picture@serial@count=\count284
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoregraphicstate.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen259
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoretransformations.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen260
 \pgf@pt@y=\dimen261
 \pgf@pt@temp=\dimen262
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorequick.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoreobjects.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorepathprocessing.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorearrows.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen263
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoreshade.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen264
 \pgf@sys@shading@range@num=\count285
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoreimage.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoreexternal.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box58
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorelayers.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcoretransparency.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer
-\pgfcorepatterns.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pg
-fmoduleshapes.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box59
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pg
-fmoduleplot.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibilit
-y\pgfcomp-version-0-65.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen265
 \pgf@nodesepend=\dimen266
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibilit
-y\pgfcomp-version-1-18.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pg
-ffor.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pg
-fkeys.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgfkeys.code.tex"))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath
-.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-th.code.tex"))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\
-pgffor.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfma
-th.code.tex")
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
 \pgffor@iter=\dimen267
 \pgffor@skip=\dimen268
 \pgffor@stack=\toks35
 \pgffor@toks=\toks36
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendla
-yer\tikz\tikz.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\
-pgflibraryplothandlers.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count286
 \pgfplotmarksize=\dimen269
@@ -821,8 +776,8 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofcurrentchild=\count289
 \tikz@fig@count=\count290
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pg
-fmodulematrix.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count291
 \pgfmatrixcurrentcolumn=\count292
@@ -830,34 +785,28 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count294
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendla
-yer\tikz\libraries\tikzlibrarytopaths.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
-ty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks37
 \ex@=\dimen276
 ))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
-ty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen277
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
-ty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count295
@@ -898,10 +847,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xfrac
-\xfrac.sty"
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.st
-y"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xfrac\xfrac.sty
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -916,7 +863,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -983,8 +930,8 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xtemp
-late\xtemplate.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xtemplate\xtemp
+late.sty
 Package: xtemplate 2017/09/18 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen285
 \l__xtemplate_tmp_int=\count307
@@ -1011,20 +958,17 @@ Package: xfrac 2017/09/18 L3 Experimental split-level fractions
 . 
 . Defining command \sfrac with sig. 'omom' on line 419.
 .................................................
-)
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\units\nicefrac.s
-ty"
+) ("D:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseDisplaystyle=\skip64
 \L@UnitsRaiseTextstyle=\skip65
 \L@UnitsRaiseScriptstyle=\skip66
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrl
-file.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
 Package: scrlfile 2017/09/07 v3.24 KOMA-Script package (loading files)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\
-pgflibraryarrows.meta.code.tex"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+arrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
 \pgfarrowinset=\dimen291
 \pgfarrowlength=\dimen292
@@ -1246,8 +1190,7 @@ Package: chemformula 2017/03/23 v4.15e typeset chemical compounds and reactions
 . Defining command \setchemformula with sig. 'm' on line 3339.
 .................................................
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
 Package: siunitx 2017/08/02 v2.7j A comprehensive (SI) units package
 \l__siunitx_tmp_box=\box74
 \l__siunitx_tmp_dim=\dimen326
@@ -1406,34 +1349,30 @@ Package: siunitx 2017/08/02 v2.7j A comprehensive (SI) units package
 .................................................
 \g__file_internal_ior=\read2
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\translato
-r\translator.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\translat
+or.sty
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\translato
-r\translator-language-mappings.tex")))
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\translat
+or-language-mappings.tex)))
+("D:\Program Files\MiKTeX 2.9\tex\latex\was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epigraph\epigrap
-h.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\epigraph\epigraph.sty"
 Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 \beforeepigraphskip=\skip76
 \afterepigraphskip=\skip77
 \epigraphwidth=\skip78
 \epigraphrule=\skip79
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csvsimple\csvsim
-ple.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\csvsimple\csvsimple.sty
 Package: csvsimple 2016/07/01 version 1.20 LaTeX CSV file processing
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbo
-x.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count330
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.s
-ty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 69.
 )
@@ -1443,8 +1382,7 @@ Package shellesc Info: Restricted shell escape enabled on input line 69.
 \c@csvcol=\count333
 \csv@out=\write4
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktab
-s.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen338
 \lightrulewidth=\dimen339
@@ -1464,17 +1402,13 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count337
 \@thisrulewidth=\dimen350
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filecontents\fil
-econtents.sty"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\filecontents\filecontents.
+sty
 Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
 eX document
-)
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspac
-e.sty"
+) (C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlese
-c.sty"
+) (C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box81
 \beforetitleunit=\skip80
@@ -1487,7 +1421,8 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthfirst=\dimen355
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 90.
- (Final_Thesis_without_Margins.aux)
+
+(Final_Thesis_without_Margins.aux)
 \openout1 = `Final_Thesis_without_Margins.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
@@ -1508,19 +1443,17 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 100.
 
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 100.
 \AtBeginShipoutBox=\box82
 Package hyperref Info: Link coloring ON on input line 100.
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
-.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\getti
-tlestring.sty"
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count338
@@ -1528,14 +1461,13 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 100.
 LaTeX Info: Redefining \pageref on input line 100.
 LaTeX Info: Redefining \nameref on input line 100.
- (Final_Thesis_without_Margins.out)
-(Final_Thesis_without_Margins.out)
+
+(Final_Thesis_without_Margins.out) (Final_Thesis_without_Margins.out)
 \@outlinefile=\write5
 \openout5 = `Final_Thesis_without_Margins.out'.
 
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
-mkii"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count339
 \scratchdimen=\dimen356
@@ -1548,13 +1480,10 @@ mkii"
 \MPnumerator=\count343
 \makeMPintoPDFobject=\count344
 \everyMPtoPDFconversion=\toks44
-)
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
-f-base.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.
-sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1564,8 +1493,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflsca
-pe.sty"
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
@@ -1606,12 +1534,11 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\translato
-r\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict"
+(C:\Users\moara\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
+anslator-basic-dictionary\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-
-abbreviations.cfg"
+("D:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/08/02 v2.7j siunitx: Abbreviated units
 )
 \symgns@font=\mathgroup4
@@ -1628,10 +1555,11 @@ LaTeX Info: Redefining \micro on input line 100.
 Package gensymb Info: Using \textmu for \micro on input line 100.
 \c__siunitx_mathsf_int=\count345
 \c__siunitx_mathtt_int=\count346
- [1
+
+[1
 
 
-{C:/Users/hasanm7/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1640,7 +1568,8 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
  [2
 
-] (Final_Thesis_without_Margins.toc [3
+]
+(Final_Thesis_without_Margins.toc [3
 
 ] [4])
 \tf@toc=\write6
@@ -1663,15 +1592,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [9
 
 ]
-<1.Introduction_Figures/Experiment_Process.pdf, id=497, 794.97pt x 291.0875pt>
+<1.Introduction_Figures/Experiment_Process.pdf, id=496, 794.97pt x 291.0875pt>
 File: 1.Introduction_Figures/Experiment_Process.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/Experiment_Process.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/Experiment_Process.pdf used on 
-input line 146.
+input line 141.
 (pdftex.def)             Requested size: 476.98077pt x 174.65828pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 146--147
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 141--142
  [][] 
  []
 
@@ -1685,7 +1614,7 @@ File: 1.Introduction_Figures/Reductionnist_genetics.PNG Graphic file (type png)
 
  <use 1.Introduction_Figures/Reductionnist_genetics.PNG>
 Package pdftex.def Info: 1.Introduction_Figures/Reductionnist_genetics.PNG used
- on input line 159.
+ on input line 154.
 (pdftex.def)             Requested size: 397.485pt x 279.08861pt.
 
 Underfull \vbox (badness 1389) has occurred while \output is active []
@@ -1696,110 +1625,107 @@ File: 1.Introduction_Figures/Forward_Genetics.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/Forward_Genetics.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/Forward_Genetics.pdf used on in
-put line 174.
+put line 169.
 (pdftex.def)             Requested size: 397.485pt x 165.61925pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13 <./1.Introduction_Figures/Reductionnist_genetics.PNG>]
+ [13 <./1.Introduction_Figures/Reductionnist_genetics.PNG>] [14 <./1.Introducti
+on_Figures/Forward_Genetics.pdf>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 <./1.Introduction_Figures/Forward_Genetics.pdf>]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-
-<1.Introduction_Figures/nrg3575-f1.jpg, id=1504, 402.50375pt x 414.54875pt>
-File: 1.Introduction_Figures/nrg3575-f1.jpg Graphic file (type jpg)
-
-<use 1.Introduction_Figures/nrg3575-f1.jpg>
-Package pdftex.def Info: 1.Introduction_Figures/nrg3575-f1.jpg used on input li
-ne 191.
-(pdftex.def)             Requested size: 198.7425pt x 204.68672pt.
 
 Underfull \vbox (badness 1389) has occurred while \output is active []
 
  [15]
+<1.Introduction_Figures/nrg3575-f1.jpg, id=1527, 402.50375pt x 414.54875pt>
+File: 1.Introduction_Figures/nrg3575-f1.jpg Graphic file (type jpg)
+
+<use 1.Introduction_Figures/nrg3575-f1.jpg>
+Package pdftex.def Info: 1.Introduction_Figures/nrg3575-f1.jpg used on input li
+ne 187.
+(pdftex.def)             Requested size: 198.7425pt x 204.68672pt.
+ [16 <./1.Introduction_Figures/nrg3575-f1.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./1.Introduction_Figures/nrg3575-f1.jpg>] [17] [18]
-<1.Introduction_Figures/BodyWeights.pdf, id=1545, 397.485pt x 238.49101pt>
+ [17]
+Underfull \vbox (badness 1939) has occurred while \output is active []
+
+ [18]
+<1.Introduction_Figures/BodyWeights.pdf, id=1563, 397.485pt x 238.49101pt>
 File: 1.Introduction_Figures/BodyWeights.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/BodyWeights.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/BodyWeights.pdf used on input l
-ine 234.
+ine 230.
 (pdftex.def)             Requested size: 397.485pt x 238.49768pt.
+
+Underfull \vbox (badness 1389) has occurred while \output is active []
+
  [19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20 <./1.Introduction_Figures/BodyWeights.pdf>]
-<QTL_Results/QTL_Introduction.pdf, id=1604, 597.51233pt x 393.47pt>
+<QTL_Results/QTL_Introduction.pdf, id=1621, 597.51233pt x 393.47pt>
 File: QTL_Results/QTL_Introduction.pdf Graphic file (type pdf)
 
 <use QTL_Results/QTL_Introduction.pdf>
-Package pdftex.def Info: QTL_Results/QTL_Introduction.pdf used on input line 25
-0.
+Package pdftex.def Info: QTL_Results/QTL_Introduction.pdf used on input line 24
+6.
 (pdftex.def)             Requested size: 397.485pt x 261.75032pt.
  [21 <./QTL_Results/QTL_Introduction.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 270.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 266.
 
 
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 270.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 266.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
-Underfull \vbox (badness 1389) has occurred while \output is active []
+Underfull \vbox (badness 7256) has occurred while \output is active []
 
  [24]
-<1.Introduction_Figures/BXDs.png, id=1716, 593.21625pt x 350.30875pt>
+Underfull \vbox (badness 1389) has occurred while \output is active []
+
+ [25]
+<1.Introduction_Figures/BXDs.png, id=1741, 593.21625pt x 350.30875pt>
 File: 1.Introduction_Figures/BXDs.png Graphic file (type png)
 
 <use 1.Introduction_Figures/BXDs.png>
-Package pdftex.def Info: 1.Introduction_Figures/BXDs.png used on input line 300
+Package pdftex.def Info: 1.Introduction_Figures/BXDs.png used on input line 296
 .
 (pdftex.def)             Requested size: 397.485pt x 234.73236pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Overfull \hbox (8.97107pt too wide) in paragraph at lines 304--305
+Overfull \hbox (8.97107pt too wide) in paragraph at lines 300--301
 \OT1/cmr/m/n/10.95 The BXD mouse stock is gen-er-ated from the cross-ing of C57
 BL/6J(B) and DBA/2J(D)
  []
 
+[26 <./1.Introduction_Figures/BXDs.png>] [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 8094) has occurred while \output is active []
-
- [26 <./1.Introduction_Figures/BXDs.png>] [27] [28]
-<1.Introduction_Figures/Multiomics.pdf, id=1766, 693.792pt x 289.08pt>
+ [28]
+<1.Introduction_Figures/Multiomics.pdf, id=1782, 693.792pt x 289.08pt>
 File: 1.Introduction_Figures/Multiomics.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/Multiomics.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/Multiomics.pdf used on input li
-ne 323.
+ne 319.
 (pdftex.def)             Requested size: 476.98077pt x 198.742pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 323--324
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 319--320
 [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29 <./1.Introduction_Figures/Multiomics.pdf>] [30]
+[29 <./1.Introduction_Figures/Multiomics.pdf>] [30]
 Chapter 2.
 [31
 
@@ -1807,14 +1733,14 @@ Chapter 2.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
-<3.Metabolomics/pipeline.pdf, id=1869, 578.16pt x 794.97pt>
+<3.Metabolomics/pipeline.pdf, id=1886, 578.16pt x 794.97pt>
 File: 3.Metabolomics/pipeline.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/pipeline.pdf>
-Package pdftex.def Info: 3.Metabolomics/pipeline.pdf used on input line 354.
+Package pdftex.def Info: 3.Metabolomics/pipeline.pdf used on input line 350.
 (pdftex.def)             Requested size: 476.98077pt x 655.84622pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 354--355
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 350--351
 [][] 
  []
 
@@ -1826,14 +1752,14 @@ Overfull \vbox (77.68623pt too high) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-[36] <3.Metabolomics/Procedure.pdf, id=1954, 722.7pt x 481.8pt>
+[36] <3.Metabolomics/Procedure.pdf, id=1971, 722.7pt x 481.8pt>
 File: 3.Metabolomics/Procedure.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Procedure.pdf>
-Package pdftex.def Info: 3.Metabolomics/Procedure.pdf used on input line 383.
+Package pdftex.def Info: 3.Metabolomics/Procedure.pdf used on input line 379.
 (pdftex.def)             Requested size: 397.485pt x 264.99081pt.
 
-Overfull \hbox (10.44998pt too wide) in paragraph at lines 383--384
+Overfull \hbox (10.44998pt too wide) in paragraph at lines 379--380
  [][] 
  []
 
@@ -1844,61 +1770,61 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
-<2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png, id=2150, 997.5669pt x
+<2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png, id=2167, 997.5669pt x
  405.4347pt>
 File: 2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png Graphic file (typ
 e png)
  <use 2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.pn
-g used on input line 403.
+g used on input line 399.
 (pdftex.def)             Requested size: 397.485pt x 161.54617pt.
 
 [39 <./2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png (PNG copy)>]
-<2.Optimizaiton_Figures/bubbles1.pdf, id=2159, 597.50829pt x 845.0471pt>
+<2.Optimizaiton_Figures/bubbles1.pdf, id=2176, 597.50829pt x 845.0471pt>
 File: 2.Optimizaiton_Figures/bubbles1.pdf Graphic file (type pdf)
 
 <use 2.Optimizaiton_Figures/bubbles1.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/bubbles1.pdf used on input line
- 420.
+ 416.
 (pdftex.def)             Requested size: 327.04417pt x 462.52975pt.
  [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41 <./2.Optimizaiton_Figures/bubbles1.pdf>]
-<2.Optimizaiton_Figures/Hot_H1_01.png, id=2512, 301.125pt x 303.534pt>
+<2.Optimizaiton_Figures/Hot_H1_01.png, id=2529, 301.125pt x 303.534pt>
 File: 2.Optimizaiton_Figures/Hot_H1_01.png Graphic file (type png)
 
 <use 2.Optimizaiton_Figures/Hot_H1_01.png>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Hot_H1_01.png used on input lin
-e 430.
+e 426.
 (pdftex.def)             Requested size: 301.12425pt x 303.53325pt.
  [42 <./2.Optimizaiton_Figures/Hot_H1_01.png (PNG copy)>]
-<2.Optimizaiton_Figures/H1-H24-H2-01.png, id=2523, 502.2765pt x 301.125pt>
+<2.Optimizaiton_Figures/H1-H24-H2-01.png, id=2540, 502.2765pt x 301.125pt>
 File: 2.Optimizaiton_Figures/H1-H24-H2-01.png Graphic file (type png)
 
 <use 2.Optimizaiton_Figures/H1-H24-H2-01.png>
 Package pdftex.def Info: 2.Optimizaiton_Figures/H1-H24-H2-01.png used on input 
-line 441.
+line 437.
 (pdftex.def)             Requested size: 397.485pt x 238.30885pt.
 
-<2.Optimizaiton_Figures/NH24.png, id=2526, 445.1832pt x 268.6035pt>
+<2.Optimizaiton_Figures/NH24.png, id=2543, 445.1832pt x 268.6035pt>
 File: 2.Optimizaiton_Figures/NH24.png Graphic file (type png)
 
 <use 2.Optimizaiton_Figures/NH24.png>
-Package pdftex.def Info: 2.Optimizaiton_Figures/NH24.png used on input line 452
+Package pdftex.def Info: 2.Optimizaiton_Figures/NH24.png used on input line 448
 .
 (pdftex.def)             Requested size: 397.485pt x 239.83508pt.
  [43 <./2.Optimizaiton_Figures/H1-H24-H2-01.png (PNG copy)>] [44 <./2.Optimizai
 ton_Figures/NH24.png (PNG copy)>]
-<2.Optimizaiton_Figures/Extraction_Details.pdf, id=2539, 597.51233pt x 341.275p
+<2.Optimizaiton_Figures/Extraction_Details.pdf, id=2556, 597.51233pt x 341.275p
 t>
 File: 2.Optimizaiton_Figures/Extraction_Details.pdf Graphic file (type pdf)
  <use 2.Optimizaiton_Figures/Extraction_Details.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Extraction_Details.pdf used on 
-input line 475.
+input line 471.
 (pdftex.def)             Requested size: 476.98077pt x 272.43712pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 475--476
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 471--472
 [][] 
  []
 
@@ -1906,15 +1832,15 @@ Overfull \hbox (79.49577pt too wide) in paragraph at lines 475--476
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46 <./2.Optimizaiton_Figures/Extraction_Details.pdf>]
-<2.Optimizaiton_Figures/Freeze_Thaw.pdf, id=2586, 614.295pt x 252.945pt>
+<2.Optimizaiton_Figures/Freeze_Thaw.pdf, id=2603, 614.295pt x 252.945pt>
 File: 2.Optimizaiton_Figures/Freeze_Thaw.pdf Graphic file (type pdf)
 
 <use 2.Optimizaiton_Figures/Freeze_Thaw.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Freeze_Thaw.pdf used on input l
-ine 490.
+ine 486.
 (pdftex.def)             Requested size: 476.98077pt x 196.40472pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 490--491
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 486--487
  [][] 
  []
 
@@ -1923,40 +1849,40 @@ Underfull \vbox (badness 1701) has occurred while \output is active []
 
  [47]
 [48 <./2.Optimizaiton_Figures/Freeze_Thaw.pdf>]
-<2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf, id=2642, 552.0625pt x 361.35pt>
+<2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf, id=2659, 552.0625pt x 361.35pt>
 File: 2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf Graphic file (type pdf)
 <use 2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf used on 
-input line 505.
+input line 501.
 (pdftex.def)             Requested size: 476.98077pt x 312.2216pt.
 
-<2.Optimizaiton_Figures/TIC_Blank_Final.pdf, id=2643, 552.0625pt x 361.35pt>
+<2.Optimizaiton_Figures/TIC_Blank_Final.pdf, id=2660, 552.0625pt x 361.35pt>
 File: 2.Optimizaiton_Figures/TIC_Blank_Final.pdf Graphic file (type pdf)
 
 <use 2.Optimizaiton_Figures/TIC_Blank_Final.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/TIC_Blank_Final.pdf used on inp
-ut line 506.
+ut line 502.
 (pdftex.def)             Requested size: 476.98077pt x 312.2216pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 505--507
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 501--503
  [][] 
  []
 
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 505--507
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 501--503
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 69.28322pt on input line 509.
+LaTeX Warning: Float too large for page by 69.28322pt on input line 505.
 
 [49] [50 <./2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf> <./2.Optimizaiton_Fi
 gures/TIC_Blank_Final.pdf>]
-<3.Metabolomics/MS.pdf, id=5924, 578.16pt x 361.35pt>
+<3.Metabolomics/MS.pdf, id=5941, 578.16pt x 361.35pt>
 File: 3.Metabolomics/MS.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MS.pdf>
-Package pdftex.def Info: 3.Metabolomics/MS.pdf used on input line 528.
+Package pdftex.def Info: 3.Metabolomics/MS.pdf used on input line 524.
 (pdftex.def)             Requested size: 397.485pt x 248.42752pt.
 
 Underfull \vbox (badness 1478) has occurred while \output is active []
@@ -1967,74 +1893,74 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [52 <./3.Metabolomics/MS.pdf>]
-<3.Metabolomics/Peak_filtering.png, id=6140, 756.6669pt x 319.9152pt>
+<3.Metabolomics/Peak_filtering.png, id=6157, 756.6669pt x 319.9152pt>
 File: 3.Metabolomics/Peak_filtering.png Graphic file (type png)
 
 <use 3.Metabolomics/Peak_filtering.png>
 Package pdftex.def Info: 3.Metabolomics/Peak_filtering.png used on input line 5
-39.
+35.
 (pdftex.def)             Requested size: 476.98077pt x 201.6648pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 539--540
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 535--536
  [][] 
  []
 
 [53 <./3.Metabolomics/Peak_filtering.png (PNG copy)>]
-<3.Metabolomics/Raw_Signal.pdf, id=6157, 612.2875pt x 519.9425pt>
+<3.Metabolomics/Raw_Signal.pdf, id=6174, 612.2875pt x 519.9425pt>
 File: 3.Metabolomics/Raw_Signal.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Raw_Signal.pdf>
-Package pdftex.def Info: 3.Metabolomics/Raw_Signal.pdf used on input line 550.
+Package pdftex.def Info: 3.Metabolomics/Raw_Signal.pdf used on input line 546.
 (pdftex.def)             Requested size: 476.98077pt x 405.04576pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 550--553
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 546--549
  [][] 
  []
 
 [54 <./3.Metabolomics/Raw_Signal.pdf>]
-<3.Metabolomics/Factor_Densities_Final.pdf, id=6597, 505.89pt x 542.025pt>
+<3.Metabolomics/Factor_Densities_Final.pdf, id=6614, 505.89pt x 542.025pt>
 File: 3.Metabolomics/Factor_Densities_Final.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Factor_Densities_Final.pdf>
 Package pdftex.def Info: 3.Metabolomics/Factor_Densities_Final.pdf used on inpu
-t line 565.
+t line 561.
 (pdftex.def)             Requested size: 397.485pt x 425.88754pt.
 
 
-Package caption Warning: \label without proper reference on input line 1095.
+Package caption Warning: \label without proper reference on input line 1091.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `appendix:Metabolome Coverage' on page 55 undefined on
- input line 572.
+ input line 568.
 
-<3.Metabolomics/Metabolite_Set_Overlap.pdf, id=6599, 531.9875pt x 501.875pt>
+<3.Metabolomics/Metabolite_Set_Overlap.pdf, id=6616, 531.9875pt x 501.875pt>
 File: 3.Metabolomics/Metabolite_Set_Overlap.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Metabolite_Set_Overlap.pdf>
 Package pdftex.def Info: 3.Metabolomics/Metabolite_Set_Overlap.pdf used on inpu
-t line 576.
+t line 572.
 (pdftex.def)             Requested size: 278.23828pt x 262.49278pt.
  [55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [56 <./3.Metabolomics/Factor_Densities_Final.pdf>]
-<3.Metabolomics/CV_TIC.pdf, id=6869, 794.97pt x 317.98799pt>
+<3.Metabolomics/CV_TIC.pdf, id=6886, 794.97pt x 317.98799pt>
 File: 3.Metabolomics/CV_TIC.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/CV_TIC.pdf>
-Package pdftex.def Info: 3.Metabolomics/CV_TIC.pdf used on input line 586.
+Package pdftex.def Info: 3.Metabolomics/CV_TIC.pdf used on input line 582.
 (pdftex.def)             Requested size: 516.7317pt x 206.69943pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57 <./3.Metabolomics/Metabolite_Set_Overlap.pdf>]
-<3.Metabolomics/Good_and_Bad_Metabolites.pdf, id=6899, 597.51233pt x 411.5375pt
+<3.Metabolomics/Good_and_Bad_Metabolites.pdf, id=6916, 597.51233pt x 411.5375pt
 >
 File: 3.Metabolomics/Good_and_Bad_Metabolites.pdf Graphic file (type pdf)
  <use 3.Metabolomics/Good_and_Bad_Metabolites.pdf>
 Package pdftex.def Info: 3.Metabolomics/Good_and_Bad_Metabolites.pdf used on in
-put line 595.
+put line 591.
 (pdftex.def)             Requested size: 397.485pt x 273.76947pt.
  [58 <./3.Metabolomics/CV_TIC.pdf>]
 Underfull \vbox (badness 2680) has occurred while \output is active []
@@ -2042,42 +1968,42 @@ Underfull \vbox (badness 2680) has occurred while \output is active []
  [59 <./3.Metabolomics/Good_and_Bad_Metabolites.pdf>]
 
 LaTeX Warning: Reference `Fig:Clustering Analysis' on page 60 undefined on inpu
-t line 604.
+t line 600.
 
 
-<5.Clustering_Results/Clustering_Results_1_Done.pdf, id=7023, 614.295pt x 371.3
+<5.Clustering_Results/Clustering_Results_1_Done.pdf, id=7040, 614.295pt x 371.3
 875pt>
 File: 5.Clustering_Results/Clustering_Results_1_Done.pdf Graphic file (type pdf
 )
  <use 5.Clustering_Results/Clustering_Results_1_Done.pdf>
 Package pdftex.def Info: 5.Clustering_Results/Clustering_Results_1_Done.pdf use
-d on input line 607.
+d on input line 603.
 (pdftex.def)             Requested size: 238.49342pt x 144.18884pt.
 
-<5.Clustering_Results/Clustering_Results_6_Final.pdf, id=7024, 614.295pt x 371.
+<5.Clustering_Results/Clustering_Results_6_Final.pdf, id=7041, 614.295pt x 371.
 3875pt>
 File: 5.Clustering_Results/Clustering_Results_6_Final.pdf Graphic file (type pd
 f)
  <use 5.Clustering_Results/Clustering_Results_6_Final.pdf>
 Package pdftex.def Info: 5.Clustering_Results/Clustering_Results_6_Final.pdf us
-ed on input line 607.
+ed on input line 603.
 (pdftex.def)             Requested size: 238.49342pt x 144.18884pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60 <./5.Clustering_Results/Clustering_Results_1_Done.pdf> <./5.Clustering_Res
 ults/Clustering_Results_6_Final.pdf>]
-<3.Metabolomics/Volcano.pdf, id=7073, 751.60799pt x 448.07399pt>
+<3.Metabolomics/Volcano.pdf, id=7090, 751.60799pt x 448.07399pt>
 File: 3.Metabolomics/Volcano.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Volcano.pdf>
-Package pdftex.def Info: 3.Metabolomics/Volcano.pdf used on input line 624.
+Package pdftex.def Info: 3.Metabolomics/Volcano.pdf used on input line 620.
 (pdftex.def)             Requested size: 397.485pt x 236.96529pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [61]
-Overfull \hbox (0.6987pt too wide) in paragraph at lines 632--634
+Overfull \hbox (0.6987pt too wide) in paragraph at lines 628--630
 []\OT1/cmr/bx/n/10.95 Aminoadipate & 2-Oxoadipate: \OT1/cmr/m/n/10.95 Aminoad-i
 -pate and 2-oxoadipate are both degra-
  []
@@ -2089,12 +2015,12 @@ Missing character: There is no µ in font cmr10!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-<3.Metabolomics/Top_3_Diet_Metabolites.pdf, id=7184, 597.51233pt x 451.6875pt>
+<3.Metabolomics/Top_3_Diet_Metabolites.pdf, id=7201, 597.51233pt x 451.6875pt>
 File: 3.Metabolomics/Top_3_Diet_Metabolites.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Top_3_Diet_Metabolites.pdf>
 Package pdftex.def Info: 3.Metabolomics/Top_3_Diet_Metabolites.pdf used on inpu
-t line 649.
+t line 645.
 (pdftex.def)             Requested size: 397.485pt x 300.47868pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2106,14 +2032,14 @@ Missing character: There is no ô in font cmr10!
 Underfull \vbox (badness 1389) has occurred while \output is active []
 
  [64]
-<QTL_Results/QTL_Densities.pdf, id=7195, 845.0471pt x 471.7625pt>
+<QTL_Results/QTL_Densities.pdf, id=7212, 845.0471pt x 471.7625pt>
 File: QTL_Results/QTL_Densities.pdf Graphic file (type pdf)
 
 <use QTL_Results/QTL_Densities.pdf>
-Package pdftex.def Info: QTL_Results/QTL_Densities.pdf used on input line 662.
+Package pdftex.def Info: QTL_Results/QTL_Densities.pdf used on input line 658.
 (pdftex.def)             Requested size: 476.98077pt x 266.28716pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 662--663
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 658--659
 [][] 
  []
 
@@ -2121,26 +2047,26 @@ Overfull \hbox (79.49577pt too wide) in paragraph at lines 662--663
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65 <./3.Metabolomics/Top_3_Diet_Metabolites.pdf>] [66 <./QTL_Results/QTL_Dens
-ities.pdf>] <QTL_Results/D2HG_QTL.pdf, id=7453, 597.51233pt x 441.65pt>
+ities.pdf>] <QTL_Results/D2HG_QTL.pdf, id=7470, 597.51233pt x 441.65pt>
 File: QTL_Results/D2HG_QTL.pdf Graphic file (type pdf)
 
 <use QTL_Results/D2HG_QTL.pdf>
-Package pdftex.def Info: QTL_Results/D2HG_QTL.pdf used on input line 670.
+Package pdftex.def Info: QTL_Results/D2HG_QTL.pdf used on input line 666.
 (pdftex.def)             Requested size: 476.98077pt x 352.5657pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 670--671
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 666--667
 [][] 
  []
 
-<3.Metabolomics/QTL_Results.pdf, id=7454, 597.6729pt x 281.85298pt>
+<3.Metabolomics/QTL_Results.pdf, id=7471, 597.6729pt x 281.85298pt>
 File: 3.Metabolomics/QTL_Results.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/QTL_Results.pdf>
-Package pdftex.def Info: 3.Metabolomics/QTL_Results.pdf used on input line 677.
+Package pdftex.def Info: 3.Metabolomics/QTL_Results.pdf used on input line 673.
 
 (pdftex.def)             Requested size: 476.98077pt x 224.9408pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 677--678
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 673--674
  [][] 
  []
 
@@ -2149,19 +2075,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [67]
 [68 <./QTL_Results/D2HG_QTL.pdf>] [69 <./3.Metabolomics/QTL_Results.pdf>]
-<3.Metabolomics/KEGG_Path_Correlations.pdf, id=7535, 614.295pt x 224.037pt>
+<3.Metabolomics/KEGG_Path_Correlations.pdf, id=7552, 614.295pt x 224.037pt>
 File: 3.Metabolomics/KEGG_Path_Correlations.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/KEGG_Path_Correlations.pdf>
 Package pdftex.def Info: 3.Metabolomics/KEGG_Path_Correlations.pdf used on inpu
-t line 693.
+t line 689.
 (pdftex.def)             Requested size: 397.485pt x 144.96596pt.
  [70 <./3.Metabolomics/KEGG_Path_Correlations.pdf>]
-<3.Metabolomics/MSEA.pdf, id=7585, 520.34402pt x 281.85298pt>
+<3.Metabolomics/MSEA.pdf, id=7602, 520.34402pt x 281.85298pt>
 File: 3.Metabolomics/MSEA.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA.pdf>
-Package pdftex.def Info: 3.Metabolomics/MSEA.pdf used on input line 702.
+Package pdftex.def Info: 3.Metabolomics/MSEA.pdf used on input line 698.
 (pdftex.def)             Requested size: 572.38156pt x 310.05644pt.
 Missing character: There is no Œ in font cmr9!
 Missing character: There is no ≥ in font cmr9!
@@ -2173,23 +2099,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [73
 
 ]
-<3.Proteomics/peptide_frags.pdf, id=7681, 350.06082pt x 195.06476pt>
+<3.Proteomics/peptide_frags.pdf, id=7698, 350.06082pt x 195.06476pt>
 File: 3.Proteomics/peptide_frags.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/peptide_frags.pdf>
-Package pdftex.def Info: 3.Proteomics/peptide_frags.pdf used on input line 721.
+Package pdftex.def Info: 3.Proteomics/peptide_frags.pdf used on input line 717.
 
 (pdftex.def)             Requested size: 238.49342pt x 132.89824pt.
  [74]
-<3.Proteomics/Mass_Spec.pdf, id=7702, 578.16pt x 426.39299pt>
+<3.Proteomics/Mass_Spec.pdf, id=7719, 578.16pt x 426.39299pt>
 File: 3.Proteomics/Mass_Spec.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/Mass_Spec.pdf>
-Package pdftex.def Info: 3.Proteomics/Mass_Spec.pdf used on input line 733.
+Package pdftex.def Info: 3.Proteomics/Mass_Spec.pdf used on input line 729.
 (pdftex.def)             Requested size: 357.73407pt x 263.82741pt.
 
 
-Package natbib Warning: Citation `-' on page 75 undefined on input line 734.
+Package natbib Warning: Citation `-' on page 75 undefined on input line 730.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2198,46 +2124,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [76 <./3.Proteomics/Mass_Spec.pdf>]
-<3.Proteomics/XIC.pdf, id=7814, 597.50829pt x 230.8625pt>
+<3.Proteomics/XIC.pdf, id=7831, 597.50829pt x 230.8625pt>
 File: 3.Proteomics/XIC.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/XIC.pdf>
-Package pdftex.def Info: 3.Proteomics/XIC.pdf used on input line 745.
+Package pdftex.def Info: 3.Proteomics/XIC.pdf used on input line 741.
 (pdftex.def)             Requested size: 397.485pt x 153.57799pt.
 
 Underfull \vbox (badness 6364) has occurred while \output is active []
 
  [77 <./3.Proteomics/XIC.pdf>]
-<3.Proteomics/DIA_SWATH_Principle_1.pdf, id=7977, 505.56178pt x 238.49101pt>
+<3.Proteomics/DIA_SWATH_Principle_1.pdf, id=7994, 505.56178pt x 238.49101pt>
 File: 3.Proteomics/DIA_SWATH_Principle_1.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/DIA_SWATH_Principle_1.pdf>
 Package pdftex.def Info: 3.Proteomics/DIA_SWATH_Principle_1.pdf used on input l
-ine 755.
+ine 751.
 (pdftex.def)             Requested size: 397.485pt x 187.51788pt.
  [78 <./3.Proteomics/DIA_SWATH_Principle_1.pdf>] [79]
-Overfull \hbox (1.91557pt too wide) in paragraph at lines 770--771
+Overfull \hbox (1.91557pt too wide) in paragraph at lines 766--767
 \OT1/cmr/m/n/10.95 To an-a-lyze com-plex pro-teins mix-tures ex-tracted from th
 e BXD Mouse liv-ers, SWATH
  []
 
-[80] <3.Proteomics/Spectral_Library_Gen.pdf, id=8162, 578.16pt x 289.08pt>
+[80] <3.Proteomics/Spectral_Library_Gen.pdf, id=8179, 578.16pt x 289.08pt>
 File: 3.Proteomics/Spectral_Library_Gen.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/Spectral_Library_Gen.pdf>
 Package pdftex.def Info: 3.Proteomics/Spectral_Library_Gen.pdf used on input li
-ne 781.
+ne 777.
 (pdftex.def)             Requested size: 397.485pt x 198.742pt.
  [81 <./3.Proteomics/Spectral_Library_Gen.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [82]
-<3.Proteomics/DIA_SWATH_Principle_2.pdf, id=8284, 1074.0125pt x 794.97pt>
+<3.Proteomics/DIA_SWATH_Principle_2.pdf, id=8301, 1074.0125pt x 794.97pt>
 File: 3.Proteomics/DIA_SWATH_Principle_2.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/DIA_SWATH_Principle_2.pdf>
 Package pdftex.def Info: 3.Proteomics/DIA_SWATH_Principle_2.pdf used on input l
-ine 801.
+ine 797.
 (pdftex.def)             Requested size: 397.485pt x 294.20708pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2256,23 +2182,23 @@ Missing character: There is no ì in font cmr10!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [85]
-<3.Proteomics/protein_cvs_figure.pdf, id=8426, 505.89pt x 331.2375pt>
+<3.Proteomics/protein_cvs_figure.pdf, id=8443, 505.89pt x 331.2375pt>
 File: 3.Proteomics/protein_cvs_figure.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/protein_cvs_figure.pdf>
 Package pdftex.def Info: 3.Proteomics/protein_cvs_figure.pdf used on input line
- 820.
+ 816.
 (pdftex.def)             Requested size: 397.485pt x 260.2646pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [86 <./3.Proteomics/protein_cvs_figure.pdf>]
-<3.Proteomics/Protein_foldchanges.png, id=8506, 744.7825pt x 421.575pt>
+<3.Proteomics/Protein_foldchanges.png, id=8523, 744.7825pt x 421.575pt>
 File: 3.Proteomics/Protein_foldchanges.png Graphic file (type png)
 
 <use 3.Proteomics/Protein_foldchanges.png>
 Package pdftex.def Info: 3.Proteomics/Protein_foldchanges.png used on input lin
-e 833.
+e 829.
 (pdftex.def)             Requested size: 397.485pt x 224.99683pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2284,36 +2210,36 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [89]
-<3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf, id=8537, 614.295pt x 7
+<3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf, id=8554, 614.295pt x 7
 94.97pt>
 File: 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf Graphic file (type
  pdf)
  <use 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>
 Package pdftex.def Info: 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf
- used on input line 860.
+ used on input line 856.
 (pdftex.def)             Requested size: 437.23592pt x 565.83977pt.
 
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 860--861
+Overfull \hbox (39.75092pt too wide) in paragraph at lines 856--857
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 53.67978pt on input line 863.
+LaTeX Warning: Float too large for page by 53.67978pt on input line 859.
 
 [90] [91 <./3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>]
-<"3.Proteomics/Proteomics_Vingette_SVM_Age".pdf, id=8642, 614.295pt x 794.97pt>
+<"3.Proteomics/Proteomics_Vingette_SVM_Age".pdf, id=8659, 614.295pt x 794.97pt>
 File: "3.Proteomics/Proteomics_Vingette_SVM_Age".pdf Graphic file (type pdf)
 <use "3.Proteomics/Proteomics_Vingette_SVM_Age".pdf>
 Package pdftex.def Info: "3.Proteomics/Proteomics_Vingette_SVM_Age".pdf used on
- input line 872.
+ input line 868.
 (pdftex.def)             Requested size: 437.23592pt x 565.83977pt.
 
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 872--873
+Overfull \hbox (39.75092pt too wide) in paragraph at lines 868--869
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 53.67978pt on input line 875.
+LaTeX Warning: Float too large for page by 53.67978pt on input line 871.
 
 [92
 
@@ -2325,11 +2251,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [94
 
 ]
-<3.Trancriptomics/Affimetrix_Chip_ZoomIn.png, id=8728, 1357.07pt x 765.86125pt>
+<3.Trancriptomics/Affimetrix_Chip_ZoomIn.png, id=8745, 1357.07pt x 765.86125pt>
 File: 3.Trancriptomics/Affimetrix_Chip_ZoomIn.png Graphic file (type png)
 <use 3.Trancriptomics/Affimetrix_Chip_ZoomIn.png>
 Package pdftex.def Info: 3.Trancriptomics/Affimetrix_Chip_ZoomIn.png used on in
-put line 890.
+put line 886.
 (pdftex.def)             Requested size: 397.485pt x 224.31442pt.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no Æ in font cmr10!
@@ -2338,10 +2264,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [95 <./3.Trancriptomics/Affimetrix_Chip_ZoomIn.png>] [96]
 
-Package natbib Warning: Citation `' on page 97 undefined on input line 909.
+Package natbib Warning: Citation `' on page 97 undefined on input line 905.
 
 
-Overfull \hbox (43.88266pt too wide) in paragraph at lines 917--917
+Overfull \hbox (43.88266pt too wide) in paragraph at lines 913--913
 [] 
  []
 
@@ -2353,55 +2279,55 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [98]
 
+Package natbib Warning: Citation `' on page 99 undefined on input line 948.
+
+
 Package natbib Warning: Citation `' on page 99 undefined on input line 952.
 
 
-Package natbib Warning: Citation `' on page 99 undefined on input line 956.
-
-
-Package natbib Warning: Citation `' on page 99 undefined on input line 956.
+Package natbib Warning: Citation `' on page 99 undefined on input line 952.
 
 [99]
-<3.Trancriptomics/Variance_stablizaiton.pdf, id=8777, 803.0pt x 351.3125pt>
+<3.Trancriptomics/Variance_stablizaiton.pdf, id=8794, 803.0pt x 351.3125pt>
 File: 3.Trancriptomics/Variance_stablizaiton.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/Variance_stablizaiton.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Variance_stablizaiton.pdf used on inp
-ut line 959.
+ut line 955.
 (pdftex.def)             Requested size: 476.98077pt x 208.6824pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 959--960
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 955--956
 [][] 
  []
 
 
-Package natbib Warning: Citation `' on page 100 undefined on input line 960.
+Package natbib Warning: Citation `' on page 100 undefined on input line 956.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [100 <./3.Trancriptomics/Variance_stablizaiton.pdf>]
-<3.Trancriptomics/transcript_CV_figure.pdf, id=8847, 614.295pt x 289.08pt>
+<3.Trancriptomics/transcript_CV_figure.pdf, id=8864, 614.295pt x 289.08pt>
 File: 3.Trancriptomics/transcript_CV_figure.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/transcript_CV_figure.pdf>
 Package pdftex.def Info: 3.Trancriptomics/transcript_CV_figure.pdf used on inpu
-t line 986.
+t line 982.
 (pdftex.def)             Requested size: 476.98077pt x 224.46254pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 986--987
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 982--983
  [][] 
  []
 
-<3.Trancriptomics/VolcanoTranscrpt.pdf, id=8848, 476.98201pt x 289.08pt>
+<3.Trancriptomics/VolcanoTranscrpt.pdf, id=8865, 476.98201pt x 289.08pt>
 File: 3.Trancriptomics/VolcanoTranscrpt.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/VolcanoTranscrpt.pdf>
 Package pdftex.def Info: 3.Trancriptomics/VolcanoTranscrpt.pdf used on input li
-ne 997.
+ne 993.
 (pdftex.def)             Requested size: 476.98077pt x 289.0837pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 997--998
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 993--994
  [][] 
  []
 
@@ -2411,36 +2337,36 @@ LaTeX Warning: Text page 102 contains only floats.
 
 [102 <./3.Trancriptomics/transcript_CV_figure.pdf> <./3.Trancriptomics/VolcanoT
 ranscrpt.pdf>]
-<3.Trancriptomics/Protein_RNA_COrr.pdf, id=9060, 673.51625pt x 208.78pt>
+<3.Trancriptomics/Protein_RNA_COrr.pdf, id=9077, 673.51625pt x 208.78pt>
 File: 3.Trancriptomics/Protein_RNA_COrr.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/Protein_RNA_COrr.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Protein_RNA_COrr.pdf used on input li
-ne 1006.
+ne 1002.
 (pdftex.def)             Requested size: 393.51233pt x 121.98447pt.
 
-<3.Trancriptomics/Integrated_Linoic_Acid.pdf, id=9061, 426.39299pt x 375.804pt>
+<3.Trancriptomics/Integrated_Linoic_Acid.pdf, id=9078, 426.39299pt x 375.804pt>
 File: 3.Trancriptomics/Integrated_Linoic_Acid.pdf Graphic file (type pdf)
 <use 3.Trancriptomics/Integrated_Linoic_Acid.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Integrated_Linoic_Acid.pdf used on in
-put line 1018.
+put line 1014.
 (pdftex.def)             Requested size: 397.485pt x 350.33705pt.
  [103 <./3.Trancriptomics/Protein_RNA_COrr.pdf>] [104 <./3.Trancriptomics/Integ
 rated_Linoic_Acid.pdf>]
-<3.Trancriptomics/Integrated_Tyrosine_protein.pdf, id=9135, 597.50829pt x 845.0
+<3.Trancriptomics/Integrated_Tyrosine_protein.pdf, id=9152, 597.50829pt x 845.0
 471pt>
 File: 3.Trancriptomics/Integrated_Tyrosine_protein.pdf Graphic file (type pdf)
  <use 3.Trancriptomics/Integrated_Tyrosine_protein.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Integrated_Tyrosine_protein.pdf used 
-on input line 1031.
+on input line 1027.
 (pdftex.def)             Requested size: 437.23592pt x 618.37502pt.
 
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 1031--1032
+Overfull \hbox (39.75092pt too wide) in paragraph at lines 1027--1028
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 51.21503pt on input line 1034.
+LaTeX Warning: Float too large for page by 51.21503pt on input line 1030.
 
 [105] [106 <./3.Trancriptomics/Integrated_Tyrosine_protein.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2458,13 +2384,13 @@ Chapter 5.
 [116]
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 327.
 
-
-("C:\Users\hasanm7\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+ ("D:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 327.
-[117] [118] [119] [120] [121]
+ [117] [118]
+[119] [120] [121]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -2479,75 +2405,75 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [127]
 Chapter 6.
 
-<Appendix_FIgures/Extraction_Kinetics_1.pdf, id=9301, 845.0471pt x 597.51233pt>
+<Appendix_FIgures/Extraction_Kinetics_1.pdf, id=9318, 845.0471pt x 597.51233pt>
 File: Appendix_FIgures/Extraction_Kinetics_1.pdf Graphic file (type pdf)
 <use Appendix_FIgures/Extraction_Kinetics_1.pdf>
 Package pdftex.def Info: Appendix_FIgures/Extraction_Kinetics_1.pdf used on inp
-ut line 1084.
+ut line 1080.
 (pdftex.def)             Requested size: 397.485pt x 281.04964pt.
  [128
 
 ] [129 <./Appendix_FIgures/Extraction_Kinetics_1.pdf>]
-<3.Metabolomics/Coverage.pdf, id=9353, 772.8875pt x 441.65pt>
+<3.Metabolomics/Coverage.pdf, id=9370, 772.8875pt x 441.65pt>
 File: 3.Metabolomics/Coverage.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Coverage.pdf>
-Package pdftex.def Info: 3.Metabolomics/Coverage.pdf used on input line 1093.
+Package pdftex.def Info: 3.Metabolomics/Coverage.pdf used on input line 1089.
 (pdftex.def)             Requested size: 397.485pt x 227.13217pt.
  [130
 
  <./3.Metabolomics/Coverage.pdf>]
-<Appendix_FIgures/4_Single_metab_plots.pdf, id=16334, 505.89pt x 505.89pt>
+<Appendix_FIgures/4_Single_metab_plots.pdf, id=16351, 505.89pt x 505.89pt>
 File: Appendix_FIgures/4_Single_metab_plots.pdf Graphic file (type pdf)
 
 <use Appendix_FIgures/4_Single_metab_plots.pdf>
 Package pdftex.def Info: Appendix_FIgures/4_Single_metab_plots.pdf used on inpu
-t line 1104.
+t line 1100.
 (pdftex.def)             Requested size: 397.485pt x 397.49504pt.
  [131
 
  <./Appendix_FIgures/4_Single_metab_plots.pdf>]
-<Appendix_FIgures/Strain_Wise_Diet_Filt.pdf, id=16346, 1084.05pt x 1084.05pt>
+<Appendix_FIgures/Strain_Wise_Diet_Filt.pdf, id=16363, 1084.05pt x 1084.05pt>
 File: Appendix_FIgures/Strain_Wise_Diet_Filt.pdf Graphic file (type pdf)
 
 <use Appendix_FIgures/Strain_Wise_Diet_Filt.pdf>
 Package pdftex.def Info: Appendix_FIgures/Strain_Wise_Diet_Filt.pdf used on inp
-ut line 1112.
+ut line 1108.
 (pdftex.def)             Requested size: 397.485pt x 397.48624pt.
  [132
 
  <./Appendix_FIgures/Strain_Wise_Diet_Filt.pdf>]
-<3.Metabolomics/Metabolite_QTL_Tables.pdf, id=16358, 614.295pt x 794.97pt>
+<3.Metabolomics/Metabolite_QTL_Tables.pdf, id=16375, 614.295pt x 794.97pt>
 File: 3.Metabolomics/Metabolite_QTL_Tables.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Metabolite_QTL_Tables.pdf>
 Package pdftex.def Info: 3.Metabolomics/Metabolite_QTL_Tables.pdf used on input
- line 1119.
+ line 1115.
 (pdftex.def)             Requested size: 357.73407pt x 462.95099pt.
  [133
 
  <./3.Metabolomics/Metabolite_QTL_Tables.pdf>]
-<3.Proteomics/protein_batch_effect_figure.pdf, id=16426, 433.62pt x 289.08pt>
+<3.Proteomics/protein_batch_effect_figure.pdf, id=16443, 433.62pt x 289.08pt>
 File: 3.Proteomics/protein_batch_effect_figure.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/protein_batch_effect_figure.pdf>
 Package pdftex.def Info: 3.Proteomics/protein_batch_effect_figure.pdf used on i
-nput line 1129.
+nput line 1125.
 (pdftex.def)             Requested size: 278.23828pt x 185.50018pt.
 
-<"3.Proteomics/Proteomics PCA".pdf, id=16427, 722.7pt x 722.7pt>
+<"3.Proteomics/Proteomics PCA".pdf, id=16444, 722.7pt x 722.7pt>
 File: "3.Proteomics/Proteomics PCA".pdf Graphic file (type pdf)
 
 <use "3.Proteomics/Proteomics PCA".pdf>
 Package pdftex.def Info: "3.Proteomics/Proteomics PCA".pdf used on input line 1
-130.
+126.
 (pdftex.def)             Requested size: 278.23828pt x 278.23483pt.
 
-<Appendix_FIgures/metabotes.png, id=16428, 722.7pt x 722.7pt>
+<Appendix_FIgures/metabotes.png, id=16445, 722.7pt x 722.7pt>
 File: Appendix_FIgures/metabotes.png Graphic file (type png)
 
 <use Appendix_FIgures/metabotes.png>
-Package pdftex.def Info: Appendix_FIgures/metabotes.png used on input line 1138
+Package pdftex.def Info: Appendix_FIgures/metabotes.png used on input line 1134
 .
 (pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
  [134
@@ -2561,28 +2487,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [135 <./3.Proteomics/protein_batch_effect_figure.pdf> <./3.Proteomics/Proteomi
 cs PCA.pdf>] [136 <./Appendix_FIgures/metabotes.png>]
-<Appendix_FIgures/power_stat_3_dpi72.png, id=16458, 722.7pt x 722.7pt>
+<Appendix_FIgures/power_stat_3_dpi72.png, id=16475, 722.7pt x 722.7pt>
 File: Appendix_FIgures/power_stat_3_dpi72.png Graphic file (type png)
 
 <use Appendix_FIgures/power_stat_3_dpi72.png>
 Package pdftex.def Info: Appendix_FIgures/power_stat_3_dpi72.png used on input 
-line 1144.
+line 1140.
 (pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
  [137
 
  <./Appendix_FIgures/power_stat_3_dpi72.png>]
-<Appendix_FIgures/protomics_overview_statistics.png, id=16464, 722.7pt x 722.7p
+<Appendix_FIgures/protomics_overview_statistics.png, id=16481, 722.7pt x 722.7p
 t>
 File: Appendix_FIgures/protomics_overview_statistics.png Graphic file (type png
 )
  <use Appendix_FIgures/protomics_overview_statistics.png>
 Package pdftex.def Info: Appendix_FIgures/protomics_overview_statistics.png use
-d on input line 1150.
+d on input line 1146.
 (pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
  [138
 
  <./Appendix_FIgures/protomics_overview_statistics.png>]
-Overfull \hbox (1.92102pt too wide) in paragraph at lines 1156--1156
+Overfull \hbox (1.92102pt too wide) in paragraph at lines 1152--1152
 |[]\OT1/cmr/bx/n/14.4 Appendix: MSEA Metabo-lite Path-way En-rich-ment
  []
 
@@ -2590,45 +2516,45 @@ Overfull \hbox (1.92102pt too wide) in paragraph at lines 1156--1156
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<3.Metabolomics/MSEA_charts_1.pdf, id=16470, 614.295pt x 794.97pt>
+<3.Metabolomics/MSEA_charts_1.pdf, id=16487, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_1.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_1.pdf>
 Package pdftex.def Info: 3.Metabolomics/MSEA_charts_1.pdf used on input line 11
-60.
+56.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_2.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<3.Metabolomics/MSEA_charts_2.pdf, id=16471, 614.295pt x 794.97pt>
+<3.Metabolomics/MSEA_charts_2.pdf, id=16488, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_2.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_2.pdf>
 Package pdftex.def Info: 3.Metabolomics/MSEA_charts_2.pdf used on input line 11
-65.
+61.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_3.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<3.Metabolomics/MSEA_charts_3.pdf, id=16472, 614.295pt x 794.97pt>
+<3.Metabolomics/MSEA_charts_3.pdf, id=16489, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_3.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_3.pdf>
 Package pdftex.def Info: 3.Metabolomics/MSEA_charts_3.pdf used on input line 11
-70.
+66.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_4.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<3.Metabolomics/MSEA_charts_4.pdf, id=16473, 614.295pt x 794.97pt>
+<3.Metabolomics/MSEA_charts_4.pdf, id=16490, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_4.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_4.pdf>
 Package pdftex.def Info: 3.Metabolomics/MSEA_charts_4.pdf used on input line 11
-75.
+71.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
@@ -2639,11 +2565,11 @@ Package natbib Warning: There were undefined citations.
 ] [140 <./3.Metabolomics/MSEA_charts_1.pdf>] [141 <./3.Metabolomics/MSEA_charts
 _2.pdf>] [142 <./3.Metabolomics/MSEA_charts_3.pdf>] [143 <./3.Metabolomics/MSEA
 _charts_4.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1182.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1182.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1178.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1178.
  (Final_Thesis_without_Margins.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1182.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1182.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1178.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1178.
 
 Package rerunfilecheck Info: File `Final_Thesis_without_Margins.out' has not ch
 anged.
@@ -2652,48 +2578,42 @@ anged.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1182.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1178.
  ) 
 Here is how much of TeX's memory you used:
- 33863 strings out of 493323
- 693663 string characters out of 3129147
- 724892 words of memory out of 3000000
- 36477 multiletter control sequences out of 15000+200000
+ 33867 strings out of 493323
+ 688740 string characters out of 3139066
+ 725013 words of memory out of 3000000
+ 36480 multiletter control sequences out of 15000+200000
  546616 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,11n,69p,10375b,1053s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\hasanm7\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\tcrm1095.pk><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbx10.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hasanm7/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/hasanm7/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Us
-ers/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/hasanm7/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/hasanm7/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hasa
-nm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr17.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr6.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/hasanm7/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/hasanm7/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/h
-asanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmti10.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/latxfont/line10.pfb><C:/Users/hasanm7/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb
+ <C:\Users\moara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tcrm1095.pk><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi9.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/la
+txfont/line10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb
 
-pdfTeX warning: pdflatex.exe (file C:/Users/hasanm7/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/lm/lmr12.pfb): glyph `f_i' undefined
+pdfTeX warning: pdflatex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmr12.pfb): glyph `f_i' undefined
 >
-Output written on Final_Thesis_without_Margins.pdf (143 pages, 51340804 bytes).
+Output written on Final_Thesis_without_Margins.pdf (143 pages, 51404298 bytes).
 
 PDF statistics:
- 16673 PDF objects out of 18468 (max. 8388607)
- 404 named destinations out of 1000 (max. 500000)
+ 16690 PDF objects out of 18468 (max. 8388607)
+ 405 named destinations out of 1000 (max. 500000)
  919 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,7 +12,7 @@
 \contentsline {subsection}{\numberline {1.10.1}Model Mouse Population: BXD Mice}{26}{subsection.1.10.1}
 \contentsline {subsection}{\numberline {1.10.2}Mouse Diets: Components of Chow and High Fat diet}{27}{subsection.1.10.2}
 \contentsline {subsection}{\numberline {1.10.3}Mouse Sex: Male and Female Mouse considerations}{27}{subsection.1.10.3}
-\contentsline {section}{\numberline {1.11}Why Multiple Omics}{28}{section.1.11}
+\contentsline {section}{\numberline {1.11}Why Multiple Omics}{29}{section.1.11}
 \contentsline {chapter}{\numberline {2}Metabolomics}{31}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction to Non-Targeted Metabolomics}{31}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Metabolomics Methods}{33}{subsection.2.1.1}
