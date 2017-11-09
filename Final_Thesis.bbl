@@ -76,6 +76,10 @@ Becker, D.~J. and Lowe, J.~B. (2003).
 \newblock {Fucose: biosynthesis and biological function in mammals}.
 \newblock {\em Glycobiology}, 13(7):41R--53R.
 
+\bibitem[{Ben Bolstad}, 2003]{BenBolstad2003}
+{Ben Bolstad}, R. (2003).
+\newblock {Software for affy data analysis}.
+
 \bibitem[Bolstad et~al., 2003]{Bolstad2003}
 Bolstad, B.~M., Irizarry, R.~A., Astrand, M., and Speed, T.~P. (2003).
 \newblock {A comparison of normalization methods for high density
