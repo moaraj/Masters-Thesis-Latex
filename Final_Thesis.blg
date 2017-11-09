@@ -6,27 +6,28 @@ I was expecting a `,' or a `}'---line 554 of file Thesis_refs.bib
  :  urldate = {2017-11-08}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 883 of file Thesis_refs.bib
+I was expecting a `,' or a `}'---line 946 of file Thesis_refs.bib
  :  
  :  title = {{Metabolomics – Functional Genomics Center Zurich | ETH Zurich}},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 1108 of file Thesis_refs.bib
+Repeated entry---line 1171 of file Thesis_refs.bib
  : @article{Gillet2012TargetedAnalysis
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1677 of file Thesis_refs.bib
+Repeated entry---line 1740 of file Thesis_refs.bib
  : @article{Roepstorff1984LetterEditors
  :                                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1994 of file Thesis_refs.bib
+Repeated entry---line 2057 of file Thesis_refs.bib
  : @article{FangThermalInvestigation
  :                                  ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "-"
-Warning--I didn't find a database entry for ""
 Warning--empty booktitle in Broman2009AR/qtl
-Warning--empty journal in Goel2017RandomForest
+Warning--empty journal in Cortez2016
+Warning--empty booktitle in Hastie2009
+Warning--empty journal in Liaw2015
 Warning--empty publisher in Mulligan2017GeneNetworkGenetics
 Warning--empty publisher in Rost2017AutomatedChromatograms
 Warning--empty journal in Saa2016

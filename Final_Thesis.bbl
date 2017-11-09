@@ -82,6 +82,11 @@ Bolstad, B.~M., Irizarry, R.~A., Astrand, M., and Speed, T.~P. (2003).
   oligonucleotide array data based on variance and bias.}
 \newblock {\em Bioinformatics (Oxford, England)}, 19(2):185--93.
 
+\bibitem[Breiman, 2001]{Breiman2001}
+Breiman, L. (2001).
+\newblock {Random Forests}.
+\newblock {\em Machine Learning}, 45(1):5--32.
+
 \bibitem[Broman and Sen, 2009]{Broman2009AR/qtl}
 Broman, K.~W. and Sen, S. (2009).
 \newblock A guide to qtl mapping with r/qtl.
@@ -124,6 +129,10 @@ Collaborative Cross~Consortium, C.~C. (2012).
 \newblock {The genome architecture of the Collaborative Cross mouse genetic
   reference population.}
 \newblock {\em Genetics}, 190(2):389--401.
+
+\bibitem[Cortez and Maintainer, 2016]{Cortez2016}
+Cortez, P. and Maintainer, . (2016).
+\newblock {Data Mining Classification and Regression Methods}.
 
 \bibitem[Czyz et~al., 2012]{Czyz2012Geneticdifferences}
 Czyz, W., Morahan, J.~M., Ebers, G.~C., and Ramagopalan, S.~V. (2012).
@@ -229,12 +238,6 @@ Glish, G.~L. and Vachet, R.~W. (2003).
 \newblock The basics of mass spectrometry in the twenty-first century.
 \newblock {\em Nature reviews. Drug discovery}, 2(2):140.
 
-\bibitem[Goel and Abhilasha, 2017]{Goel2017RandomForest}
-Goel, E. and Abhilasha, E. (2017).
-\newblock {International Journal of Advanced Research in Computer Science and
-  Software Engineering Random Forest: A Review}.
-\newblock 7(1).
-
 \bibitem[Goncalves et~al., 2016]{Goncalves2016Production}
 Goncalves, R.~L., Bunik, V.~I., and Brand, M.~D. (2016).
 \newblock {Production of superoxide/hydrogen peroxide by the mitochondrial
@@ -259,6 +262,11 @@ Hajian-Tilaki, K. (2013).
 Hartwell, L.~H., Hopfield, J.~J., Leibler, S., Murray, A.~W., et~al. (1999).
 \newblock From molecular to modular cell biology.
 \newblock {\em Nature}, 402(6761):C47.
+
+\bibitem[Hastie et~al., 2009]{Hastie2009}
+Hastie, T., Tibshirani, R., and Friedman, J. (2009).
+\newblock {Random Forests}.
+\newblock pages 587--604. Springer, New York, NY.
 
 \bibitem[Haynes et~al., 2009]{Haynes2009Sphingolipidomics:Sphingolipids}
 Haynes, C.~A., Allegood, J.~C., Park, H., and Sullards, M.~C. (2009).
@@ -368,6 +376,12 @@ Li, R., Yu, K., Hatanaka, T., and Hildebrand, D.~F. (2010).
 \newblock {{\textless}i{\textgreater}Vernonia{\textless}/i{\textgreater} DGATs
   increase accumulation of epoxy fatty acids in oil}.
 \newblock {\em Plant Biotechnology Journal}, 8(2):184--195.
+
+\bibitem[Liaw et~al., 2015]{Liaw2015}
+Liaw, A., Wiener, M., and {Andy Liaw}, M. (2015).
+\newblock {Breiman and Cutler's Random Forests for Classification and
+  Regression Description Classification and regression based on a forest of
+  trees using random inputs}.
 
 \bibitem[Liu et~al., 2013]{Liu2013QuantitativeSWATH-MS}
 Liu, Y., H{\"{u}}ttenhain, R., Surinova, S., Gillet, L.~C., Mouritsen, J.,

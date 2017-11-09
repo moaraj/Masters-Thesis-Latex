@@ -846,8 +846,10 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	\section{Random Forest}
 	
     Decision Tree methods are a widely used system for classifying large multivariate data. This method is non-parametric and dissects data into segments that start with a root node, and multiple branching nodes terminating in my leaf nodes. At each branch node, the data is segmented into two populations along a variable, this is down hierarchically, moving down the tree until a final classification is declared \citep{Song2015DecisionTrees}. Although tree methods have good interpretability and provide easy intervention options, classification trees use a greedy search algorithm and thus can be unstable\citep{Song2015DecisionTrees}. Good prediction results with the diet classifications can be made using tree methods because there are a few very strongly represented molecules in each diet. The age-related classification is not as good as fats(which show large variances and are not well measured) are often selected for partitioning the groups. Moreover, single tree methods are not stable when small sub-samples of the populations of mice (a few strains of interest) are used.
-	
-	Random Forests is an ensemble classifier which uses many decision tree models to predict a classification. A different subset training data is selected, with replacement to train each tree\citep{Goel2017RandomForest}. We can get an idea the mechanism from the name itself-"Random Forests". A collection trees is a forest, and the trees are being trained on subsets which are being selected at random, hence random forests\citep{Goel2017RandomForest}. This can be used for classification and old and young age group or regression against the 4 age cohorts.
+    
+  	Random forests are an extension of decision tree methods in which a large collection of de-correlated decision trees are built using random sample selection and then averaged \citep{Hastie2009}. For a given set of data, a subset of the data is randomly chosen and a decision tree is generated. Additionally, a random subsets of variables in the dataset is used for determining the split points in the decision trees. Many noise trees are generated from a random selection of data variables and generate an ensemble of classifications. Each tree in the ensemble gives a vote and a classification is made using a majority vote\citep{Hastie2009}.  
+  	
+  	The randomForest forest package in R is used to determine in a mouse sample's to determine the most important proteins cocnentrations for predicting age and diet cohorts \citep{Liaw2015}. Although Random Forests are difficult to interpret simply,\citeauthor{Breiman2001} suggest looking at the missclassification rates in each tree of the out of bag(OOB) samples with and without each variable to determining th \citep{Breiman2001}. This means after each tree is generated the OOB mouse samples are classified with and without certain proteins is computed in order to determine the importance of the protein in the prediciton \citep{Hastie2009}. 
 	
 	\begin{figure}[htb!]
 		\centering
@@ -859,7 +861,7 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	\clearpage
 	\section{Support Vector Machine}
 	
-	The SVM classifier is similar to older linear discriminant methods. In brief the algorithms attempts to construct the optimal hyperplane that can separate the old and young mouse cohorts\citep{Shawe-Taylor2011SVM}. 
+	The SVM classifier is similar to older linear discriminant methods. In brief the algorithms attempts to construct the optimal hyperplane that can separate the diet and age mouse cohorts\citep{Shawe-Taylor2011SVM}. The R package rminer is used in this case, with the varaible importance genreatedf rom the Imporatnce function \citep{Cortez2016}.
 	
 	\begin{figure}[htb!]
 		\centering
@@ -871,22 +873,22 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	
 	\section{Conclusions From Proteomics}
 	
-	In this section a small 22 mouse subset the 631 mice were analyzed using SWATH-MS. The protein quantification data that was put forth had many significantly different proteins for the different diet cohorts but very few significantly changed proteins in different age cohorts. As a result SVM and RF methods were used, producing very good classifications of whether the mice were young old on the basis 5 to a 100 proteins. Although the interpretability of these algorithms is difficult, one can try to look at over laps between common proteins selected across both SVm and random forest and perform QTL analysis in the future. The number of samples analyzed is extremely small in relation to all the other BXD proteome data that will be quantified in coming experiments. The preliminary proteins hits found here are used with the metabolite data and transcript data to try to construct age related protein network.
+    In this section, a small 22 mouse subset the 631 mice were analyzed using SWATH-MS. The protein quantification data that was put forth had many significantly different proteins for the different diet cohorts but very few significantly changed proteins in different age cohorts. As a result SVM and RF methods were used, producing very good classifications of whether the mice were young old on the basis 5 to 100 proteins. Although the interpretability of these algorithms is difficult, one can try to look at overlaps between common proteins selected across both SVM and random forest and perform QTL analysis in the future. The number of samples analyzed is extremely small in relation to all the other BXD proteome data that will be quantified in coming experiments. The preliminary proteins hit found here are used with the metabolite data and transcript data to try to construct age-related protein network.
 	
 	\chapter{Transcriptomics}
 	
 	\section{Introduction to Micro-arrays}
 	
-	Preliminary transcript data from 99 mice was also produced using Affimetrix microarrays. These microarrays are silicon substrates that have a library of known cDNA fragments immobilized to their surface in discrete pixels \citep{Miller2009MicroArrays}.  Experiments profiling the expression and relative abundance of a large set transcripts can be performed in a piece-wise manner. All of the transcripts in a samples are fictionalized with a fluorescent tag and introduced on to the surface of the microarray. When transcripts hybridize with complementary cDNA on the chip, the fluorescence intensity read off the chip using a charge-coupled device(CCD) camera is proportional to the concentration of the tagged transcript. Florescence standards on the chip seen in the red outline in figure \ref{fig: Zoomed-in Photograph of a Microarray} used to convert florescences throughout the chip into concentrations. Sometimes, the CCD camera can image certain parts the chip slightly lighter or dark, systematically biasing the measurements in segments of the photograph. The green box, shows a intensity normalization pixels that are placed throughout the chip in order to correct against irregularities in the CCD.
+    Preliminary transcript data from 99 mice was also produced using Affymetrix microarrays. These microarrays are silicon substrates that have a library of known cDNA fragments immobilized to their surface in discrete pixels \citep{Miller2009MicroArrays}.  Experiments profiling the expression and relative abundance of a large set transcripts can be performed in a piece-wise manner. All of the transcripts in samples are functionalized with a fluorescent tag and introduced on to the surface of the microarray. When transcripts hybridize with complementary cDNA on the chip, the fluorescence intensity read off the chip using a charge-coupled device(CCD) camera is proportional to the concentration of the tagged transcript. Fluorescence standards on the chip seen in the red outline in figure \ref{fig: Zoomed-in Photograph of a Microarray} used to convert florescences throughout the chip into concentrations. Sometimes, the CCD camera can image certain parts the chip slightly lighter or dark, systematically biasing the measurements in segments of the photograph. The green box shows an intensity normalization pixels that are placed throughout the chip in order to correct against irregularities in the CCD.
 	
 	\subsection{Transcriptomics Data Processing}
 	\begin{figure}
 		\includegraphics[width = 1.0\linewidth]{3.Trancriptomics/Affimetrix_Chip_ZoomIn.png}
-		\caption{A zoomed in picture a micro-array that can be processed to determine transcript levels. This is a one color array meaning single sample intensities are given. The red box is surrounding the intensity standards that are used to calibrate the intensity to transcript concentration ratio. The green box is around an intensity marker which is used to normalize the intensities across the chip irrespective defects that may capture different parts the chip with lower or higher intensities}
+		\caption{A zoomed in picture of a micro-array that can be processed to determine transcript levels. This is a one color array meaning single sample intensities are given. The red box is surrounding the intensity standards that are used to calibrate the intensity to transcript concentration ratio. The green box is around an intensity marker which is used to normalize the intensities across the chip irrespective defects that may capture different parts the chip with lower or higher intensities}
 		\label{fig: Zoomed-in Photograph of a Microarray}
 	\end{figure}
 	
-	Microarray experiment were not performed in-house. instead the BXD mouse liver tissues were frozen in $N_(2l)$ pulverized to a powder in a motor and pestle and shipped to the United states for precessing. At the facility, RNA is extracted from the mouse livers using the TRIzol® Plus RNA Purification System \citep{Rio2010TRIzol}). It is converted to cDNA and fictionalized with a florescent tag before micro-array analysis is done. The raw unprocessed DAT, CDF and CEL files were returned for analysis using RMA express and R.
+    Microarray experiments were not performed in-house. instead, the BXD mouse liver tissues were frozen in $N_(2l)$ pulverized to a powder in a motor and pestle and shipped to the United States for processing. At the facility, RNA is extracted from the mouse livers using the TRIzol® Plus RNA Purification System \citep{Rio2010TRIzol}). It is converted to cDNA and fictionalized with a fluorescent tag before microarray analysis is done. The raw unprocessed DAT, CDF, and CEL files were returned for analysis using RMA express and R.
 	
 	
 	\subsection{Data Extraction} 
@@ -900,7 +902,7 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	\subsection{Normalization}
 	When running experiments that involve multiple high density oligonucleotide arrays, it is important to remove sources variation between arrays non-biological origin. Normalization is a process for reducing this variation. It is common to see non-linear relations between arrays and the standard normalization provided by Affymetrix does not perform well in these situations.
 	
-	Many traditional statical methodologies such as t-tests which will be performed on the microarray data afterwards are based on the assumption normally distribution or at least symmetrically distributed data, with constant variance. if the assumptions are violated . All the follow model based normalization techniques are adapted from \citep{Durbin2002,}. 
+	Many traditional statical methodologies such as t-tests which will be performed on the microarray data afterwards are based on the assumption normally distribution or at least symmetrically distributed data, with constant variance. if the assumptions are violated . All the follow model based normalization techniques are adapted from \citep{Durbin2002}. 
 	\subsection{Model Based Error Subtraction}
 	An Error model is required to remove the non-biological noise from the system. in our model we assume 
 	
@@ -943,15 +945,15 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	
 	\subsection{Variance Stabilizing Normalization}
 	
-	Although the background noise has been subtracted a variance stabilization still needs to be performed on the data. This is because the coefficient variation is not constant throughout the dataset.  \citep{Durbin2002,}. There is a quadratic relation between 
+	Although the background noise has been subtracted a variance stabilization still needs to be performed on the data. This is because the coefficient variation is not constant throughout the dataset.  \citep{Durbin2002}. There is a quadratic relation between 
 	$v = var(Y_{ki}$ and $u = E(Y_{ki})$
 	$$v(u) = c^2(u-a_i)^2 + b_i^2s^2$$
 	
-	this relationship can be shown using empirical data. The figure below shows variance and expected values plotted against each-other illustrating the quadratic relationship. From visual inspection it seems a log transformation may benefit the micro array data, it is not obvious which transformation is optimal for stabilizing the variance in our data. \citep{Durbin2002,}.  Since the log transform is not defined for values under zero, values that become negative after the background subtraction are not defined, forced us to throw out large swaths data. Moreover, a log transformation provides good variance stabilization at high levels, but inflate the variance close to the detection threshold. \citep{Durbin2002,}.  Therefore, an arcsinh transformation is used instead as it behaves like the log transformation asymptotically but is linear in the lowest intensity regions.
+	this relationship can be shown using empirical data. The figure below shows variance and expected values plotted against each-other illustrating the quadratic relationship. From visual inspection it seems a log transformation may benefit the micro array data, it is not obvious which transformation is optimal for stabilizing the variance in our data. \citep{Durbin2002}.  Since the log transform is not defined for values under zero, values that become negative after the background subtraction are not defined, forced us to throw out large swaths data. Moreover, a log transformation provides good variance stabilization at high levels, but inflate the variance close to the detection threshold. \citep{Durbin2002}.  Therefore, an arcsinh transformation is used instead as it behaves like the log transformation asymptotically but is linear in the lowest intensity regions.
 	
 	\begin{figure}[ht]
 		\includegraphics[width=1.2\linewidth]{3.Trancriptomics/Variance_stablizaiton.pdf}
-		\caption{Adapted from  \citep{Durbin2002,}.(Left) The variance and mean relationship found in experimentally produced microarrray data. The red line shows a plot the v(u) described in at the end section 2.3.6(right) The variance stabilization transformation performed on the data. The green line represents a log transformation, and the dotted line the arcsinh transformation which is hte preferred transformation method   }
+		\caption{Adapted from  \citep{Durbin2002}.(Left) The variance and mean relationship found in experimentally produced microarrray data. The red line shows a plot the v(u) described in at the end section 2.3.6(right) The variance stabilization transformation performed on the data. The green line represents a log transformation, and the dotted line the arcsinh transformation which is hte preferred transformation method   }
 	\end{figure}
 	
 	The variance stabilization transformation used with out micro-array data is then
@@ -997,7 +999,7 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	
 	\begin{figure}[htb!]
 		\centering
-		\includegraphics[width=.99\linewidth]{3.Trancriptomics/Protein_RNA_COrr}
+		\includegraphics[width=\linewidth]{3.Trancriptomics/Protein_RNA_COrr}
 		\caption{Correlation Coefficients between protein and RNA}
 		\label{fig:proteinrnacorr}
 	\end{figure}
