@@ -197,8 +197,12 @@ Fakhro, K.~A., Staudt, M.~R., Ramstetter, M.~D., Robay, A., Malek, J.~A.,
   in the Middle East}.
 \newblock {\em Human Genome Variation}, 3:16016.
 
-\bibitem[Falconer and Mackay, 1996]{Falconer1996IntroductionGenetics}
-Falconer, D. S. D.~S. and Mackay, T. F.~C. (1996).
+\bibitem[Falconer and Mackay, 1996a]{Falconer1996}
+Falconer, D.~S. and Mackay, T. F.~C. (1996a).
+\newblock {Introduction to quantitative genetics}.
+
+\bibitem[Falconer and Mackay, 1996b]{Falconer1996IntroductionGenetics}
+Falconer, D. S. D.~S. and Mackay, T. F.~C. (1996b).
 \newblock {\em {Introduction to quantitative genetics}}.
 \newblock Longman.
 
@@ -592,8 +596,8 @@ Stadtman, E.~R. (2004).
 \newblock {Role of oxidant species in aging.}
 \newblock {\em Current medicinal chemistry}, 11(9):1105--12.
 
-\bibitem[{Stanford Medicine, }, 2017]{StanfordBloodTests}
-{Stanford Medicine, } (2017).
+\bibitem[{Stanford Medicine}, 2017]{StanfordBloodTests}
+{Stanford Medicine} (2017).
 \newblock Blood tests | stanford health care.
 
 \bibitem[Steen and Mann, 2004]{Steen2004TheSequencing}
@@ -748,12 +752,6 @@ Xia, J., Wishart, D.~S., Xia, J., and Wishart, D.~S. (2016).
   Analysis}.
 \newblock In {\em Current Protocols in Bioinformatics}, pages 1--14. John Wiley
   {\&} Sons, Inc., Hoboken, NJ, USA.
-
-\bibitem[Yong et~al., 2016]{Yong2016}
-Yong, W. T.~L., Chin, G. J. W.~L., and Rodrigues, K.~F. (2016).
-\newblock {Genetic Identification and Mass Propagation of Economically
-  Important Seaweeds}.
-\newblock In {\em Algae - Organisms for Imminent Biotechnology}. InTech.
 
 \bibitem[Yuan et~al., 2011]{Yuan2011Miceaging}
 Yuan, R., Peters, L.~L., and Paigen, B. (2011).
