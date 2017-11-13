@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.26)  10 NOV 2017 13:43
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.8)  9 NOV 2017 23:50
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.11.8)  13 NOV 2017 00:44
 entering extended mode
 **./Final_Thesis.tex
 (Final_Thesis.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-("D:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
-Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("D:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
-File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -1424,34 +1420,34 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen354
 \titlewidthfirst=\dimen355
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 90.
+Package hyperref Info: Option `colorlinks' set `true' on input line 91.
 
 (Final_Thesis.aux)
 \openout1 = `Final_Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 100.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 101.
 
  ("D:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    ... okay on input line 101.
 \AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring ON on input line 100.
+Package hyperref Info: Link coloring ON on input line 101.
 
 ("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1461,9 +1457,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count338
 )
-LaTeX Info: Redefining \ref on input line 100.
-LaTeX Info: Redefining \pageref on input line 100.
-LaTeX Info: Redefining \nameref on input line 100.
+LaTeX Info: Redefining \ref on input line 101.
+LaTeX Info: Redefining \pageref on input line 101.
+LaTeX Info: Redefining \nameref on input line 101.
 
 (Final_Thesis.out) (Final_Thesis.out)
 \@outlinefile=\write5
@@ -1507,7 +1503,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
 * v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
 * \paperwidth=614.295pt
@@ -1516,21 +1512,21 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \textheight=578.15999pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=4.26122pt
+* \topmargin=-0.86499pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
+* \headsep=25.0pt
 * \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=106.0pt
-* \marginparsep=7.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -1546,21 +1542,20 @@ File: siunitx-abbreviations.cfg 2017/08/02 v2.7j siunitx: Abbreviated units
 )
 \symgns@font=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 100.
-Package gensymb Info: Math companion symbols declared on input line 100.
-LaTeX Info: Redefining \degree on input line 100.
-LaTeX Info: Redefining \celsius on input line 100.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 101.
+Package gensymb Info: Math companion symbols declared on input line 101.
+LaTeX Info: Redefining \degree on input line 101.
+LaTeX Info: Redefining \celsius on input line 101.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 100.
-LaTeX Info: Redefining \ohm on input line 100.
-Package gensymb Info: Using \textohm for \ohm on input line 100.
-LaTeX Info: Redefining \micro on input line 100.
-Package gensymb Info: Using \textmu for \micro on input line 100.
+erthousand on input line 101.
+LaTeX Info: Redefining \ohm on input line 101.
+Package gensymb Info: Using \textohm for \ohm on input line 101.
+LaTeX Info: Redefining \micro on input line 101.
+Package gensymb Info: Using \textmu for \micro on input line 101.
 \c__siunitx_mathsf_int=\count345
 \c__siunitx_mathtt_int=\count346
 
 [1
-
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Missing character: There is no ‚ in font cmr10!
@@ -1569,635 +1564,361 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [2
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 		\tableofcontents
+                        {} [1
 
-] (Final_Thesis.toc
-[3
+] (Final_Thesis.toc [2
 
-] [4])
+] [3])
 \tf@toc=\write6
 \openout6 = `Final_Thesis.toc'.
 
- [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [4] [5
 
- [6
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-[8]
+] [6] [7]
 Chapter 1.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9
+[8
 
 ]
-<1.Introduction_Figures/Experiment_Process.pdf, id=496, 794.97pt x 291.0875pt>
+<1.Introduction_Figures/Experiment_Process.pdf, id=507, 794.97pt x 291.0875pt>
 File: 1.Introduction_Figures/Experiment_Process.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/Experiment_Process.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/Experiment_Process.pdf used on 
-input line 141.
+input line 146.
 (pdftex.def)             Requested size: 476.98077pt x 174.65828pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 141--142
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 146--147
  [][] 
  []
 
-[10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11 <./1.Introduction_Figures/Experiment_Process.pdf>]
-<1.Introduction_Figures/Reductionnist_genetics.PNG, id=1452, 530.73282pt x 372.
+[9] [10 <./1.Introduction_Figures/Experiment_Process.pdf>]
+<1.Introduction_Figures/Reductionnist_genetics.PNG, id=1463, 530.73282pt x 372.
 64218pt>
 File: 1.Introduction_Figures/Reductionnist_genetics.PNG Graphic file (type png)
 
  <use 1.Introduction_Figures/Reductionnist_genetics.PNG>
 Package pdftex.def Info: 1.Introduction_Figures/Reductionnist_genetics.PNG used
- on input line 154.
+ on input line 159.
 (pdftex.def)             Requested size: 397.485pt x 279.08861pt.
-
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
- [12]
-[13 <./1.Introduction_Figures/Reductionnist_genetics.PNG>]
-<1.Introduction_Figures/Forward_Genetics.pdf, id=1482, 481.8pt x 552.0625pt>
+ [11] [12 <./1.Introduction_Figures/Reductionnist_genetics.PNG>]
+<1.Introduction_Figures/Forward_Genetics.pdf, id=1493, 481.8pt x 552.0625pt>
 File: 1.Introduction_Figures/Forward_Genetics.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/Forward_Genetics.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/Forward_Genetics.pdf used on in
-put line 171.
+put line 176.
 (pdftex.def)             Requested size: 397.485pt x 455.46559pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15 <./1.Introduction_Figures/Forward_Genetics.pdf>]
-<1.Introduction_Figures/nrg3575-f1.jpg, id=1529, 402.50375pt x 414.54875pt>
+ [13] [14 <./1.Introduction_Figures/Forward_Genetics.pdf>]
+<1.Introduction_Figures/nrg3575-f1.jpg, id=1540, 402.50375pt x 414.54875pt>
 File: 1.Introduction_Figures/nrg3575-f1.jpg Graphic file (type jpg)
 
 <use 1.Introduction_Figures/nrg3575-f1.jpg>
 Package pdftex.def Info: 1.Introduction_Figures/nrg3575-f1.jpg used on input li
-ne 187.
+ne 192.
 (pdftex.def)             Requested size: 238.49342pt x 245.63167pt.
-
-Underfull \vbox (badness 7256) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17 <./1.Introduction_Figures/nrg3575-f1.jpg>] [18] [19]
-<1.Introduction_Figures/BodyWeights.pdf, id=1572, 397.485pt x 238.49101pt>
+ [15] [16 <./1.Introduction_Figures/nrg3575-f1.jpg>] [17] [18]
+<1.Introduction_Figures/BodyWeights.pdf, id=1583, 397.485pt x 238.49101pt>
 File: 1.Introduction_Figures/BodyWeights.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/BodyWeights.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/BodyWeights.pdf used on input l
-ine 230.
+ine 235.
 (pdftex.def)             Requested size: 397.485pt x 238.49768pt.
-
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
- [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21 <./1.Introduction_Figures/BodyWeights.pdf>]
-<QTL_Results/QTL_Introduction.pdf, id=1644, 597.51233pt x 393.47pt>
+ [19] [20 <./1.Introduction_Figures/BodyWeights.pdf>]
+<QTL_Results/QTL_Introduction.pdf, id=1655, 597.51233pt x 393.47pt>
 File: QTL_Results/QTL_Introduction.pdf Graphic file (type pdf)
 
 <use QTL_Results/QTL_Introduction.pdf>
-Package pdftex.def Info: QTL_Results/QTL_Introduction.pdf used on input line 24
-<<<<<<< HEAD
-9.
-=======
-8.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: QTL_Results/QTL_Introduction.pdf used on input line 25
+5.
 (pdftex.def)             Requested size: 397.485pt x 261.75032pt.
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [21] [22 <./QTL_Results/QTL_Introduction.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 271.
 
- [23 <./QTL_Results/QTL_Introduction.pdf>]
-<<<<<<< HEAD
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 265.
-=======
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 264.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-
-
-("D:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ ("D:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-<<<<<<< HEAD
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
-=======
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 264.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-[25]
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
- [26]
-<1.Introduction_Figures/BXDs.png, id=1772, 593.21625pt x 350.30875pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 271.
+ [23] [24]
+[25] <1.Introduction_Figures/BXDs.png, id=1783, 593.21625pt x 350.30875pt>
 File: 1.Introduction_Figures/BXDs.png Graphic file (type png)
 
 <use 1.Introduction_Figures/BXDs.png>
-<<<<<<< HEAD
-Package pdftex.def Info: 1.Introduction_Figures/BXDs.png used on input line 298
+Package pdftex.def Info: 1.Introduction_Figures/BXDs.png used on input line 304
 .
 (pdftex.def)             Requested size: 397.485pt x 234.73236pt.
 
-Overfull \hbox (8.97107pt too wide) in paragraph at lines 302--303
-=======
-Package pdftex.def Info: 1.Introduction_Figures/BXDs.png used on input line 297
-.
-(pdftex.def)             Requested size: 397.485pt x 234.73236pt.
-
-Overfull \hbox (8.97107pt too wide) in paragraph at lines 301--302
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (8.97107pt too wide) in paragraph at lines 308--309
 \OT1/cmr/m/n/10.95 The BXD mouse stock is gen-er-ated from the cross-ing of C57
 BL/6J(B) and DBA/2J(D)
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27]
-Underfull \vbox (badness 8094) has occurred while \output is active []
-
- [28 <./1.Introduction_Figures/BXDs.png>]
-Underfull \vbox (badness 8170) has occurred while \output is active []
-
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-<1.Introduction_Figures/Multiomics.pdf, id=1836, 693.792pt x 289.08pt>
+[26] [27 <./1.Introduction_Figures/BXDs.png>] [28] [29]
+<1.Introduction_Figures/Multiomics.pdf, id=1847, 693.792pt x 289.08pt>
 File: 1.Introduction_Figures/Multiomics.pdf Graphic file (type pdf)
 
 <use 1.Introduction_Figures/Multiomics.pdf>
 Package pdftex.def Info: 1.Introduction_Figures/Multiomics.pdf used on input li
-<<<<<<< HEAD
-ne 324.
+ne 330.
 (pdftex.def)             Requested size: 476.98077pt x 198.742pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 324--325
-=======
-ne 323.
-(pdftex.def)             Requested size: 476.98077pt x 198.742pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 323--324
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 330--331
 [][] 
  []
 
-
-Underfull \vbox (badness 7256) has occurred while \output is active []
-
- [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32 <./1.Introduction_Figures/Multiomics.pdf>] [33]
+[30] [31 <./1.Introduction_Figures/Multiomics.pdf>] [32]
 Chapter 2.
-[34
+[33
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-Underfull \vbox (badness 1701) has occurred while \output is active []
-
- [36]
-<3.Metabolomics/pipeline.pdf, id=1955, 578.16pt x 794.97pt>
+] [34] [35] <3.Metabolomics/pipeline.pdf, id=1966, 578.16pt x 794.97pt>
 File: 3.Metabolomics/pipeline.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/pipeline.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/pipeline.pdf used on input line 358.
+Package pdftex.def Info: 3.Metabolomics/pipeline.pdf used on input line 364.
 (pdftex.def)             Requested size: 476.98077pt x 655.84622pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 358--360
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 364--366
 [][]
-=======
-Package pdftex.def Info: 3.Metabolomics/pipeline.pdf used on input line 356.
-(pdftex.def)             Requested size: 476.98077pt x 655.84622pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 356--357
-[][] 
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
  []
 
 
-LaTeX Warning: Float too large for page by 91.28624pt on input line 360.
+LaTeX Warning: Float too large for page by 91.28624pt on input line 366.
 
-
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
- [37]
-[38] <3.Metabolomics/Procedure.pdf, id=1988, 722.7pt x 481.8pt>
+[36] [37] <3.Metabolomics/Procedure.pdf, id=1999, 722.7pt x 481.8pt>
 File: 3.Metabolomics/Procedure.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Procedure.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/Procedure.pdf used on input line 392.
+Package pdftex.def Info: 3.Metabolomics/Procedure.pdf used on input line 398.
 (pdftex.def)             Requested size: 397.485pt x 264.99081pt.
 
-Overfull \hbox (10.44998pt too wide) in paragraph at lines 392--393
-=======
-Package pdftex.def Info: 3.Metabolomics/Procedure.pdf used on input line 387.
-(pdftex.def)             Requested size: 397.485pt x 264.99081pt.
-
-Overfull \hbox (10.44998pt too wide) in paragraph at lines 387--388
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (10.44998pt too wide) in paragraph at lines 398--399
  [][] 
  []
 
-[39]
-<2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png, id=1999, 997.5669pt x
+[38]
+<2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png, id=2010, 997.5669pt x
  405.4347pt>
 File: 2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png Graphic file (typ
 e png)
  <use 2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.pn
-<<<<<<< HEAD
-g used on input line 410.
-=======
-g used on input line 405.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+g used on input line 416.
 (pdftex.def)             Requested size: 397.485pt x 161.54617pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-<2.Optimizaiton_Figures/bubbles1.pdf, id=2012, 597.50829pt x 845.0471pt>
+[39] [40]
+<2.Optimizaiton_Figures/bubbles1.pdf, id=2023, 597.50829pt x 845.0471pt>
 File: 2.Optimizaiton_Figures/bubbles1.pdf Graphic file (type pdf)
 
 <use 2.Optimizaiton_Figures/bubbles1.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/bubbles1.pdf used on input line
-<<<<<<< HEAD
- 427.
-=======
- 422.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ 433.
 (pdftex.def)             Requested size: 327.04417pt x 462.52975pt.
 
-<2.Optimizaiton_Figures/Hot_H1_01.png, id=2018, 301.125pt x 303.534pt>
+<2.Optimizaiton_Figures/Hot_H1_01.png, id=2029, 301.125pt x 303.534pt>
 File: 2.Optimizaiton_Figures/Hot_H1_01.png Graphic file (type png)
 
 <use 2.Optimizaiton_Figures/Hot_H1_01.png>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Hot_H1_01.png used on input lin
-<<<<<<< HEAD
-e 437.
-=======
-e 432.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+e 443.
 (pdftex.def)             Requested size: 301.12425pt x 303.53325pt.
 
-<2.Optimizaiton_Figures/H1-H24-H2-01.png, id=2022, 502.2765pt x 301.125pt>
+<2.Optimizaiton_Figures/H1-H24-H2-01.png, id=2033, 502.2765pt x 301.125pt>
 File: 2.Optimizaiton_Figures/H1-H24-H2-01.png Graphic file (type png)
 
 <use 2.Optimizaiton_Figures/H1-H24-H2-01.png>
 Package pdftex.def Info: 2.Optimizaiton_Figures/H1-H24-H2-01.png used on input 
-<<<<<<< HEAD
-line 448.
-=======
-line 443.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+line 454.
 (pdftex.def)             Requested size: 397.485pt x 238.30885pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-<2.Optimizaiton_Figures/NH24.png, id=2033, 445.1832pt x 268.6035pt>
+ [41]
+<2.Optimizaiton_Figures/NH24.png, id=2044, 445.1832pt x 268.6035pt>
 File: 2.Optimizaiton_Figures/NH24.png Graphic file (type png)
 
 <use 2.Optimizaiton_Figures/NH24.png>
-<<<<<<< HEAD
-Package pdftex.def Info: 2.Optimizaiton_Figures/NH24.png used on input line 459
-=======
-Package pdftex.def Info: 2.Optimizaiton_Figures/NH24.png used on input line 454
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 2.Optimizaiton_Figures/NH24.png used on input line 465
 .
 (pdftex.def)             Requested size: 397.485pt x 239.83508pt.
- [43]
-<2.Optimizaiton_Figures/Extraction_Details.pdf, id=2042, 597.51233pt x 341.275p
+ [42]
+<2.Optimizaiton_Figures/Extraction_Details.pdf, id=2053, 597.51233pt x 341.275p
 t>
 File: 2.Optimizaiton_Figures/Extraction_Details.pdf Graphic file (type pdf)
  <use 2.Optimizaiton_Figures/Extraction_Details.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Extraction_Details.pdf used on 
-<<<<<<< HEAD
-input line 482.
+input line 488.
 (pdftex.def)             Requested size: 476.98077pt x 272.43712pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 482--483
-=======
-input line 477.
-(pdftex.def)             Requested size: 476.98077pt x 272.43712pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 477--478
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 488--489
 [][] 
  []
 
-[44] [45]
-<2.Optimizaiton_Figures/Freeze_Thaw.pdf, id=2068, 614.295pt x 252.945pt>
+[43] [44]
+<2.Optimizaiton_Figures/Freeze_Thaw.pdf, id=2079, 614.295pt x 252.945pt>
 File: 2.Optimizaiton_Figures/Freeze_Thaw.pdf Graphic file (type pdf)
 
 <use 2.Optimizaiton_Figures/Freeze_Thaw.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/Freeze_Thaw.pdf used on input l
-<<<<<<< HEAD
-ine 497.
+ine 503.
 (pdftex.def)             Requested size: 476.98077pt x 196.40472pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 497--498
-=======
-ine 492.
-(pdftex.def)             Requested size: 476.98077pt x 196.40472pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 492--493
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 503--504
  [][] 
  []
 
-
-Underfull \vbox (badness 1701) has occurred while \output is active []
-
- [46]
-<2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf, id=2085, 552.0625pt x 361.35pt>
+[45]
+<2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf, id=2096, 552.0625pt x 361.35pt>
 File: 2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf Graphic file (type pdf)
 <use 2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/TIC_All_Mice_Final.pdf used on 
-<<<<<<< HEAD
-input line 512.
-=======
-input line 507.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+input line 518.
 (pdftex.def)             Requested size: 476.98077pt x 312.2216pt.
 
-<2.Optimizaiton_Figures/TIC_Blank_Final.pdf, id=2086, 552.0625pt x 361.35pt>
+<2.Optimizaiton_Figures/TIC_Blank_Final.pdf, id=2097, 552.0625pt x 361.35pt>
 File: 2.Optimizaiton_Figures/TIC_Blank_Final.pdf Graphic file (type pdf)
 
 <use 2.Optimizaiton_Figures/TIC_Blank_Final.pdf>
 Package pdftex.def Info: 2.Optimizaiton_Figures/TIC_Blank_Final.pdf used on inp
-<<<<<<< HEAD
-ut line 513.
+ut line 519.
 (pdftex.def)             Requested size: 476.98077pt x 312.2216pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 512--514
-=======
-ut line 508.
-(pdftex.def)             Requested size: 476.98077pt x 312.2216pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 507--509
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 518--520
  [][] 
  []
 
 
-<<<<<<< HEAD
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 512--514
-=======
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 507--509
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 518--520
  [] 
  []
 
 
-<<<<<<< HEAD
-LaTeX Warning: Float too large for page by 69.28322pt on input line 516.
-=======
-LaTeX Warning: Float too large for page by 69.28322pt on input line 511.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+LaTeX Warning: Float too large for page by 69.28322pt on input line 522.
 
-[47] [48 <./3.Metabolomics/pipeline.pdf>] [49 <./3.Metabolomics/Procedure.pdf> 
+[46] [47 <./3.Metabolomics/pipeline.pdf>] [48 <./3.Metabolomics/Procedure.pdf> 
 <./2.Optimizaiton_Figures/Metab-Cold-Proto-MH-20170120.png (PNG copy)>]
-[50 <./2.Optimizaiton_Figures/bubbles1.pdf>] [51 <./2.Optimizaiton_Figures/Hot_
-H1_01.png (PNG copy)>] [52 <./2.Optimizaiton_Figures/H1-H24-H2-01.png (PNG copy
-)> <./2.Optimizaiton_Figures/NH24.png (PNG copy)>] [53 <./2.Optimizaiton_Figure
-s/Extraction_Details.pdf> <./2.Optimizaiton_Figures/Freeze_Thaw.pdf>] [54 <./2.
+[49 <./2.Optimizaiton_Figures/bubbles1.pdf>] [50 <./2.Optimizaiton_Figures/Hot_
+H1_01.png (PNG copy)>] [51 <./2.Optimizaiton_Figures/H1-H24-H2-01.png (PNG copy
+)> <./2.Optimizaiton_Figures/NH24.png (PNG copy)>] [52 <./2.Optimizaiton_Figure
+s/Extraction_Details.pdf> <./2.Optimizaiton_Figures/Freeze_Thaw.pdf>] [53 <./2.
 Optimizaiton_Figures/TIC_All_Mice_Final.pdf> <./2.Optimizaiton_Figures/TIC_Blan
-k_Final.pdf>] <3.Metabolomics/MS.pdf, id=6006, 578.16pt x 361.35pt>
+k_Final.pdf>] <3.Metabolomics/MS.pdf, id=6017, 578.16pt x 361.35pt>
 File: 3.Metabolomics/MS.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MS.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/MS.pdf used on input line 535.
-=======
-Package pdftex.def Info: 3.Metabolomics/MS.pdf used on input line 530.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/MS.pdf used on input line 541.
 (pdftex.def)             Requested size: 397.485pt x 248.42752pt.
+ [54
 
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
- [55
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56 <./3.Metabolomics/MS.pdf>]
-<3.Metabolomics/Peak_filtering.png, id=6223, 756.6669pt x 319.9152pt>
+] [55 <./3.Metabolomics/MS.pdf>]
+<3.Metabolomics/Peak_filtering.png, id=6234, 756.6669pt x 319.9152pt>
 File: 3.Metabolomics/Peak_filtering.png Graphic file (type png)
 
 <use 3.Metabolomics/Peak_filtering.png>
 Package pdftex.def Info: 3.Metabolomics/Peak_filtering.png used on input line 5
-<<<<<<< HEAD
-46.
+52.
 (pdftex.def)             Requested size: 476.98077pt x 201.6648pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 546--547
-=======
-41.
-(pdftex.def)             Requested size: 476.98077pt x 201.6648pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 541--542
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 552--553
  [][] 
  []
 
-[57 <./3.Metabolomics/Peak_filtering.png (PNG copy)>]
-<3.Metabolomics/Raw_Signal.pdf, id=6240, 612.2875pt x 519.9425pt>
+[56 <./3.Metabolomics/Peak_filtering.png (PNG copy)>]
+<3.Metabolomics/Raw_Signal.pdf, id=6251, 612.2875pt x 519.9425pt>
 File: 3.Metabolomics/Raw_Signal.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Raw_Signal.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/Raw_Signal.pdf used on input line 557.
+Package pdftex.def Info: 3.Metabolomics/Raw_Signal.pdf used on input line 563.
 (pdftex.def)             Requested size: 476.98077pt x 405.04576pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 557--560
-=======
-Package pdftex.def Info: 3.Metabolomics/Raw_Signal.pdf used on input line 552.
-(pdftex.def)             Requested size: 476.98077pt x 405.04576pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 552--555
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 563--566
  [][] 
  []
 
-[58 <./3.Metabolomics/Raw_Signal.pdf>]
-<3.Metabolomics/Factor_Densities_Final.pdf, id=6680, 505.89pt x 542.025pt>
+[57 <./3.Metabolomics/Raw_Signal.pdf>]
+<3.Metabolomics/Factor_Densities_Final.pdf, id=6691, 505.89pt x 542.025pt>
 File: 3.Metabolomics/Factor_Densities_Final.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Factor_Densities_Final.pdf>
 Package pdftex.def Info: 3.Metabolomics/Factor_Densities_Final.pdf used on inpu
-<<<<<<< HEAD
-t line 572.
+t line 578.
 (pdftex.def)             Requested size: 397.485pt x 425.88754pt.
 
 
-Package caption Warning: \label without proper reference on input line 1112.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `appendix:Metabolome Coverage' on page 59 undefined on
- input line 579.
-=======
-t line 567.
-(pdftex.def)             Requested size: 397.485pt x 425.88754pt.
-
-
-Package caption Warning: \label without proper reference on input line 1097.
+Package caption Warning: \label without proper reference on input line 1157.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `appendix:Metabolome Coverage' on page 58 undefined on
- input line 574.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ input line 585.
 
-<3.Metabolomics/Metabolite_Set_Overlap.pdf, id=6682, 531.9875pt x 501.875pt>
+<3.Metabolomics/Metabolite_Set_Overlap.pdf, id=6693, 531.9875pt x 501.875pt>
 File: 3.Metabolomics/Metabolite_Set_Overlap.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Metabolite_Set_Overlap.pdf>
 Package pdftex.def Info: 3.Metabolomics/Metabolite_Set_Overlap.pdf used on inpu
-<<<<<<< HEAD
-t line 583.
-=======
-t line 578.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+t line 589.
 (pdftex.def)             Requested size: 278.23828pt x 262.49278pt.
- [59]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [60 <./3.Metabolomics/Factor_Densities_Final.pdf>]
-<3.Metabolomics/CV_TIC.pdf, id=6951, 794.97pt x 317.98799pt>
+ [58] [59 <./3.Metabolomics/Factor_Densities_Final.pdf>]
+<3.Metabolomics/CV_TIC.pdf, id=6962, 794.97pt x 317.98799pt>
 File: 3.Metabolomics/CV_TIC.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/CV_TIC.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/CV_TIC.pdf used on input line 593.
-=======
-Package pdftex.def Info: 3.Metabolomics/CV_TIC.pdf used on input line 588.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/CV_TIC.pdf used on input line 599.
 (pdftex.def)             Requested size: 516.7317pt x 206.69943pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [61 <./3.Metabolomics/Metabolite_Set_Overlap.pdf>]
-<3.Metabolomics/Good_and_Bad_Metabolites.pdf, id=6982, 597.51233pt x 411.5375pt
+ [60 <./3.Metabolomics/Metabolite_Set_Overlap.pdf>]
+<3.Metabolomics/Good_and_Bad_Metabolites.pdf, id=6993, 597.51233pt x 411.5375pt
 >
 File: 3.Metabolomics/Good_and_Bad_Metabolites.pdf Graphic file (type pdf)
  <use 3.Metabolomics/Good_and_Bad_Metabolites.pdf>
 Package pdftex.def Info: 3.Metabolomics/Good_and_Bad_Metabolites.pdf used on in
-<<<<<<< HEAD
-put line 602.
-=======
-put line 597.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+put line 608.
 (pdftex.def)             Requested size: 397.485pt x 273.76947pt.
- [62 <./3.Metabolomics/CV_TIC.pdf>]
-Underfull \vbox (badness 2680) has occurred while \output is active []
-
- [63 <./3.Metabolomics/Good_and_Bad_Metabolites.pdf>]
-
-<<<<<<< HEAD
-LaTeX Warning: Reference `Fig:Clustering Analysis' on page 64 undefined on inpu
-t line 611.
-=======
-LaTeX Warning: Reference `Fig:Clustering Analysis' on page 63 undefined on inpu
-t line 606.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-
-
-<5.Clustering_Results/Clustering_Results_1_Done.pdf, id=7106, 614.295pt x 371.3
+ [61 <./3.Metabolomics/CV_TIC.pdf>] [62 <./3.Metabolomics/Good_and_Bad_Metaboli
+tes.pdf>]
+<5.Clustering_Results/Clustering_Results_1_Done.pdf, id=7118, 614.295pt x 371.3
 875pt>
 File: 5.Clustering_Results/Clustering_Results_1_Done.pdf Graphic file (type pdf
 )
  <use 5.Clustering_Results/Clustering_Results_1_Done.pdf>
 Package pdftex.def Info: 5.Clustering_Results/Clustering_Results_1_Done.pdf use
-<<<<<<< HEAD
-d on input line 614.
-=======
-d on input line 609.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+d on input line 620.
 (pdftex.def)             Requested size: 238.49342pt x 144.18884pt.
 
-<5.Clustering_Results/Clustering_Results_6_Final.pdf, id=7107, 614.295pt x 371.
+<5.Clustering_Results/Clustering_Results_6_Final.pdf, id=7119, 614.295pt x 371.
 3875pt>
 File: 5.Clustering_Results/Clustering_Results_6_Final.pdf Graphic file (type pd
 f)
  <use 5.Clustering_Results/Clustering_Results_6_Final.pdf>
 Package pdftex.def Info: 5.Clustering_Results/Clustering_Results_6_Final.pdf us
-<<<<<<< HEAD
-ed on input line 614.
-=======
-ed on input line 609.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ed on input line 620.
 (pdftex.def)             Requested size: 238.49342pt x 144.18884pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [64 <./5.Clustering_Results/Clustering_Results_1_Done.pdf> <./5.Clustering_Res
+ [63 <./5.Clustering_Results/Clustering_Results_1_Done.pdf> <./5.Clustering_Res
 ults/Clustering_Results_6_Final.pdf>]
-<3.Metabolomics/Volcano.pdf, id=7156, 751.60799pt x 448.07399pt>
+<3.Metabolomics/Volcano.pdf, id=7168, 751.60799pt x 448.07399pt>
 File: 3.Metabolomics/Volcano.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Volcano.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/Volcano.pdf used on input line 630.
-=======
-Package pdftex.def Info: 3.Metabolomics/Volcano.pdf used on input line 625.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/Volcano.pdf used on input line 636.
 (pdftex.def)             Requested size: 397.485pt x 236.96529pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [65]
-Overfull \hbox (0.6987pt too wide) in paragraph at lines 638--640
-=======
  [64]
-Overfull \hbox (0.6987pt too wide) in paragraph at lines 633--635
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (0.6987pt too wide) in paragraph at lines 644--646
 []\OT1/cmr/bx/n/10.95 Aminoadipate & 2-Oxoadipate: \OT1/cmr/m/n/10.95 Aminoad-i
 -pate and 2-oxoadipate are both degra-
  []
 
-[66 <./3.Metabolomics/Volcano.pdf>]
+[65 <./3.Metabolomics/Volcano.pdf>]
 Missing character: There is no œ in font cmr10!
 Missing character: There is no µ in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [67]
-<3.Metabolomics/Top_3_Diet_Metabolites.pdf, id=7267, 597.51233pt x 451.6875pt>
+ [66]
+<3.Metabolomics/Top_3_Diet_Metabolites.pdf, id=7279, 597.51233pt x 451.6875pt>
 File: 3.Metabolomics/Top_3_Diet_Metabolites.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Top_3_Diet_Metabolites.pdf>
 Package pdftex.def Info: 3.Metabolomics/Top_3_Diet_Metabolites.pdf used on inpu
-<<<<<<< HEAD
-t line 653.
-=======
-t line 648.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+t line 659.
 (pdftex.def)             Requested size: 397.485pt x 300.47868pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -2205,781 +1926,415 @@ Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-
-Underfull \vbox (badness 7256) has occurred while \output is active []
-
- [68]
-<QTL_Results/QTL_Densities.pdf, id=7278, 845.0471pt x 471.7625pt>
+ [67]
+<QTL_Results/QTL_Densities.pdf, id=7290, 845.0471pt x 471.7625pt>
 File: QTL_Results/QTL_Densities.pdf Graphic file (type pdf)
 
 <use QTL_Results/QTL_Densities.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: QTL_Results/QTL_Densities.pdf used on input line 666.
+Package pdftex.def Info: QTL_Results/QTL_Densities.pdf used on input line 672.
 (pdftex.def)             Requested size: 476.98077pt x 266.28716pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 666--667
-=======
-Package pdftex.def Info: QTL_Results/QTL_Densities.pdf used on input line 661.
-(pdftex.def)             Requested size: 476.98077pt x 266.28716pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 661--662
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 672--673
 [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69 <./3.Metabolomics/Top_3_Diet_Metabolites.pdf>] [70 <./QTL_Results/QTL_Dens
-ities.pdf>] <QTL_Results/D2HG_QTL.pdf, id=7536, 597.51233pt x 441.65pt>
+[68 <./3.Metabolomics/Top_3_Diet_Metabolites.pdf>] [69 <./QTL_Results/QTL_Densi
+ties.pdf>] <QTL_Results/D2HG_QTL.pdf, id=7548, 597.51233pt x 441.65pt>
 File: QTL_Results/D2HG_QTL.pdf Graphic file (type pdf)
 
 <use QTL_Results/D2HG_QTL.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: QTL_Results/D2HG_QTL.pdf used on input line 674.
+Package pdftex.def Info: QTL_Results/D2HG_QTL.pdf used on input line 680.
 (pdftex.def)             Requested size: 476.98077pt x 352.5657pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 674--675
-=======
-Package pdftex.def Info: QTL_Results/D2HG_QTL.pdf used on input line 669.
-(pdftex.def)             Requested size: 476.98077pt x 352.5657pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 669--670
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 680--681
 [][] 
  []
 
-<3.Metabolomics/QTL_Results.pdf, id=7537, 597.6729pt x 281.85298pt>
+<3.Metabolomics/QTL_Results.pdf, id=7549, 597.6729pt x 281.85298pt>
 File: 3.Metabolomics/QTL_Results.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/QTL_Results.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/QTL_Results.pdf used on input line 680.
+Package pdftex.def Info: 3.Metabolomics/QTL_Results.pdf used on input line 686.
 
 (pdftex.def)             Requested size: 476.98077pt x 224.9408pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 680--681
-=======
-Package pdftex.def Info: 3.Metabolomics/QTL_Results.pdf used on input line 675.
-
-(pdftex.def)             Requested size: 476.98077pt x 224.9408pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 675--676
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 686--687
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [71]
-[72 <./QTL_Results/D2HG_QTL.pdf>] [73 <./3.Metabolomics/QTL_Results.pdf>]
-<3.Metabolomics/KEGG_Path_Correlations.pdf, id=7618, 614.295pt x 224.037pt>
+[70] [71 <./QTL_Results/D2HG_QTL.pdf>] [72 <./3.Metabolomics/QTL_Results.pdf>]
+<3.Metabolomics/KEGG_Path_Correlations.pdf, id=7630, 614.295pt x 224.037pt>
 File: 3.Metabolomics/KEGG_Path_Correlations.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/KEGG_Path_Correlations.pdf>
 Package pdftex.def Info: 3.Metabolomics/KEGG_Path_Correlations.pdf used on inpu
-<<<<<<< HEAD
-t line 696.
-=======
-t line 691.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+t line 702.
 (pdftex.def)             Requested size: 397.485pt x 144.96596pt.
- [74 <./3.Metabolomics/KEGG_Path_Correlations.pdf>]
-<3.Metabolomics/MSEA.pdf, id=7669, 520.34402pt x 281.85298pt>
+ [73 <./3.Metabolomics/KEGG_Path_Correlations.pdf>]
+<3.Metabolomics/MSEA.pdf, id=7681, 520.34402pt x 281.85298pt>
 File: 3.Metabolomics/MSEA.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Metabolomics/MSEA.pdf used on input line 705.
-=======
-Package pdftex.def Info: 3.Metabolomics/MSEA.pdf used on input line 700.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/MSEA.pdf used on input line 711.
 (pdftex.def)             Requested size: 572.38156pt x 310.05644pt.
 Missing character: There is no Œ in font cmr9!
 Missing character: There is no ≥ in font cmr9!
- [75] [76 <./3.Metabolomics/MSEA.pdf>]
+ [74] [75 <./3.Metabolomics/MSEA.pdf>]
 Chapter 3.
+[76
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [77
-
-]
-<3.Proteomics/peptide_frags.pdf, id=7762, 350.06082pt x 195.06476pt>
+] <3.Proteomics/peptide_frags.pdf, id=7774, 350.06082pt x 195.06476pt>
 File: 3.Proteomics/peptide_frags.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/peptide_frags.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Proteomics/peptide_frags.pdf used on input line 721.
-=======
-Package pdftex.def Info: 3.Proteomics/peptide_frags.pdf used on input line 716.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Proteomics/peptide_frags.pdf used on input line 727.
 
 (pdftex.def)             Requested size: 238.49342pt x 132.89824pt.
- [78]
-<3.Proteomics/Mass_Spec.pdf, id=7781, 578.16pt x 426.39299pt>
+ [77]
+<3.Proteomics/Mass_Spec.pdf, id=7793, 578.16pt x 426.39299pt>
 File: 3.Proteomics/Mass_Spec.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/Mass_Spec.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Proteomics/Mass_Spec.pdf used on input line 733.
+Package pdftex.def Info: 3.Proteomics/Mass_Spec.pdf used on input line 739.
 (pdftex.def)             Requested size: 357.73407pt x 263.82741pt.
 
 
-Package natbib Warning: Citation `-' on page 79 undefined on input line 734.
-=======
-Package pdftex.def Info: 3.Proteomics/Mass_Spec.pdf used on input line 728.
-(pdftex.def)             Requested size: 357.73407pt x 263.82741pt.
+Package natbib Warning: Citation `-' on page 78 undefined on input line 740.
 
-
-Package natbib Warning: Citation `-' on page 78 undefined on input line 729.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [79 <./3.Proteomics/peptide_frags.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [80 <./3.Proteomics/Mass_Spec.pdf>]
-<3.Proteomics/XIC.pdf, id=7894, 597.50829pt x 230.8625pt>
+[78 <./3.Proteomics/peptide_frags.pdf>] [79 <./3.Proteomics/Mass_Spec.pdf>]
+<3.Proteomics/XIC.pdf, id=7906, 597.50829pt x 230.8625pt>
 File: 3.Proteomics/XIC.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/XIC.pdf>
-<<<<<<< HEAD
-Package pdftex.def Info: 3.Proteomics/XIC.pdf used on input line 745.
-=======
-Package pdftex.def Info: 3.Proteomics/XIC.pdf used on input line 740.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Proteomics/XIC.pdf used on input line 751.
 (pdftex.def)             Requested size: 397.485pt x 153.57799pt.
-
-Underfull \vbox (badness 6364) has occurred while \output is active []
-
- [81 <./3.Proteomics/XIC.pdf>]
-<3.Proteomics/DIA_SWATH_Principle_1.pdf, id=8057, 505.56178pt x 238.49101pt>
+ [80 <./3.Proteomics/XIC.pdf>]
+<3.Proteomics/DIA_SWATH_Principle_1.pdf, id=8069, 505.56178pt x 238.49101pt>
 File: 3.Proteomics/DIA_SWATH_Principle_1.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/DIA_SWATH_Principle_1.pdf>
 Package pdftex.def Info: 3.Proteomics/DIA_SWATH_Principle_1.pdf used on input l
-<<<<<<< HEAD
-ine 755.
-(pdftex.def)             Requested size: 397.485pt x 187.51788pt.
- [82 <./3.Proteomics/DIA_SWATH_Principle_1.pdf>] [83]
-Overfull \hbox (1.91557pt too wide) in paragraph at lines 770--771
-=======
-ine 750.
+ine 761.
 (pdftex.def)             Requested size: 397.485pt x 187.51788pt.
  [81 <./3.Proteomics/DIA_SWATH_Principle_1.pdf>] [82]
-Overfull \hbox (1.91557pt too wide) in paragraph at lines 765--766
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (1.91557pt too wide) in paragraph at lines 776--777
 \OT1/cmr/m/n/10.95 To an-a-lyze com-plex pro-teins mix-tures ex-tracted from th
 e BXD Mouse liv-ers, SWATH
  []
 
-[84] <3.Proteomics/Spectral_Library_Gen.pdf, id=8242, 578.16pt x 289.08pt>
+[83] <3.Proteomics/Spectral_Library_Gen.pdf, id=8254, 578.16pt x 289.08pt>
 File: 3.Proteomics/Spectral_Library_Gen.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/Spectral_Library_Gen.pdf>
 Package pdftex.def Info: 3.Proteomics/Spectral_Library_Gen.pdf used on input li
-<<<<<<< HEAD
-ne 779.
-=======
-ne 774.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ne 785.
 (pdftex.def)             Requested size: 397.485pt x 198.742pt.
- [85 <./3.Proteomics/Spectral_Library_Gen.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [87]
-<3.Proteomics/DIA_SWATH_Principle_2.pdf, id=8372, 1074.0125pt x 794.97pt>
+ [84 <./3.Proteomics/Spectral_Library_Gen.pdf>] [85] [86]
+<3.Proteomics/DIA_SWATH_Principle_2.pdf, id=8384, 1074.0125pt x 794.97pt>
 File: 3.Proteomics/DIA_SWATH_Principle_2.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/DIA_SWATH_Principle_2.pdf>
 Package pdftex.def Info: 3.Proteomics/DIA_SWATH_Principle_2.pdf used on input l
-<<<<<<< HEAD
-ine 799.
-=======
-ine 794.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ine 805.
 (pdftex.def)             Requested size: 397.485pt x 294.20708pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [88 <./3.Proteomics/DIA_SWATH_Principle_2.pdf>]
+ [87 <./3.Proteomics/DIA_SWATH_Principle_2.pdf>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [89]
-<3.Proteomics/protein_cvs_figure.pdf, id=8505, 505.89pt x 331.2375pt>
+ [88]
+<3.Proteomics/protein_cvs_figure.pdf, id=8517, 505.89pt x 331.2375pt>
 File: 3.Proteomics/protein_cvs_figure.pdf Graphic file (type pdf)
 
 <use 3.Proteomics/protein_cvs_figure.pdf>
 Package pdftex.def Info: 3.Proteomics/protein_cvs_figure.pdf used on input line
-<<<<<<< HEAD
- 818.
-=======
- 813.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ 824.
 (pdftex.def)             Requested size: 397.485pt x 260.2646pt.
+ [89 <./3.Proteomics/protein_cvs_figure.pdf>]
+<3.Proteomics/protein_batch_effect_figure.pdf, id=8595, 433.62pt x 289.08pt>
+File: 3.Proteomics/protein_batch_effect_figure.pdf Graphic file (type pdf)
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use 3.Proteomics/protein_batch_effect_figure.pdf>
+Package pdftex.def Info: 3.Proteomics/protein_batch_effect_figure.pdf used on i
+nput line 837.
+(pdftex.def)             Requested size: 278.23828pt x 185.50018pt.
 
- [90 <./3.Proteomics/protein_cvs_figure.pdf>]
-<3.Proteomics/Protein_foldchanges.png, id=8586, 744.7825pt x 421.575pt>
+<"3.Proteomics/Proteomics PCA".pdf, id=8596, 722.7pt x 722.7pt>
+File: "3.Proteomics/Proteomics PCA".pdf Graphic file (type pdf)
+
+<use "3.Proteomics/Proteomics PCA".pdf>
+Package pdftex.def Info: "3.Proteomics/Proteomics PCA".pdf used on input line 8
+38.
+(pdftex.def)             Requested size: 278.23828pt x 278.23483pt.
+
+<3.Proteomics/Protein_foldchanges.png, id=8600, 744.7825pt x 421.575pt>
 File: 3.Proteomics/Protein_foldchanges.png Graphic file (type png)
 
 <use 3.Proteomics/Protein_foldchanges.png>
 Package pdftex.def Info: 3.Proteomics/Protein_foldchanges.png used on input lin
-<<<<<<< HEAD
-e 835.
-=======
-e 830.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+e 850.
 (pdftex.def)             Requested size: 397.485pt x 224.99683pt.
+ [90]
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Text page 91 contains only floats.
 
- [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92 <./3.Proteomics/Protein_foldchanges.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [93]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [94]
-<3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf, id=8634, 614.295pt x 7
-=======
- [93]
-<3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf, id=8626, 614.295pt x 7
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+[91 <./3.Proteomics/protein_batch_effect_figure.pdf> <./3.Proteomics/Proteomics
+ PCA.pdf>] [92 <./3.Proteomics/Protein_foldchanges.png>] [93] [94]
+<3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf, id=8670, 614.295pt x 7
 94.97pt>
 File: 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf Graphic file (type
  pdf)
  <use 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>
 Package pdftex.def Info: 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf
- used on input line 863.
+ used on input line 880.
 (pdftex.def)             Requested size: 437.23592pt x 565.83977pt.
-File: 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf Graphic file (type
- pdf)
-
-<<<<<<< HEAD
-<use 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>
-Package pdftex.def Info: 3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf
- used on input line 872.
-(pdftex.def)             Requested size: 437.23592pt x 565.83977pt.
- [95] [96 <./3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>] [97]
-<"3.Proteomics/Proteomics_Vingette_SVM_Age".pdf, id=8743, 614.295pt x 794.97pt>
-=======
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 856--857
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 53.67978pt on input line 859.
-
-[94] [95 <./3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>]
-<"3.Proteomics/Proteomics_Vingette_SVM_Age".pdf, id=8729, 614.295pt x 794.97pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ [95]
+[96 <./3.Proteomics/Proteomics_Vingette_Random_Forest_Age.pdf>]
+<"3.Proteomics/Proteomics_Vingette_SVM_Age".pdf, id=8774, 614.295pt x 794.97pt>
 File: "3.Proteomics/Proteomics_Vingette_SVM_Age".pdf Graphic file (type pdf)
 <use "3.Proteomics/Proteomics_Vingette_SVM_Age".pdf>
 Package pdftex.def Info: "3.Proteomics/Proteomics_Vingette_SVM_Age".pdf used on
- input line 884.
+ input line 895.
 (pdftex.def)             Requested size: 437.23592pt x 565.83977pt.
 
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 884--885
+Overfull \hbox (39.75092pt too wide) in paragraph at lines 895--896
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 53.67978pt on input line 887.
+LaTeX Warning: Float too large for page by 53.67978pt on input line 898.
 
-[98
+[97
 
-] [99 <./3.Proteomics/Proteomics_Vingette_SVM_Age.pdf>]
+] [98 <./3.Proteomics/Proteomics_Vingette_SVM_Age.pdf>]
 Chapter 4.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [100
+[99
 
 ]
-<<<<<<< HEAD
-<3.Trancriptomics/Affimetrix_Chip_ZoomIn.png, id=8830, 1357.07pt x 765.86125pt>
-=======
-<3.Trancriptomics/Affimetrix_Chip_ZoomIn.png, id=8817, 1357.07pt x 765.86125pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<3.Trancriptomics/Affimetrix_Chip_ZoomIn.png, id=8861, 1357.07pt x 765.86125pt>
 File: 3.Trancriptomics/Affimetrix_Chip_ZoomIn.png Graphic file (type png)
 <use 3.Trancriptomics/Affimetrix_Chip_ZoomIn.png>
 Package pdftex.def Info: 3.Trancriptomics/Affimetrix_Chip_ZoomIn.png used on in
-put line 902.
+put line 913.
 (pdftex.def)             Requested size: 397.485pt x 224.31442pt.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no Æ in font cmr10!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [101 <./3.Trancriptomics/Affimetrix_Chip_ZoomIn.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [102]
-Overfull \hbox (43.88266pt too wide) in paragraph at lines 933--933
-=======
- [100]
-Overfull \hbox (43.88266pt too wide) in paragraph at lines 917--917
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ [100 <./3.Trancriptomics/Affimetrix_Chip_ZoomIn.png>] [101]
+Overfull \hbox (43.88266pt too wide) in paragraph at lines 944--944
 [] 
  []
 
-[103]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [104]
-Underfull \vbox (badness 2600) has occurred while \output is active []
-
- [105]
-<3.Trancriptomics/Variance_stablizaiton.pdf, id=8886, 803.0pt x 351.3125pt>
-=======
- [102]
-<3.Trancriptomics/Variance_stablizaiton.pdf, id=8860, 803.0pt x 351.3125pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+[102] [103]
+<3.Trancriptomics/Variance_stablizaiton.pdf, id=8905, 803.0pt x 351.3125pt>
 File: 3.Trancriptomics/Variance_stablizaiton.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/Variance_stablizaiton.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Variance_stablizaiton.pdf used on inp
-<<<<<<< HEAD
-ut line 975.
+ut line 980.
 (pdftex.def)             Requested size: 476.98077pt x 208.6824pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 975--976
-=======
-ut line 953.
-(pdftex.def)             Requested size: 476.98077pt x 208.6824pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 953--954
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 980--981
 [][] 
  []
 
-
-Underfull \vbox (badness 2600) has occurred while \output is active []
-
- [103]
-[104 <./3.Trancriptomics/Variance_stablizaiton.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [106]
-[107 <./3.Trancriptomics/Variance_stablizaiton.pdf>]
-<3.Trancriptomics/transcript_CV_figure.pdf, id=8960, 614.295pt x 289.08pt>
-=======
- [105]
-<3.Trancriptomics/transcript_CV_figure.pdf, id=8947, 614.295pt x 289.08pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+[104] [105 <./3.Trancriptomics/Variance_stablizaiton.pdf>] [106]
+<3.Trancriptomics/transcript_CV_figure.pdf, id=8991, 614.295pt x 289.08pt>
 File: 3.Trancriptomics/transcript_CV_figure.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/transcript_CV_figure.pdf>
 Package pdftex.def Info: 3.Trancriptomics/transcript_CV_figure.pdf used on inpu
-<<<<<<< HEAD
-t line 1002.
+t line 1015.
 (pdftex.def)             Requested size: 476.98077pt x 224.46254pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 1002--1003
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 1015--1016
  [][] 
  []
 
-<3.Trancriptomics/VolcanoTranscrpt.pdf, id=8961, 476.98201pt x 289.08pt>
-=======
-t line 988.
-(pdftex.def)             Requested size: 476.98077pt x 224.46254pt.
+[107 <./3.Trancriptomics/transcript_CV_figure.pdf>]
+<3.Trancriptomics/BioQCPoint.png, id=9066, 1016.29688pt x 562.35094pt>
+File: 3.Trancriptomics/BioQCPoint.png Graphic file (type png)
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 988--989
- [][] 
- []
+<use 3.Trancriptomics/BioQCPoint.png>
+Package pdftex.def Info: 3.Trancriptomics/BioQCPoint.png used on input line 102
+8.
+(pdftex.def)             Requested size: 397.485pt x 219.94238pt.
+ [108 <./3.Trancriptomics/BioQCPoint.png (PNG copy)>]
+<3.Trancriptomics/BioQCHeatmap.png, id=9084, 765.5802pt x 590.9277pt>
+File: 3.Trancriptomics/BioQCHeatmap.png Graphic file (type png)
 
-<3.Trancriptomics/VolcanoTranscrpt.pdf, id=8948, 476.98201pt x 289.08pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<use 3.Trancriptomics/BioQCHeatmap.png>
+Package pdftex.def Info: 3.Trancriptomics/BioQCHeatmap.png used on input line 1
+039.
+(pdftex.def)             Requested size: 357.73407pt x 276.12204pt.
+
+<3.Trancriptomics/VolcanoTranscrpt.pdf, id=9085, 476.98201pt x 289.08pt>
 File: 3.Trancriptomics/VolcanoTranscrpt.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/VolcanoTranscrpt.pdf>
 Package pdftex.def Info: 3.Trancriptomics/VolcanoTranscrpt.pdf used on input li
-<<<<<<< HEAD
-ne 1013.
+ne 1048.
 (pdftex.def)             Requested size: 476.98077pt x 289.0837pt.
 
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 1013--1014
+Overfull \hbox (79.49577pt too wide) in paragraph at lines 1048--1049
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [108 <./3.Trancriptomics/transcript_CV_figure.pdf>]
-<3.Trancriptomics/Protein_RNA_COrr.pdf, id=9036, 673.51625pt x 208.78pt>
-=======
-ne 999.
-(pdftex.def)             Requested size: 476.98077pt x 289.0837pt.
-
-Overfull \hbox (79.49577pt too wide) in paragraph at lines 999--1000
- [][] 
- []
-
-[106 <./3.Trancriptomics/transcript_CV_figure.pdf>]
-<3.Trancriptomics/Protein_RNA_COrr.pdf, id=9023, 673.51625pt x 208.78pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+[109] [110 <./3.Trancriptomics/BioQCHeatmap.png>]
+<3.Trancriptomics/Protein_RNA_COrr.pdf, id=9099, 673.51625pt x 208.78pt>
 File: 3.Trancriptomics/Protein_RNA_COrr.pdf Graphic file (type pdf)
 
 <use 3.Trancriptomics/Protein_RNA_COrr.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Protein_RNA_COrr.pdf used on input li
-<<<<<<< HEAD
-ne 1022.
+ne 1059.
 (pdftex.def)             Requested size: 397.485pt x 123.21416pt.
- [109 <./3.Trancriptomics/VolcanoTranscrpt.pdf>]
-<3.Trancriptomics/Integrated_Linoic_Acid.pdf, id=9175, 426.39299pt x 375.804pt>
+
+<3.Trancriptomics/GSEA.png, id=9100, 636.9396pt x 473.6094pt>
+File: 3.Trancriptomics/GSEA.png Graphic file (type png)
+
+<use 3.Trancriptomics/GSEA.png>
+Package pdftex.def Info: 3.Trancriptomics/GSEA.png used on input line 1068.
+(pdftex.def)             Requested size: 397.485pt x 295.5571pt.
+
+<3.Trancriptomics/Integrated_Linoic_Acid.pdf, id=9101, 426.39299pt x 375.804pt>
 File: 3.Trancriptomics/Integrated_Linoic_Acid.pdf Graphic file (type pdf)
 <use 3.Trancriptomics/Integrated_Linoic_Acid.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Integrated_Linoic_Acid.pdf used on in
-put line 1034.
+put line 1079.
 (pdftex.def)             Requested size: 397.485pt x 350.33705pt.
- [110 <./3.Trancriptomics/Protein_RNA_COrr.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [111 <./3.Trancriptomics/Integrated_Linoic_Acid.pdf>]
-<3.Trancriptomics/Integrated_Tyrosine_protein.pdf, id=9249, 597.50829pt x 845.0
-=======
-ne 1008.
-(pdftex.def)             Requested size: 397.485pt x 123.21416pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [107 <./3.Trancriptomics/VolcanoTranscrpt.pdf> <./3.Trancriptomics/Protein_RNA
-_COrr.pdf>]
-<3.Trancriptomics/Integrated_Linoic_Acid.pdf, id=9168, 426.39299pt x 375.804pt>
-File: 3.Trancriptomics/Integrated_Linoic_Acid.pdf Graphic file (type pdf)
-<use 3.Trancriptomics/Integrated_Linoic_Acid.pdf>
-Package pdftex.def Info: 3.Trancriptomics/Integrated_Linoic_Acid.pdf used on in
-put line 1019.
-(pdftex.def)             Requested size: 397.485pt x 350.33705pt.
- [108]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [109 <./3.Trancriptomics/Integrated_Linoic_Acid.pdf>]
-<3.Trancriptomics/Integrated_Tyrosine_protein.pdf, id=9236, 597.50829pt x 845.0
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ [111 <./3.Trancriptomics/VolcanoTranscrpt.pdf>] [112 <./3.Trancriptomics/Prote
+in_RNA_COrr.pdf>] [113 <./3.Trancriptomics/GSEA.png>] [114 <./3.Trancriptomics/
+Integrated_Linoic_Acid.pdf>]
+<3.Trancriptomics/Integrated_Tyrosine_protein.pdf, id=9319, 597.50829pt x 845.0
 471pt>
 File: 3.Trancriptomics/Integrated_Tyrosine_protein.pdf Graphic file (type pdf)
  <use 3.Trancriptomics/Integrated_Tyrosine_protein.pdf>
 Package pdftex.def Info: 3.Trancriptomics/Integrated_Tyrosine_protein.pdf used 
-<<<<<<< HEAD
-on input line 1047.
+on input line 1092.
 (pdftex.def)             Requested size: 437.23592pt x 618.37502pt.
 
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 1047--1048
-=======
-on input line 1032.
-(pdftex.def)             Requested size: 437.23592pt x 618.37502pt.
-
-Overfull \hbox (39.75092pt too wide) in paragraph at lines 1032--1033
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (39.75092pt too wide) in paragraph at lines 1092--1093
  [][] 
  []
 
 
-<<<<<<< HEAD
-LaTeX Warning: Float too large for page by 51.21503pt on input line 1050.
+LaTeX Warning: Float too large for page by 51.21503pt on input line 1095.
 
-
-Underfull \vbox (badness 1565) has occurred while \output is active []
-
- [112]
-[113 <./3.Trancriptomics/Integrated_Tyrosine_protein.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [114]
-[115]
+[115] [116 <./3.Trancriptomics/Integrated_Tyrosine_protein.pdf>] [117] [118]
 Chapter 5.
-[116
+[119
 
-] (Final_Thesis.bbl [117
+] (Final_Thesis.bbl [120
 
-] [118
+] [121
 
-] [119] [120] [121] [122] [123] [124]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 384.
-=======
-LaTeX Warning: Float too large for page by 51.21503pt on input line 1035.
-
-[110] [111 <./3.Trancriptomics/Integrated_Tyrosine_protein.pdf>]
-Underfull \vbox (badness 1389) has occurred while \output is active []
-
- [112]
-[113]
-Chapter 5.
-[114
-
-] (Final_Thesis.bbl [115
-
-] [116
-
-] [117] [118] [119] [120] [121] [122]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 380.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+] [122] [123] [124] [125] [126] [127]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 396.
 
 
 ("D:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-<<<<<<< HEAD
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 384.
-[125] [126] [127] [128] [129]
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 396.
+ [128] [129] [130]
+[131] [132]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [130]
+ [133]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
- [131]) [132]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [134] [135]) [136] [137
 
- [133
-
-]
-[134]
+] [138]
 Chapter 6.
 
-<Appendix_FIgures/Extraction_Kinetics_1.pdf, id=9414, 845.0471pt x 597.51233pt>
+<Appendix_FIgures/Extraction_Kinetics_1.pdf, id=9488, 845.0471pt x 597.51233pt>
 File: Appendix_FIgures/Extraction_Kinetics_1.pdf Graphic file (type pdf)
 <use Appendix_FIgures/Extraction_Kinetics_1.pdf>
 Package pdftex.def Info: Appendix_FIgures/Extraction_Kinetics_1.pdf used on inp
-ut line 1101.
+ut line 1146.
 (pdftex.def)             Requested size: 397.485pt x 281.04964pt.
- [135
+ [139
 
-] [136 <./Appendix_FIgures/Extraction_Kinetics_1.pdf>]
-<3.Metabolomics/Coverage.pdf, id=9466, 772.8875pt x 441.65pt>
+] [140 <./Appendix_FIgures/Extraction_Kinetics_1.pdf>]
+<3.Metabolomics/Coverage.pdf, id=9540, 772.8875pt x 441.65pt>
 File: 3.Metabolomics/Coverage.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Coverage.pdf>
-Package pdftex.def Info: 3.Metabolomics/Coverage.pdf used on input line 1110.
+Package pdftex.def Info: 3.Metabolomics/Coverage.pdf used on input line 1155.
 (pdftex.def)             Requested size: 397.485pt x 227.13217pt.
- [137
+ [141
 
  <./3.Metabolomics/Coverage.pdf>]
-<Appendix_FIgures/4_Single_metab_plots.pdf, id=16447, 505.89pt x 505.89pt>
-=======
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 380.
- [123] [124] [125]
-[126] [127]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
- [128]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no î in font cmr10!
- [129]) [130]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [131
-
-]
-[132]
-Chapter 6.
-
-<Appendix_FIgures/Extraction_Kinetics_1.pdf, id=9400, 845.0471pt x 597.51233pt>
-File: Appendix_FIgures/Extraction_Kinetics_1.pdf Graphic file (type pdf)
-<use Appendix_FIgures/Extraction_Kinetics_1.pdf>
-Package pdftex.def Info: Appendix_FIgures/Extraction_Kinetics_1.pdf used on inp
-ut line 1086.
-(pdftex.def)             Requested size: 397.485pt x 281.04964pt.
- [133
-
-] [134 <./Appendix_FIgures/Extraction_Kinetics_1.pdf>]
-<3.Metabolomics/Coverage.pdf, id=9453, 772.8875pt x 441.65pt>
-File: 3.Metabolomics/Coverage.pdf Graphic file (type pdf)
-
-<use 3.Metabolomics/Coverage.pdf>
-Package pdftex.def Info: 3.Metabolomics/Coverage.pdf used on input line 1095.
-(pdftex.def)             Requested size: 397.485pt x 227.13217pt.
- [135
-
- <./3.Metabolomics/Coverage.pdf>]
-<Appendix_FIgures/4_Single_metab_plots.pdf, id=16434, 505.89pt x 505.89pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<Appendix_FIgures/4_Single_metab_plots.pdf, id=16521, 505.89pt x 505.89pt>
 File: Appendix_FIgures/4_Single_metab_plots.pdf Graphic file (type pdf)
 
 <use Appendix_FIgures/4_Single_metab_plots.pdf>
 Package pdftex.def Info: Appendix_FIgures/4_Single_metab_plots.pdf used on inpu
-<<<<<<< HEAD
-t line 1121.
+t line 1166.
 (pdftex.def)             Requested size: 397.485pt x 397.49504pt.
- [138
+ [142
 
  <./Appendix_FIgures/4_Single_metab_plots.pdf>]
-<Appendix_FIgures/Strain_Wise_Diet_Filt.pdf, id=16459, 1084.05pt x 1084.05pt>
-=======
-t line 1106.
-(pdftex.def)             Requested size: 397.485pt x 397.49504pt.
- [136
-
- <./Appendix_FIgures/4_Single_metab_plots.pdf>]
-<Appendix_FIgures/Strain_Wise_Diet_Filt.pdf, id=16446, 1084.05pt x 1084.05pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<Appendix_FIgures/Strain_Wise_Diet_Filt.pdf, id=16533, 1084.05pt x 1084.05pt>
 File: Appendix_FIgures/Strain_Wise_Diet_Filt.pdf Graphic file (type pdf)
 
 <use Appendix_FIgures/Strain_Wise_Diet_Filt.pdf>
 Package pdftex.def Info: Appendix_FIgures/Strain_Wise_Diet_Filt.pdf used on inp
-<<<<<<< HEAD
-ut line 1129.
+ut line 1174.
 (pdftex.def)             Requested size: 397.485pt x 397.48624pt.
- [139
+ [143
 
  <./Appendix_FIgures/Strain_Wise_Diet_Filt.pdf>]
-<3.Metabolomics/Metabolite_QTL_Tables.pdf, id=16472, 614.295pt x 794.97pt>
-=======
-ut line 1114.
-(pdftex.def)             Requested size: 397.485pt x 397.48624pt.
- [137
-
- <./Appendix_FIgures/Strain_Wise_Diet_Filt.pdf>]
-<3.Metabolomics/Metabolite_QTL_Tables.pdf, id=16458, 614.295pt x 794.97pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<3.Metabolomics/Metabolite_QTL_Tables.pdf, id=16545, 614.295pt x 794.97pt>
 File: 3.Metabolomics/Metabolite_QTL_Tables.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/Metabolite_QTL_Tables.pdf>
 Package pdftex.def Info: 3.Metabolomics/Metabolite_QTL_Tables.pdf used on input
-<<<<<<< HEAD
- line 1136.
+ line 1181.
 (pdftex.def)             Requested size: 357.73407pt x 462.95099pt.
- [140
+ [144
 
  <./3.Metabolomics/Metabolite_QTL_Tables.pdf>]
-<3.Proteomics/protein_batch_effect_figure.pdf, id=16539, 433.62pt x 289.08pt>
-=======
- line 1121.
-(pdftex.def)             Requested size: 357.73407pt x 462.95099pt.
- [138
-
- <./3.Metabolomics/Metabolite_QTL_Tables.pdf>]
-<3.Proteomics/protein_batch_effect_figure.pdf, id=16525, 433.62pt x 289.08pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-File: 3.Proteomics/protein_batch_effect_figure.pdf Graphic file (type pdf)
-
-<use 3.Proteomics/protein_batch_effect_figure.pdf>
-Package pdftex.def Info: 3.Proteomics/protein_batch_effect_figure.pdf used on i
-<<<<<<< HEAD
-nput line 1146.
-(pdftex.def)             Requested size: 278.23828pt x 185.50018pt.
-
-<"3.Proteomics/Proteomics PCA".pdf, id=16540, 722.7pt x 722.7pt>
-=======
-nput line 1131.
-(pdftex.def)             Requested size: 278.23828pt x 185.50018pt.
-
-<"3.Proteomics/Proteomics PCA".pdf, id=16526, 722.7pt x 722.7pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-File: "3.Proteomics/Proteomics PCA".pdf Graphic file (type pdf)
-
-<use "3.Proteomics/Proteomics PCA".pdf>
-Package pdftex.def Info: "3.Proteomics/Proteomics PCA".pdf used on input line 1
-<<<<<<< HEAD
-147.
-(pdftex.def)             Requested size: 278.23828pt x 278.23483pt.
-
-<Appendix_FIgures/metabotes.png, id=16541, 722.7pt x 722.7pt>
+<Appendix_FIgures/metabotes.png, id=16613, 722.7pt x 722.7pt>
 File: Appendix_FIgures/metabotes.png Graphic file (type png)
 
 <use Appendix_FIgures/metabotes.png>
-Package pdftex.def Info: Appendix_FIgures/metabotes.png used on input line 1155
+Package pdftex.def Info: Appendix_FIgures/metabotes.png used on input line 1192
 .
 (pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
- [141
+ [145
 
-]
-
-LaTeX Warning: Text page 142 contains only floats.
-=======
-132.
-(pdftex.def)             Requested size: 278.23828pt x 278.23483pt.
-
-<Appendix_FIgures/metabotes.png, id=16527, 722.7pt x 722.7pt>
-File: Appendix_FIgures/metabotes.png Graphic file (type png)
-
-<use Appendix_FIgures/metabotes.png>
-Package pdftex.def Info: Appendix_FIgures/metabotes.png used on input line 1140
-.
-(pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
- [139
-
-]
-
-LaTeX Warning: Text page 140 contains only floats.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<<<<<<< HEAD
- [142 <./3.Proteomics/protein_batch_effect_figure.pdf> <./3.Proteomics/Proteomi
-cs PCA.pdf>] [143 <./Appendix_FIgures/metabotes.png>]
-<Appendix_FIgures/power_stat_3_dpi72.png, id=16571, 722.7pt x 722.7pt>
-=======
- [140 <./3.Proteomics/protein_batch_effect_figure.pdf> <./3.Proteomics/Proteomi
-cs PCA.pdf>] [141 <./Appendix_FIgures/metabotes.png>]
-<Appendix_FIgures/power_stat_3_dpi72.png, id=16558, 722.7pt x 722.7pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+ <./Appendix_FIgures/metabotes.png>]
+<Appendix_FIgures/power_stat_3_dpi72.png, id=16619, 722.7pt x 722.7pt>
 File: Appendix_FIgures/power_stat_3_dpi72.png Graphic file (type png)
 
 <use Appendix_FIgures/power_stat_3_dpi72.png>
 Package pdftex.def Info: Appendix_FIgures/power_stat_3_dpi72.png used on input 
-<<<<<<< HEAD
-line 1161.
+line 1198.
 (pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
- [144
+ [146
 
  <./Appendix_FIgures/power_stat_3_dpi72.png>]
-<Appendix_FIgures/protomics_overview_statistics.png, id=16577, 722.7pt x 722.7p
-=======
-line 1146.
-(pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
- [142
-
- <./Appendix_FIgures/power_stat_3_dpi72.png>]
-<Appendix_FIgures/protomics_overview_statistics.png, id=16564, 722.7pt x 722.7p
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<Appendix_FIgures/protomics_overview_statistics.png, id=16625, 722.7pt x 722.7p
 t>
 File: Appendix_FIgures/protomics_overview_statistics.png Graphic file (type png
 )
  <use Appendix_FIgures/protomics_overview_statistics.png>
 Package pdftex.def Info: Appendix_FIgures/protomics_overview_statistics.png use
-<<<<<<< HEAD
-d on input line 1167.
+d on input line 1204.
 (pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
- [145
+ [147
 
  <./Appendix_FIgures/protomics_overview_statistics.png>]
-Overfull \hbox (1.92102pt too wide) in paragraph at lines 1173--1173
-=======
-d on input line 1152.
-(pdftex.def)             Requested size: 317.98921pt x 317.98898pt.
- [143
-
- <./Appendix_FIgures/protomics_overview_statistics.png>]
-Overfull \hbox (1.92102pt too wide) in paragraph at lines 1158--1158
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Overfull \hbox (1.98767pt too wide) in paragraph at lines 1210--1210
 |[]\OT1/cmr/bx/n/14.4 Appendix: MSEA Metabo-lite Path-way En-rich-ment
  []
 
@@ -2987,166 +2342,77 @@ Overfull \hbox (1.92102pt too wide) in paragraph at lines 1158--1158
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<<<<<<< HEAD
-<3.Metabolomics/MSEA_charts_1.pdf, id=16584, 614.295pt x 794.97pt>
-=======
-<3.Metabolomics/MSEA_charts_1.pdf, id=16570, 614.295pt x 794.97pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<3.Metabolomics/MSEA_charts_1.pdf, id=16631, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_1.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_1.pdf>
-Package pdftex.def Info: 3.Metabolomics/MSEA_charts_1.pdf used on input line 11
-<<<<<<< HEAD
-77.
-=======
-62.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/MSEA_charts_1.pdf used on input line 12
+14.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_2.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<<<<<<< HEAD
-<3.Metabolomics/MSEA_charts_2.pdf, id=16585, 614.295pt x 794.97pt>
-=======
-<3.Metabolomics/MSEA_charts_2.pdf, id=16571, 614.295pt x 794.97pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<3.Metabolomics/MSEA_charts_2.pdf, id=16632, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_2.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_2.pdf>
-Package pdftex.def Info: 3.Metabolomics/MSEA_charts_2.pdf used on input line 11
-<<<<<<< HEAD
-82.
-=======
-67.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/MSEA_charts_2.pdf used on input line 12
+19.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_3.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<<<<<<< HEAD
-<3.Metabolomics/MSEA_charts_3.pdf, id=16586, 614.295pt x 794.97pt>
-=======
-<3.Metabolomics/MSEA_charts_3.pdf, id=16572, 614.295pt x 794.97pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<3.Metabolomics/MSEA_charts_3.pdf, id=16633, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_3.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_3.pdf>
-Package pdftex.def Info: 3.Metabolomics/MSEA_charts_3.pdf used on input line 11
-<<<<<<< HEAD
-87.
-=======
-72.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/MSEA_charts_3.pdf used on input line 12
+24.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./3.Metabolomics/MSEA_charts_4.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<<<<<<< HEAD
-<3.Metabolomics/MSEA_charts_4.pdf, id=16587, 614.295pt x 794.97pt>
-=======
-<3.Metabolomics/MSEA_charts_4.pdf, id=16573, 614.295pt x 794.97pt>
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+<3.Metabolomics/MSEA_charts_4.pdf, id=16634, 614.295pt x 794.97pt>
 File: 3.Metabolomics/MSEA_charts_4.pdf Graphic file (type pdf)
 
 <use 3.Metabolomics/MSEA_charts_4.pdf>
-Package pdftex.def Info: 3.Metabolomics/MSEA_charts_4.pdf used on input line 11
-<<<<<<< HEAD
-92.
-=======
-77.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package pdftex.def Info: 3.Metabolomics/MSEA_charts_4.pdf used on input line 12
+29.
 (pdftex.def)             Requested size: 397.485pt x 514.39537pt.
 
 
 Package natbib Warning: There were undefined citations.
 
-<<<<<<< HEAD
-[146
+[148
 
-] [147 <./3.Metabolomics/MSEA_charts_1.pdf>] [148 <./3.Metabolomics/MSEA_charts
-_2.pdf>] [149 <./3.Metabolomics/MSEA_charts_3.pdf>] [150 <./3.Metabolomics/MSEA
+] [149 <./3.Metabolomics/MSEA_charts_1.pdf>] [150 <./3.Metabolomics/MSEA_charts
+_2.pdf>] [151 <./3.Metabolomics/MSEA_charts_3.pdf>] [152 <./3.Metabolomics/MSEA
 _charts_4.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1199.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1199.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1236.
  (Final_Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1199.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1199.
-=======
-[144
-
-] [145 <./3.Metabolomics/MSEA_charts_1.pdf>] [146 <./3.Metabolomics/MSEA_charts
-_2.pdf>] [147 <./3.Metabolomics/MSEA_charts_3.pdf>] [148 <./3.Metabolomics/MSEA
-_charts_4.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1184.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1184.
- (Final_Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1184.
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1236.
 
 Package rerunfilecheck Info: File `Final_Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: BD9E04682FB3FEA76ACB1CEF67FD283E;5307.
+(rerunfilecheck)             Checksum: 83AA1230CFA316767358308125931923;5449.
 
 
 LaTeX Warning: There were undefined references.
 
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1199.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1236.
  ) 
 Here is how much of TeX's memory you used:
- 33917 strings out of 493323
- 694205 string characters out of 3129147
- 727707 words of memory out of 3000000
- 36511 multiletter control sequences out of 15000+200000
+ 33949 strings out of 493323
+ 689828 string characters out of 3139066
+ 728191 words of memory out of 3000000
+ 36531 multiletter control sequences out of 15000+200000
  546616 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,69p,10359b,1061s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\hasanm7\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\tcrm1095.pk><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbx10.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hasanm7/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/hasanm7/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Us
-ers/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/hasanm7/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/hasanm7/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hasa
-nm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr17.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr6.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/hasanm7/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/hasanm7/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/h
-asanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmti10.pfb><C:/Users/hasanm7/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/latxfont/line10.pfb><C:/Users/hasanm7/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb
-
-pdfTeX warning: pdflatex.exe (file C:/Users/hasanm7/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/lm/lmr12.pfb): glyph `f_i' undefined
->
-Output written on Final_Thesis.pdf (150 pages, 51668126 bytes).
-PDF statistics:
- 16790 PDF objects out of 18468 (max. 8388607)
- 424 named destinations out of 1000 (max. 500000)
-=======
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1184.
- ) 
-Here is how much of TeX's memory you used:
- 33912 strings out of 493323
- 689023 string characters out of 3139066
- 725628 words of memory out of 3000000
- 36510 multiletter control sequences out of 15000+200000
- 546616 words of font info for 80 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 62i,11n,69p,10359b,1059s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,69p,10359b,1079s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\moara\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 tcrm1095.pk><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.
 pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/
@@ -3169,10 +2435,9 @@ txfont/line10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb
 pdfTeX warning: pdflatex.exe (file D:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmr12.pfb): glyph `f_i' undefined
 >
-Output written on Final_Thesis.pdf (148 pages, 51665057 bytes).
+Output written on Final_Thesis.pdf (153 pages, 52188431 bytes).
 PDF statistics:
- 16776 PDF objects out of 18468 (max. 8388607)
- 420 named destinations out of 1000 (max. 500000)
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
- 911 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16842 PDF objects out of 18468 (max. 8388607)
+ 433 named destinations out of 1000 (max. 500000)
+ 942 words of extra memory for PDF output out of 10000 (max. 10000000)
 

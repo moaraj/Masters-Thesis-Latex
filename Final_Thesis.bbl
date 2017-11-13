@@ -308,6 +308,11 @@ Irizarry, R.~A., Hobbs, B., Collin, F., Beazer-Barclay, Y.~D., Antonellis,
   oligonucleotide array probe level data}.
 \newblock {\em Biostatistics}, 4(2):249--264.
 
+\bibitem[Jenne and Kubes, 2013]{Jenne2013}
+Jenne, C.~N. and Kubes, P. (2013).
+\newblock {Immune surveillance by the liver}.
+\newblock {\em Nature Immunology}, 14(10):996--1006.
+
 \bibitem[{Joe Pinsker}, 2013]{JOEPINSKER2013}
 {Joe Pinsker} (2013).
 \newblock {Why We Live 40 Years Longer Today Than We Did in 1880 - The
@@ -358,6 +363,13 @@ Korte, A. and Farlow, A. (2013).
 \newblock {The advantages and limitations of trait analysis with GWAS: a
   review.}
 \newblock {\em Plant methods}, 9:29.
+
+\bibitem[Krupp et~al., 2012]{Krupp2012}
+Krupp, M., Marquardt, J.~U., Sahin, U., Galle, P.~R., Castle, J., and Teufel,
+  A. (2012).
+\newblock {RNA-Seq Atlas—a reference database for gene expression profiling
+  in normal tissue by next-generation sequencing}.
+\newblock {\em Bioinformatics}, 28(8):1184--1185.
 
 \bibitem[Lam et~al., 2008]{Lam2008BuildingProteomics}
 Lam, H., Deutsch, E.~W., Eddes, J.~S., Eng, J.~K., Stein, S.~E., and Aebersold,
@@ -762,6 +774,12 @@ Yuan, R., Peters, L.~L., and Paigen, B. (2011).
 Zamboni, N., Fendt, S.-M., R{\"u}hl, M., and Sauer, U. (2009).
 \newblock 13c-based metabolic flux analysis.
 \newblock {\em Nature protocols}, 4(6):878.
+
+\bibitem[Zhang et~al., 2017]{Zhang2017}
+Zhang, J.~D., Hatje, K., Sturm, G., Broger, C., Ebeling, M., Burtin, M., Terzi,
+  F., Pomposiello, S.~I., and Badi, L. (2017).
+\newblock {Detect tissue heterogeneity in gene expression data with BioQC}.
+\newblock {\em BMC Genomics}, 18(1):277.
 
 \bibitem[Zlatkis and Liebich, 1971]{Zlatkis1971ProfileUrine.}
 Zlatkis, A. and Liebich, H.~M. (1971).
