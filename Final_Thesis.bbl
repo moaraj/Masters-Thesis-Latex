@@ -21,6 +21,10 @@ Abiola, O., Angel, J.~M., Avner, P., Bachmanov, A.~A., Belknap, J.~K., Bennett,
   community's view.}
 \newblock {\em Nature reviews. Genetics}, 4(11):911--6.
 
+\bibitem[{Affymetrix Inc}, 2009]{AffymetrixInc}
+{Affymetrix Inc} (2009).
+\newblock {Affymetrix Developer Network, Affymetrix CEL Data File Format}.
+
 \bibitem[{Agilent Technologies}, 2017]{AgilentTechnologies2017}
 {Agilent Technologies} (2017).
 \newblock {Agilent | 6550 iFunnel Q-TOF LC/MS system video}.
@@ -76,8 +80,8 @@ Becker, D.~J. and Lowe, J.~B. (2003).
 \newblock {Fucose: biosynthesis and biological function in mammals}.
 \newblock {\em Glycobiology}, 13(7):41R--53R.
 
-\bibitem[{Ben Bolstad}, 2003]{BenBolstad2003}
-{Ben Bolstad}, R. (2003).
+\bibitem[Bolstad, 2003]{BenBolstad2003}
+Bolstad, B. (2003).
 \newblock {Software for affy data analysis}.
 
 \bibitem[Bolstad et~al., 2003]{Bolstad2003}
@@ -197,12 +201,8 @@ Fakhro, K.~A., Staudt, M.~R., Ramstetter, M.~D., Robay, A., Malek, J.~A.,
   in the Middle East}.
 \newblock {\em Human Genome Variation}, 3:16016.
 
-\bibitem[Falconer and Mackay, 1996a]{Falconer1996}
-Falconer, D.~S. and Mackay, T. F.~C. (1996a).
-\newblock {Introduction to quantitative genetics}.
-
-\bibitem[Falconer and Mackay, 1996b]{Falconer1996IntroductionGenetics}
-Falconer, D. S. D.~S. and Mackay, T. F.~C. (1996b).
+\bibitem[Falconer and Mackay, 1996]{Falconer1996IntroductionGenetics}
+Falconer, D. S. D.~S. and Mackay, T. F.~C. (1996).
 \newblock {\em {Introduction to quantitative genetics}}.
 \newblock Longman.
 
@@ -259,6 +259,11 @@ Goodner, K.~L., Milgram, K.~E., Williams, K.~R., Watson, C.~H., and Eyler,
   resonance mass spectrometry.
 \newblock {\em Journal of the American Society for Mass Spectrometry},
   9(11):1204--1212.
+
+\bibitem[Griffiths, 1999]{Griffiths1999}
+Griffiths, A. J.~F. (1999).
+\newblock {\em {Modern genetic analysis}}.
+\newblock W.H. Freeman.
 
 \bibitem[Hajian-Tilaki, 2013]{HajianTilaki2013}
 Hajian-Tilaki, K. (2013).
@@ -402,6 +407,11 @@ Liaw, A., Wiener, M., and {Andy Liaw}, M. (2015).
 \newblock {Breiman and Cutler's Random Forests for Classification and
   Regression Description Classification and regression based on a forest of
   trees using random inputs}.
+
+\bibitem[Liu et~al., 2010]{Liu2010}
+Liu, H., Bebu, I., and Li, X. (2010).
+\newblock {Microarray probes and probe sets.}
+\newblock {\em Frontiers in bioscience (Elite edition)}, 2:325--38.
 
 \bibitem[Liu et~al., 2013]{Liu2013QuantitativeSWATH-MS}
 Liu, Y., H{\"{u}}ttenhain, R., Surinova, S., Gillet, L.~C., Mouritsen, J.,
@@ -670,6 +680,12 @@ Walther, D.~M. and Mann, M. (2011).
   Reveals Minimal Proteome Changes During Aging}.
 \newblock {\em Molecular {\&} Cellular Proteomics}, 10(2):M110.004523.
 
+\bibitem[Wang et~al., 2017]{Wang2017}
+Wang, J., Vasaikar, S., Shi, Z., Greer, M., and Zhang, B. (2017).
+\newblock {WebGestalt 2017: a more comprehensive, powerful, flexible and
+  interactive gene set enrichment analysis toolkit}.
+\newblock {\em Nucleic Acids Research}, 45(W1):W130--W137.
+
 \bibitem[Wang et~al., 2016]{Wang2016JointRisk}
 Wang, X., Pandey, A.~K., Mulligan, M.~K., Williams, E.~G., Mozhui, K., Li, Z.,
   Jovaisaite, V., Quarles, L.~D., Xiao, Z., Huang, J., et~al. (2016).
@@ -740,8 +756,8 @@ Wu, Y., Williams, E.~G., Dubuis, S., Mottis, A., Jovaisaite, V., Houten, S.~M.,
   in a mouse reference population.
 \newblock {\em Cell}, 158(6):1415--1430.
 
-\bibitem[WURTMAN and ANTON-TAY, 1969]{WURTMAN1969}
-WURTMAN, R.~J. and ANTON-TAY, F. (1969).
+\bibitem[Wurtman and Anton-Tay, 1969]{WURTMAN1969}
+Wurtman, R.~J. and Anton-Tay, F. (1969).
 \newblock {The Mammalian Pineal as a Neuroendocrine Transducer}.
 \newblock In {\em Proceedings of the 1968 Laurentian Hormone Conference}, pages
   493--522.

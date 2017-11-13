@@ -54,20 +54,19 @@
 \BOOKMARK [2][-]{subsection.4.1.5}{Variance Stabilizing Normalization}{section.4.1}% 54
 \BOOKMARK [2][-]{subsection.4.1.6}{Parameter Estimation}{section.4.1}% 55
 \BOOKMARK [1][-]{section.4.2}{Quality Control}{chapter.4}% 56
-\BOOKMARK [2][-]{subsection.4.2.1}{Tissue Contamination}{section.4.2}% 57
-\BOOKMARK [1][-]{section.4.3}{Transcript Level Fold Changes}{chapter.4}% 58
-\BOOKMARK [1][-]{section.4.4}{ Gene Set Enrichment Analysis }{chapter.4}% 59
-\BOOKMARK [1][-]{section.4.5}{ Multi-Omics Data Integration }{chapter.4}% 60
-\BOOKMARK [2][-]{subsection.4.5.1}{Integrated Analysis of Linoleic acid Oxidation}{section.4.5}% 61
-\BOOKMARK [2][-]{subsection.4.5.2}{Integrated Analysis of Tyrosine Metabolism}{section.4.5}% 62
-\BOOKMARK [1][-]{section.4.6}{Transcripts Conclusion}{chapter.4}% 63
-\BOOKMARK [0][-]{chapter.5}{Future work}{}% 64
-\BOOKMARK [1][-]{section.5.1}{References}{chapter.5}% 65
-\BOOKMARK [0][-]{chapter.6}{Appendix}{}% 66
-\BOOKMARK [1][-]{section.1.6.A}{Metabolite Extraction Kinetics}{chapter.6}% 67
-\BOOKMARK [1][-]{section.1.6.B}{Metabolite Coverage}{chapter.6}% 68
-\BOOKMARK [1][-]{section.1.6.C}{Metabolites Intensities}{chapter.6}% 69
-\BOOKMARK [1][-]{section.1.6.D}{Effects Normalization on Metabolite Data}{chapter.6}% 70
-\BOOKMARK [1][-]{section.1.6.E}{QTL Results}{chapter.6}% 71
-\BOOKMARK [1][-]{section.1.6.F}{Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}{chapter.6}% 72
-\BOOKMARK [1][-]{section.1.6.G}{Appendix: MSEA Metabolite Pathway Enrichment Tables }{chapter.6}% 73
+\BOOKMARK [1][-]{section.4.3}{Transcript Level Fold Changes}{chapter.4}% 57
+\BOOKMARK [1][-]{section.4.4}{ Gene Set Enrichment Analysis }{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.5}{ Multi-Omics Data Integration }{chapter.4}% 59
+\BOOKMARK [2][-]{subsection.4.5.1}{Integrated Analysis of Linoleic acid Oxidation}{section.4.5}% 60
+\BOOKMARK [2][-]{subsection.4.5.2}{Integrated Analysis of Tyrosine Metabolism}{section.4.5}% 61
+\BOOKMARK [1][-]{section.4.6}{Transcriptomics Conclusion}{chapter.4}% 62
+\BOOKMARK [0][-]{chapter.5}{Conclusions and Future work}{}% 63
+\BOOKMARK [1][-]{section.5.1}{References}{chapter.5}% 64
+\BOOKMARK [0][-]{chapter.6}{Appendix}{}% 65
+\BOOKMARK [1][-]{section.1.6.A}{Metabolite Extraction Kinetics}{chapter.6}% 66
+\BOOKMARK [1][-]{section.1.6.B}{Metabolite Coverage}{chapter.6}% 67
+\BOOKMARK [1][-]{section.1.6.C}{Metabolites Intensities}{chapter.6}% 68
+\BOOKMARK [1][-]{section.1.6.D}{Effects Normalization on Metabolite Data}{chapter.6}% 69
+\BOOKMARK [1][-]{section.1.6.E}{QTL Results}{chapter.6}% 70
+\BOOKMARK [1][-]{section.1.6.F}{Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}{chapter.6}% 71
+\BOOKMARK [1][-]{section.1.6.G}{Appendix: MSEA Metabolite Pathway Enrichment Tables }{chapter.6}% 72
