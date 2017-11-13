@@ -1,5 +1,6 @@
 % Main document settings
-\documentclass[a4paper,11pt,twoside]{book}
+%\documentclass[a4paper,11pt,twoside]{book}
+\documentclass[a4paper,11pt]{report}
 
 % Pacakages for Bibtex to work properly]
 \usepackage[allcolors=blue,colorlinks=true]{hyperref}
@@ -613,7 +614,7 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 
 	Clustering is the last method used to quality control the shape of the data. Manhattan hierarchical clustering and Mankowski clustering is used. Ideally, injection replicates, bio-replicates and diet cohorts should cluster together, rather than samples that were extracted in the same batch being clustered together, indicating large batch effects. Hierarchical clustering, k-means and PAM based methods on the raw data may not be sensible when the variables are measured in many orders of magnitudes. Metabolites with the largest ranges get the most weight and might dominate the analysis. As such, the variables can be are scaled and the standard intensities are used for the clustering analysis.
 
-	In figure \ref{Fig:Clustering Analysis} all the samples from Mouse 1481 are clustered together (shown in pink). In orange, all of the replicates for mouse 1270 are clusters together, however, there is a single run that had an error in the injection that is clustered with another mouse strain.  The many biological replicates of C57BL/6J mice are all clustered with their injection replicates, however, the Minkowski distance is much for effective at ascribing these samples to a single cluster. Except for the 1 mouse in this subset, all the other mice are clustered with their injection replicates. Both the Manhattan and Minkowski distances yield the smallest averages distances between, injection replicates, strains, and diets respectively. The clusters of samples in different age cohorts are robustly determined, indicating the metabolites that differ between age cohorts of mice a do not show stark dichotomies as the metabolites that differ between the diet cohorts. As a results age, mice in the same age cohort on ages may not be clustered together using either metric. The cluster analysis yields a satisfactory result, and there is confidence in the data. Thus, more biologically orientated questions can be asked. 
+	In figure \ref{fig:Clustering Analysis} all the samples from Mouse 1481 are clustered together (shown in pink). In orange, all of the replicates for mouse 1270 are clusters together, however, there is a single run that had an error in the injection that is clustered with another mouse strain.  The many biological replicates of C57BL/6J mice are all clustered with their injection replicates, however, the Minkowski distance is much for effective at ascribing these samples to a single cluster. Except for the 1 mouse in this subset, all the other mice are clustered with their injection replicates. Both the Manhattan and Minkowski distances yield the smallest averages distances between, injection replicates, strains, and diets respectively. The clusters of samples in different age cohorts are robustly determined, indicating the metabolites that differ between age cohorts of mice a do not show stark dichotomies as the metabolites that differ between the diet cohorts. As a results age, mice in the same age cohort on ages may not be clustered together using either metric. The cluster analysis yields a satisfactory result, and there is confidence in the data. Thus, more biologically orientated questions can be asked. 
 	
 	\begin{figure}[hbt!]
 		\makebox[\textwidth][c]{ \includegraphics[width=.6\linewidth]{5.Clustering_Results/Clustering_Results_1_Done.pdf} \includegraphics[width=.6\linewidth]{5.Clustering_Results/Clustering_Results_6_Final.pdf}}
@@ -801,7 +802,7 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	
 	\begin{figure}[ht]
 		\centering
-		\includegraphics[width=\linewidth]{3.Proteomics/DIA_SWATH_Principle_2.pdf}
+		\includegraphics[width=1\linewidth]{3.Proteomics/DIA_SWATH_Principle_2.pdf}
 		\caption{Figure adapted from \citep{Gillet2012TargetedAnalysis} \textbf{Top:} Right: DIA M2 spectra of the 700-725 m/z swatch for the peptide WIQDADALFGER Left:The extracted ion chromatogram for the peptides determined using the y10, y8, y4 and y5 overlapping peaks around the 54min elution time\\ \textbf{Bottom:} Right: M2 spectra from the y4 and y10 peaks showing all of the fragmentines from the two fragments break down into when the peptides are isolated and subjected to collision induced dissociation Left: The XIC from for the peptide WIQDADALFGER after scoring and aligning the various MS2 peaks to determine the most likely peak}
 		\label{fig: Complex Spectra XIC}
 	\end{figure}
@@ -829,7 +830,16 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
      
     The protein level intensities are computed by taking the mean intensity the three most intense peptide fragment peaks. As a preliminary quality check, the coefficient variation is computed for the protein level (\ref{CV Analysis Proteomic Data} ). Across all the mice, there is an 8\% coefficient variation. In contrasts to metabolomics where 8\% coefficient variation can be seen in the injection replicates, peptides are more homogeneous in their physiochemical properties and are able to be prepared and analyzed in a more reproducible manner. Additionally, there are many more layers post-processing SWATH data in comparison to shotgun-MS data. The CV for proteins in mice that eat single diet is 5\%. Once the age is controlled for, this dropped even lower to 4\%. Between biological replicates, the variation is minutely allowing for the detection small changes between cohorts.
     
-
+     \subsection{Batch Effects}   
+     
+     \begin{figure}[ht!b]
+     	\centering
+     	\includegraphics[width=0.7\linewidth]{3.Proteomics/protein_batch_effect_figure.pdf}
+     	\includegraphics[width=0.7\linewidth]{"3.Proteomics/Proteomics PCA"}
+     	\caption{ \textbf{Top:} Peptide Intensity densities in the three preparation batches colored by diet. Although diet does not significantly effect the peptide quantifications and the preparation does seen to skew the densities slightly. \\ \textbf{Bottom: } PCA analysis of the proteomic data indicates the first two principle components explain 56\% of the variation seen in the data. Unfortunately, the first principle component separates the data based on the batch}
+     	\label{fig:Proteomics Batch Effects PCA}
+     \end{figure}
+          
 	The principal component analysis (Appendix figure \ref{fig:Proteomics Batch Effects PCA}) of the data shows that large parts of the variation in data come from batch effects, rather than the intrinsic biological heterogeneities between mice. The first two principal components explain 57\% of the variation in the data, the first principle component axis segregating the samples according to their batch numbers. The analysis of the peptides intensity densities between batches shows larger differences than peptides intensity densities across mice on different diets. Similarly, hierarchical crusting analysis(not shown) clusters the mice in batches 1, 2.0 and 2.1 into three distinct clusters. Although batch effects are a problem in proteomics which can be tackled using a range of statistical techniques\citep{Leek2010TacklingBatchEffects}, no such methods of correcting the peptide intensities or correcting p-values generated from statistical tests are used in the subsequent analysis as this data is preliminary.
 		
 
@@ -859,29 +869,20 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
     
   	Random forests are an extension of decision tree methods in which a large collection of de-correlated decision trees are built using random sample selection and then averaged \citep{Hastie2009}. For a given set of data, a subset of the data is randomly chosen and a decision tree is generated. Additionally, a random subsets of variables in the dataset is used for determining the split points in the decision trees. Many noise trees are generated from a random selection of data variables and generate an ensemble of classifications. Each tree in the ensemble gives a vote and a classification is made using a majority vote\citep{Hastie2009}.  
   	
-  	The randomForest forest package in R is used to determine in a mouse sample's to determine the most important proteins cocnentrations for predicting age and diet cohorts \citep{Liaw2015}. Although Random Forests are difficult to interpret simply,\citeauthor{Breiman2001} suggest looking at the missclassification rates in each tree of the out of bag(OOB) samples with and without each variable to determining th \citep{Breiman2001}. This means after each tree is generated the OOB mouse samples are classified with and without certain proteins is computed in order to determine the importance of the protein in the prediciton \citep{Hastie2009}. 
-	
-	\begin{figure}[p]
-		\vspace*{-2cm}
-		\makebox[\linewidth]{
-			\includegraphics[width=1.1\linewidth]{3.Proteomics/Proteomics_Vingette_Random_Forest_Age}
-		}
-		\caption[Random Forest Classifier for Young and Old Mice]{In the top left panel, the ROC curves for various model sizes are given, along with its AUC and the 95\% condifence intervals. In the top right, the Dark and white dots are given in terms thier classificiation probabbiliy. In the Middle row, the ROC curves for 5 and 25 protein are given. In the Bottom left, the most frequeny chose factors are given. These factors are seen as prototypic for aging and will be followed up with in further analysis using transcript data. In the bottom rightm the accuracy for each model size is given}		
-	\end{figure}
+  	The randomForest forest package in R is used to determine in a mouse sample's to determine the most important proteins cocnentrations for predicting age and diet cohorts \citep{Liaw2015}. Although Random Forests are difficult to interpret simply,\citeauthor{Breiman2001} suggest looking at the missclassification rates in each tree of the out of bag(OOB) samples with and without each variable to determining th \citep{Breiman2001}. This means after each tree is generated the OOB mouse samples are classified with and without certain proteins is computed in order to determine the importance of the protein in the prediction \citep{Hastie2009}. 
 	
 	
 	\begin{figure}[htb!]
 		\vspace*{-2cm}
 		\makebox[\linewidth]{
 		\includegraphics[width=1.1\linewidth]{3.Proteomics/Proteomics_Vingette_Random_Forest_Age}
-<<<<<<< HEAD
+
 		}		
-		\caption[Random Forest Classifier for Young and Old Mice]{In the top left panel, the ROC curves for various model sizes are given, along with its AUC and the 95\% condifence intervals. In the top right, the Dark and white dots are given in terms thier classificiation probabbiliy. In the Middle row, the ROC curves for 5 and 25 protein are given. In the Bottom left, the most frequeny chose factors are given. These factors are seen as prototypic for aging and will be followed up with in further analysis using transcript data. In the bottom rightm the accuracy for each model size is given}
-		\label{fig:proteomicsvingetterandomforestage}
-=======
+
+
         \caption[Random Forest Classifier for Young and Old Mice]{In the top left panel, the ROC curves for various model sizes are given, along with its AUC and the 95\% confidence intervals. In the top right, the Dark and white dots are given in terms their classification probability. In the Middle row, the ROC curves for 5 and 25 proteins are given. In the Bottom left, the most frequency chose factors are given. These factors are seen as prototypic for aging and will be followed up with in further analysis using transcript data. In the bottom right the accuracy for each model size is given} 
         \label{fig:proteomicsvingetterandomforestage} 
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+
 	\end{figure}
 	
 	\clearpage
@@ -934,7 +935,7 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	
 	Many traditional statical methodologies such as t-tests which will be performed on the microarray data afterwards are based on the assumption normally distribution or at least symmetrically distributed data, with constant variance. if the assumptions are violated . All the follow model based normalization techniques are adapted from \citep{Durbin2002}. 
 	\subsection{Model Based Error Subtraction}
-	An Error model is required to remove the non-biological noise from the system. in our model we assume 
+	An error model is required to remove the non-biological noise from the system. in our model we assume 
 	
 	\begin{align*}
 	\text{if : }  & x_ki & \text{is the true abundance the probe k in sample i} \\
@@ -1018,6 +1019,28 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 	
 	The coefficients of variation in the RNA data are as much larger than those seen in the protein and metabolites. This due to the many order of magnitude over which different transcripts can be produced. The biological replicates themselves show nearly a 100\% coefficient of variation indicating large fold changes are needed to reliably detect differences in the transcription between mouse cohorts. 
 	
+	\subsection{Tissue Contamination}
+	
+    One of the biggest challenges with analyzing transcriptomics data from organs or samples containing more than one cell type is the effect of variations that come from changing proportions of cell types within each sample. Although liver is a large relatively homogeneous organ, overwhelmingly made up of hepatocytes, there are also a range of endothelial cells which make up parts of the vasculature that supply blood to and from the liver, it and a host of invading immune cells that are present in almost all tissues irrespective of the inflammation state of the animal. All of these cells that influence the gene expression patterns independent of the effects being studied and may lead to a perceived enrichment of certain gene pathways, when we are simply assay different cells. This is a complication encountered in this study because specific lobes of the liver are not always used for the same omics analysis, instead, the livers are ground in liquid nitrogen, with the resulting powder being partitioned into many aliquots with slightly different portions of each lobe. 
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=1\linewidth]{3.Trancriptomics/BioQCPoint.png}
+		\caption{BioQC data showing the organ classes the BXD mouse samples are mostly to come from. Most sample show high liver signatures, however there is evidence for a high degree of immune cell infiltration in many samples}
+		\label{fig:bioqcpoint}
+	\end{figure}
+	
+    BioQC is a package developed at Roche that quantifies samples based on their resemblances to organs and provides a quantitative method with which to determine the context of samples and their comparability \citep*{Zhang2017}. This package uses manually curated gene signatures that are prototypic for 150 tissues types or organs, and in some cases, a an organ in a single development state (embryonic and mature kidney have varying transcript levels in many genes) which are used determine organ scores for each sample. This method has the distinct advantage over unsupervised learning techniques like PCA which can be used to visualize and manually inspect the distance between two samples but does not show the source of the contamination \citep{Zhang2017}. As can be seen in figure \ref{fig:bioqcpoint} in the BXD mouse samples, all of the liver samples have high mature liver scores above 80 followed by intermediate embryonic liver scores and lower scores for adipose tissue and monocytes which make up minority constituents of the samples. The two mature liver scores were given, Liver NGS, which is derived from the RNAseq Atlas\citep{Krupp2012}) and Liver NR, derived from an in-house Roche liver panel, show similar results with concomitant drops in scores for samples 18, 33, 62 and 80. The Liver NGS score is more specific to humans and gives lower scores as compared to liver NR. 
+
+	Overall, one can conclude a low amount of contamination for the expectation of four samples in the first 96. In the heat-map visualizing the same data(figure \ref{fig:bioqcheatmap}), one can see the large areas of dark blue indicating low BioQC scores for cell types such are brown fat and microglia. One sample, 62 does not have any organ enrichment score, indicating either technical error. The other samples can be roughly grouped into two categories of liver cells. The minority group which for lower liver scores using the Roche and NGS panel on average and have high scores for immune cells like macrophages, granulocytes, and lymphocytes. Immune cells surveillance is well documented in the liver, as portal circulation bring disgested material directly to the liver where it can act as a frontline defense for materials entering circulation to the rest of the body\citep{Jenne2013}. These mice most likely have an infection or have eaten something that contained immunogenic material. The rest of the samples show very high liver scores, meaning there has high expression of genes that are expressed in normal human liver. 
+	  
+    \begin{figure}[htb!]
+    	\centering
+    	\includegraphics[width=0.9\linewidth]{3.Trancriptomics/BioQCHeatmap.png}
+    	\caption{Heatmap of BioQC scores for the 96 samples. Most of the samples show high BioQC scores indicating, genes known to be expressed selectively in liver are detected in most of samples. BioQC scores for immune cells are also detected, indicating the presence of infiltrating cell in the samples as well}
+    	\label{fig:bioqcheatmap}
+    \end{figure}
+    
 	\section{Transcript Level Fold Changes}
 	
 	\begin{figure}[ht!]
@@ -1027,7 +1050,9 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 		\label{volcano plot: Diet and Age related Transcript Foldchanges }
 	\end{figure}
 	
-    In a dramatic reversal from the proteomic and metabolomic data, the transcript data is highly enriched with differentially expressed transcripts between older and younger mice. Much like the proteomic data, too many hits are found using the a 0.05 threshold for significance and a 1 fold log fold2 change. Such a large set of traits can be difficult to follow up with literature reviews and QTL analysis. As such all of the transcripts enriched in the old mice, are added to networks previously used to investigate metabolites and protein data. The goal for this integrated analysis is to determine causal circuits for the certain metabolite concentrations in the liver.
+    In a dramatic reversal from the proteomic and metabolomic data, the transcript data is highly enriched with differentially expressed transcripts between older and younger mice. Much like the proteomic data, too many hits are found using the a of 0.05 threshold for significance and a 1 fold log fold2 change. Such a large set of traits can be difficult to follow up with literature reviews and QTL analysis. As such all of the transcripts enriched in the old mice, are added to networks previously used to investigate metabolites and protein data. The goal for this integrated analysis is to determine causal circuits for the certain metabolite concentrations in the liver.
+	
+	As an initial look at the relationship between the three layers information we have, one can look at the correlation between proteins and transcripts and realize that they are not very tightly coupled. For the few very highly correlated sets protein and transcripts, many are metabolic genes such as hexokinase. From this one can conclude that even though not all pairs protein and transcript will be instructive and add an explanatory information for certain metabolites levels seen, they may be in a small subset of metabolites.  
 	
 	\begin{figure}[htb!]
 		\centering
@@ -1036,7 +1061,16 @@ A bootstrapping sub-sampling method is used to generate the coefficient of varia
 		\label{fig:proteinrnacorr}
 	\end{figure}
 	
-	As an initial look at the relationship between the three layers information we have, one can look at the correlation between proteins and transcripts and realize that they are not very tightly coupled. For the few very highly correlated sets protein and transcripts, many are metabolic genes such as hexokinase. From this one can conclude that even though not all pairs protein and transcript will be instructive and add an explanatory information for certain metabolites levels seen, they may be in a small subset of metabolites.  
+	\section{ Gene Set Enrichment Analysis }
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=\linewidth]{3.Trancriptomics/GSEA}
+		\caption{}
+		\label{fig:gsea}
+	\end{figure}
+	
+	
 	
 	\section{ Multi-Omics Data Integration }
 
@@ -1151,14 +1185,6 @@ This has truly been an ephemeral and yet transformative experience.
 \clearpage
 
 
-\section{Batch Effects in Protein Data}
-\begin{figure}[ht!b]
-	\centering
-	\includegraphics[width=0.7\linewidth]{3.Proteomics/protein_batch_effect_figure.pdf}
-	\includegraphics[width=0.7\linewidth]{"3.Proteomics/Proteomics PCA"}
-	\caption{ \textbf{Top:} Peptide Intensity densities in the three preparation batches colored by diet. Although diet does not significantly effect the peptide quantifications and the preparation does seen to skew the densities slightly. \\ \textbf{Bottom: } PCA analysis of the proteomic data indicates the first two principle components explain 56\% of the variation seen in the data. Unfortunately, the first principle component separates the data based on the batch}
-	\label{fig:Proteomics Batch Effects PCA}
-\end{figure}
 
 \section{Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}
 

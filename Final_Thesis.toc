@@ -1,91 +1,26 @@
-\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
-\contentsline {section}{\numberline {1.1}Project Outline}{10}{section.1.1}
-\contentsline {section}{\numberline {1.2}Gene-Function Paradigms}{12}{section.1.2}
-\contentsline {section}{\numberline {1.3}Reverse and Forward genetics}{14}{section.1.3}
-\contentsline {section}{\numberline {1.4}Systems Approach to Complex Trait Analysis}{16}{section.1.4}
-\contentsline {section}{\numberline {1.5}Heritability}{18}{section.1.5}
-\contentsline {section}{\numberline {1.6}Studying Heredity in Model Organism Populations}{20}{section.1.6}
-\contentsline {section}{\numberline {1.7}What is QTL Analysis?}{22}{section.1.7}
-\contentsline {section}{\numberline {1.8}QTL vs. GWAS}{25}{section.1.8}
-\contentsline {section}{\numberline {1.9}RI Mouse Population for GxE}{26}{section.1.9}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {1.10}Study Design}{28}{section.1.10}
-\contentsline {subsection}{\numberline {1.10.1}Model Mouse Population: BXD Mice}{28}{subsection.1.10.1}
-\contentsline {subsection}{\numberline {1.10.2}Mouse Diets: Components of Chow and High Fat Diet}{29}{subsection.1.10.2}
-\contentsline {subsection}{\numberline {1.10.3}Mouse Sex: Male and Female Mouse considerations}{30}{subsection.1.10.3}
-\contentsline {section}{\numberline {1.11}Why Multiple Omics}{31}{section.1.11}
-\contentsline {chapter}{\numberline {2}Metabolomics}{34}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction to Non-Targeted Metabolomics}{34}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Metabolomics Methods}{36}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}Metabolite Extraction Protocol \& Optimization}{37}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Optimization Objectives}{38}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}Pilot Study 1}{39}{section.2.3}
-\contentsline {section}{\numberline {2.4}Pilot Study 1 Results}{42}{section.2.4}
-\contentsline {section}{\numberline {2.5}Pilot Study 2}{44}{section.2.5}
-\contentsline {section}{\numberline {2.6}Metabolite Data Acquisition and Handling}{55}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Raw Data Acquisition and Processing}{55}{subsection.2.6.1}
-\contentsline {section}{\numberline {2.7}Data Analysis}{59}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Normalization of Metabolite Data}{59}{subsection.2.7.1}
-\contentsline {subsection}{\numberline {2.7.2}Quality Control}{59}{subsection.2.7.2}
-\contentsline {section}{\numberline {2.8}Analysis of Metabolic Data}{65}{section.2.8}
-\contentsline {subsection}{\numberline {2.8.1}Metabolite Fold Changes}{65}{subsection.2.8.1}
-\contentsline {section}{\numberline {2.9}QTL Analysis}{68}{section.2.9}
-\contentsline {section}{\numberline {2.10}Metabolite Set Analysis}{73}{section.2.10}
-\contentsline {chapter}{\numberline {3}Proteomics}{77}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction to MS Proteomics}{77}{section.3.1}
-\contentsline {subsubsection}{Proteome Data acquisition Paradigms}{78}{figure.caption.37}
-\contentsline {subsubsection}{DIA SWATH Operation}{82}{figure.caption.39}
-\contentsline {subsection}{\numberline {3.1.1}Extracting Peptide Chromatograms}{83}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}SWATH MS for BXD Mouse Liver Proteomics}{84}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}DDA Spectral Library Generation}{85}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Experimental Proteomics Protocol}{88}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Data Analysis}{90}{section.3.2}
-\contentsline {section}{\numberline {3.3}Quality Control}{91}{section.3.3}
-\contentsline {section}{\numberline {3.4}Proteomics Fold-change Analysis}{92}{section.3.4}
-\contentsline {section}{\numberline {3.5}Protein Biomarkers}{93}{section.3.5}
-\contentsline {section}{\numberline {3.6}ROC Curves}{93}{section.3.6}
-\contentsline {section}{\numberline {3.7}Random Forest}{94}{section.3.7}
-\contentsline {section}{\numberline {3.8}Support Vector Machine}{98}{section.3.8}
-\contentsline {section}{\numberline {3.9}Conclusions From Proteomics}{98}{section.3.9}
-\contentsline {chapter}{\numberline {4}Transcriptomics}{100}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction to Micro-arrays}{100}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Transcriptomics Data Processing}{101}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Data Extraction}{102}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Normalization}{103}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Model Based Error Subtraction}{103}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Variance Stabilizing Normalization}{106}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Parameter Estimation}{107}{subsection.4.1.6}
-\contentsline {section}{\numberline {4.2}Quality Control}{108}{section.4.2}
-\contentsline {section}{\numberline {4.3}Transcript Level Fold Changes}{109}{section.4.3}
-\contentsline {section}{\numberline {4.4} Multi-Omics Data Integration }{110}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Integrated Analysis of Linoleic acid Oxidation}{110}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Integrated Analysis of Tyrosine Metabolism}{112}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Transcripts Conclusion}{115}{section.4.5}
-\contentsline {chapter}{\numberline {5}Future work}{116}{chapter.5}
-\contentsline {section}{\numberline {5.1}References}{117}{section.5.1}
-\contentsline {chapter}{\numberline {6}Appendix}{135}{chapter.6}
-\contentsline {section}{\numberline {6.A}Metabolite Extraction Kinetics}{135}{section.1.6.A}
-\contentsline {section}{\numberline {6.B}Metabolite Coverage}{137}{section.1.6.B}
-\contentsline {section}{\numberline {6.C}Metabolites Intensities}{138}{section.1.6.C}
-\contentsline {section}{\numberline {6.D}Effects Normalization on Metabolite Data}{139}{section.1.6.D}
-\contentsline {section}{\numberline {6.E}QTL Results}{140}{section.1.6.E}
-\contentsline {section}{\numberline {6.F}Batch Effects in Protein Data}{141}{section.1.6.F}
-\contentsline {section}{\numberline {6.G}Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}{141}{section.1.6.G}
-\contentsline {section}{\numberline {6.H}Appendix: MSEA Metabolite Pathway Enrichment Tables }{146}{section.1.6.H}
-=======
+\contentsline {chapter}{\numberline {1}Introduction}{8}{chapter.1}
+\contentsline {section}{\numberline {1.1}Project Outline}{9}{section.1.1}
+\contentsline {section}{\numberline {1.2}Gene-Function Paradigms}{11}{section.1.2}
+\contentsline {section}{\numberline {1.3}Reverse and Forward genetics}{13}{section.1.3}
+\contentsline {section}{\numberline {1.4}Systems Approach to Complex Trait Analysis}{15}{section.1.4}
+\contentsline {section}{\numberline {1.5}Heritability}{17}{section.1.5}
+\contentsline {section}{\numberline {1.6}Studying Heredity in Model Organism Populations}{19}{section.1.6}
+\contentsline {section}{\numberline {1.7}What is QTL Analysis?}{21}{section.1.7}
+\contentsline {section}{\numberline {1.8}QTL vs. GWAS}{24}{section.1.8}
+\contentsline {section}{\numberline {1.9}RI Mouse Population for GxE}{25}{section.1.9}
 \contentsline {section}{\numberline {1.10}Study Design}{27}{section.1.10}
 \contentsline {subsection}{\numberline {1.10.1}Model Mouse Population: BXD Mice}{27}{subsection.1.10.1}
-\contentsline {subsection}{\numberline {1.10.2}Mouse Diets: Components of Chow and High Fat diet}{28}{subsection.1.10.2}
+\contentsline {subsection}{\numberline {1.10.2}Mouse Diets: Components of Chow and High Fat Diet}{28}{subsection.1.10.2}
 \contentsline {subsection}{\numberline {1.10.3}Mouse Sex: Male and Female Mouse considerations}{29}{subsection.1.10.3}
 \contentsline {section}{\numberline {1.11}Why Multiple Omics}{30}{section.1.11}
 \contentsline {chapter}{\numberline {2}Metabolomics}{33}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction to Non-Targeted Metabolomics}{33}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Metabolomics Methods}{35}{subsection.2.1.1}
-\contentsline {section}{\numberline {2.2}Metabolite Extraction Protocol \& Optimization}{38}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Optimization Objectives}{39}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}Pilot Study 1}{40}{section.2.3}
-\contentsline {section}{\numberline {2.4}Pilot Study 1 Results}{43}{section.2.4}
-\contentsline {section}{\numberline {2.5}Pilot Study 2}{48}{section.2.5}
+\contentsline {section}{\numberline {2.2}Metabolite Extraction Protocol \& Optimization}{36}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Optimization Objectives}{37}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Pilot Study 1}{38}{section.2.3}
+\contentsline {section}{\numberline {2.4}Pilot Study 1 Results}{41}{section.2.4}
+\contentsline {section}{\numberline {2.5}Pilot Study 2}{43}{section.2.5}
 \contentsline {section}{\numberline {2.6}Metabolite Data Acquisition and Handling}{54}{section.2.6}
 \contentsline {subsection}{\numberline {2.6.1}Raw Data Acquisition and Processing}{54}{subsection.2.6.1}
 \contentsline {section}{\numberline {2.7}Data Analysis}{58}{section.2.7}
@@ -97,43 +32,44 @@
 \contentsline {section}{\numberline {2.10}Metabolite Set Analysis}{72}{section.2.10}
 \contentsline {chapter}{\numberline {3}Proteomics}{76}{chapter.3}
 \contentsline {section}{\numberline {3.1}Introduction to MS Proteomics}{76}{section.3.1}
-\contentsline {subsubsection}{Proteome Data acquisition Paradigms}{77}{figure.caption.36}
-\contentsline {subsubsection}{DIA SWATH Operation}{81}{figure.caption.38}
+\contentsline {subsubsection}{Proteome Data acquisition Paradigms}{77}{figure.caption.37}
+\contentsline {subsubsection}{DIA SWATH Operation}{81}{figure.caption.39}
 \contentsline {subsection}{\numberline {3.1.1}Extracting Peptide Chromatograms}{82}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}SWATH MS for BXD Mouse Liver Proteomics}{83}{subsection.3.1.2}
 \contentsline {subsection}{\numberline {3.1.3}DDA Spectral Library Generation}{84}{subsection.3.1.3}
 \contentsline {subsection}{\numberline {3.1.4}Experimental Proteomics Protocol}{87}{subsection.3.1.4}
 \contentsline {section}{\numberline {3.2}Data Analysis}{89}{section.3.2}
 \contentsline {section}{\numberline {3.3}Quality Control}{90}{section.3.3}
-\contentsline {section}{\numberline {3.4}Proteomics Fold-change Analysis}{91}{section.3.4}
-\contentsline {section}{\numberline {3.5}Protein Biomarkers}{92}{section.3.5}
-\contentsline {section}{\numberline {3.6}ROC Curves}{92}{section.3.6}
-\contentsline {section}{\numberline {3.7}Random Forest}{93}{section.3.7}
-\contentsline {section}{\numberline {3.8}Support Vector Machine}{96}{section.3.8}
-\contentsline {section}{\numberline {3.9}Conclusions From Proteomics}{96}{section.3.9}
-\contentsline {chapter}{\numberline {4}Transcriptomics}{98}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction to Micro-arrays}{98}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Transcriptomics Data Processing}{99}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Data Extraction}{100}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Normalization}{101}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Model Based Error Subtraction}{101}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Variance Stabilizing Normalization}{104}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Parameter Estimation}{105}{subsection.4.1.6}
-\contentsline {section}{\numberline {4.2}Quality Control}{106}{section.4.2}
-\contentsline {section}{\numberline {4.3}Transcript Level Fold Changes}{106}{section.4.3}
-\contentsline {section}{\numberline {4.4} Multi-Omics Data Integration }{108}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Integrated Analysis of Linoleic acid Oxidation}{108}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Integrated Analysis of Tyrosine Metabolism}{110}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Transcripts Conclusion}{112}{section.4.5}
-\contentsline {chapter}{\numberline {5}Future work}{114}{chapter.5}
-\contentsline {section}{\numberline {5.1}References}{115}{section.5.1}
-\contentsline {chapter}{\numberline {6}Appendix}{133}{chapter.6}
-\contentsline {section}{\numberline {6.A}Metabolite Extraction Kinetics}{133}{section.1.6.A}
-\contentsline {section}{\numberline {6.B}Metabolite Coverage}{135}{section.1.6.B}
-\contentsline {section}{\numberline {6.C}Metabolites Intensities}{136}{section.1.6.C}
-\contentsline {section}{\numberline {6.D}Effects Normalization on Metabolite Data}{137}{section.1.6.D}
-\contentsline {section}{\numberline {6.E}QTL Results}{138}{section.1.6.E}
-\contentsline {section}{\numberline {6.F}Batch Effects in Protein Data}{139}{section.1.6.F}
-\contentsline {section}{\numberline {6.G}Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}{139}{section.1.6.G}
-\contentsline {section}{\numberline {6.H}Appendix: MSEA Metabolite Pathway Enrichment Tables }{144}{section.1.6.H}
->>>>>>> f83ac35aa88ca1a19860f106f52e21e266dde4e7
+\contentsline {subsection}{\numberline {3.3.1}Batch Effects}{90}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Proteomics Fold-change Analysis}{92}{section.3.4}
+\contentsline {section}{\numberline {3.5}Protein Biomarkers}{93}{section.3.5}
+\contentsline {section}{\numberline {3.6}ROC Curves}{93}{section.3.6}
+\contentsline {section}{\numberline {3.7}Random Forest}{94}{section.3.7}
+\contentsline {section}{\numberline {3.8}Support Vector Machine}{97}{section.3.8}
+\contentsline {section}{\numberline {3.9}Conclusions From Proteomics}{97}{section.3.9}
+\contentsline {chapter}{\numberline {4}Transcriptomics}{99}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction to Micro-arrays}{99}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Transcriptomics Data Processing}{100}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Data Extraction}{101}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Normalization}{102}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Model Based Error Subtraction}{102}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Variance Stabilizing Normalization}{105}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Parameter Estimation}{106}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Quality Control}{107}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Tissue Contamination}{107}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Transcript Level Fold Changes}{110}{section.4.3}
+\contentsline {section}{\numberline {4.4} Gene Set Enrichment Analysis }{112}{section.4.4}
+\contentsline {section}{\numberline {4.5} Multi-Omics Data Integration }{112}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Integrated Analysis of Linoleic acid Oxidation}{112}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Integrated Analysis of Tyrosine Metabolism}{115}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Transcripts Conclusion}{117}{section.4.6}
+\contentsline {chapter}{\numberline {5}Future work}{119}{chapter.5}
+\contentsline {section}{\numberline {5.1}References}{120}{section.5.1}
+\contentsline {chapter}{\numberline {6}Appendix}{139}{chapter.6}
+\contentsline {section}{\numberline {6.A}Metabolite Extraction Kinetics}{139}{section.1.6.A}
+\contentsline {section}{\numberline {6.B}Metabolite Coverage}{141}{section.1.6.B}
+\contentsline {section}{\numberline {6.C}Metabolites Intensities}{142}{section.1.6.C}
+\contentsline {section}{\numberline {6.D}Effects Normalization on Metabolite Data}{143}{section.1.6.D}
+\contentsline {section}{\numberline {6.E}QTL Results}{144}{section.1.6.E}
+\contentsline {section}{\numberline {6.F}Appendix: Summary Statistics of Metabolite, Protein and Transcript Data}{145}{section.1.6.F}
+\contentsline {section}{\numberline {6.G}Appendix: MSEA Metabolite Pathway Enrichment Tables }{148}{section.1.6.G}
